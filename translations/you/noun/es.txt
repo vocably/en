@@ -1,0 +1,5 @@
+tú
+usted
+vosotros
+ustedes
+vos

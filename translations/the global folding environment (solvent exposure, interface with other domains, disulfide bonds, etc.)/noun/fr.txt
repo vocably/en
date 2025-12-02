@@ -1,0 +1,4 @@
+l'interface d'exposition au solvant de l'environnement global de repliement avec d'autres domaines, liaisons disulfure, etc.
+l'interface de l'exposition au solvant de l'environnement de repliement global avec d'autres domaines, ponts disulfure, etc.
+l'interface d'exposition au solvant de l'environnement global de repliement avec d'autres domaines, ponts disulfure, etc.
+l'interface de l'exposition au solvant de l'environnement global de repliement avec d'autres domaines, liaisons disulfure, etc.

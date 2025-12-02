@@ -1,0 +1,4 @@
+emplacement
+localisation
+lieu
+endroit

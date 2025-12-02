@@ -1,0 +1,4 @@
+arte
+oficio
+nave
+embarcación

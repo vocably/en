@@ -1,0 +1,4 @@
+kapsam
+boyut
+derece
+ölçü

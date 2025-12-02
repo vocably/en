@@ -1,0 +1,1 @@
+{"source":"code smell","number":"singular","lemma":"code smell","lemmaPos":"noun","definitions":["any characteristic in the source code of a program that possibly indicates a deeper problem"],"examples":["Refactoring can help eliminate code smells.","Code smells often lead to technical debt."],"synonyms":["anti-pattern","bad code","technical debt"],"transcript":"koʊd smɛl"}

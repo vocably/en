@@ -1,0 +1,3 @@
+equipo
+engranaje
+marcha

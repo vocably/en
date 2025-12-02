@@ -1,0 +1,4 @@
+etkinlik
+olay
+hadise
+vaka

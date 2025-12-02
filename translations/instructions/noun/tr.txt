@@ -1,0 +1,3 @@
+talimatlar
+yönergeler
+direktifler

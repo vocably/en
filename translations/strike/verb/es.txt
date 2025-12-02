@@ -1,0 +1,6 @@
+golpear
+atacar
+huelga
+encender
+dar
+tocar

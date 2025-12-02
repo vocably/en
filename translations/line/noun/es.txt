@@ -1,0 +1,5 @@
+línea
+fila
+cola
+raya
+verso

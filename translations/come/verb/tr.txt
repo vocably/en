@@ -1,0 +1,10 @@
+gel
+geldi
+geliyor
+gelecek
+gelirdi
+gelmiş
+geliyordu
+gelecekti
+gelmişti
+gelir

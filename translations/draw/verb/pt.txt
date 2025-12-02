@@ -1,0 +1,3 @@
+desenhar
+sacar
+extrair

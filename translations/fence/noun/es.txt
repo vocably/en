@@ -1,0 +1,4 @@
+cerca
+valla
+muro
+empalizada

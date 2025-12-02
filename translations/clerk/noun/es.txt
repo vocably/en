@@ -1,0 +1,3 @@
+empleado
+oficinista
+dependiente

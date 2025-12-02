@@ -1,0 +1,4 @@
+tensión
+rigidez
+ajuste
+estrechez

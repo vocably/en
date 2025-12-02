@@ -1,0 +1,4 @@
+seviye
+düzey
+kademe
+aşama

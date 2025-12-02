@@ -1,0 +1,5 @@
+entorno
+ajuste
+escenario
+configuración
+marco

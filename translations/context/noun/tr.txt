@@ -1,0 +1,3 @@
+bağlam
+kapsam
+kontekst

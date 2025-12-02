@@ -1,0 +1,3 @@
+en ufak
+en küçük
+en hafif

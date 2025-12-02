@@ -1,0 +1,4 @@
+terim
+dönem
+süre
+ifade

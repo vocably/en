@@ -1,0 +1,3 @@
+bağımlılık
+bağımlı olma
+bağımlı durum

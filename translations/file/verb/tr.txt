@@ -1,0 +1,4 @@
+dosyalamak
+sıralamak
+düzeltmek
+kaydetmek

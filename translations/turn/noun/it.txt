@@ -1,0 +1,4 @@
+turno
+svolta
+giro
+volta

@@ -1,0 +1,2 @@
+parce que la plupart des séquences sont aa, votre classificateur verra naturellement plus d'exemples de résidus dans cette gamme de longueurs.
+étant donné que la plupart des séquences sont aa, votre classificateur verra naturellement plus d'exemples de résidus dans cette gamme de longueurs.

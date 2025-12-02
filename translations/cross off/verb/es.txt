@@ -1,0 +1,3 @@
+tachar
+eliminar
+borrar

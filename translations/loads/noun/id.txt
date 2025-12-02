@@ -1,0 +1,3 @@
+beban
+muatan
+tumpukan

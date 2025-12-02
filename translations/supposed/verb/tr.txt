@@ -1,0 +1,3 @@
+varsayılan
+sanılan
+beklenen

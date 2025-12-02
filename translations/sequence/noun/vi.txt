@@ -1,0 +1,3 @@
+trình tự
+chuỗi
+dãy

@@ -1,0 +1,2 @@
+precisión
+exactitud

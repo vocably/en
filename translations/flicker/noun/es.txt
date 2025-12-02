@@ -1,0 +1,3 @@
+parpadeo
+destello
+chispa

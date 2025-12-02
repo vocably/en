@@ -1,0 +1,3 @@
+luas
+besar
+lebar

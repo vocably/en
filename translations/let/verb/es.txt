@@ -1,0 +1,4 @@
+dejar
+permitir
+alquilar
+arrendar

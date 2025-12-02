@@ -1,0 +1,5 @@
+poco
+trozo
+pedazo
+pieza
+fragmento

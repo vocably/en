@@ -1,0 +1,2 @@
+giriş/çıkış hatası
+io hatası

@@ -1,0 +1,4 @@
+pagar
+ajustar cuentas
+liquidar
+saldar

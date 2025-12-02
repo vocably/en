@@ -1,0 +1,4 @@
+başlatmak
+sunmak
+yaymak
+açmak

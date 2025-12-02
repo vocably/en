@@ -1,0 +1,4 @@
+pico
+clavo
+espiga
+pincho

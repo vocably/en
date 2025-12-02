@@ -1,0 +1,1 @@
+{"source":"IIFE","number":"singular","lemma":"IIFE","lemmaPos":"noun","definitions":["An immediately invoked function expression, a JavaScript programming pattern where a function is executed right after its definition."],"examples":["() => {}()","(function() {})()"],"synonyms":["self-executing anonymous function"],"transcript":"ˈɪfi"}

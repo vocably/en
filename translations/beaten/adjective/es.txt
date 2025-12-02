@@ -1,0 +1,3 @@
+golpeado
+vencido
+derrotado

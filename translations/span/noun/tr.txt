@@ -1,0 +1,4 @@
+süre
+mesafe
+açıklık
+gerginlik

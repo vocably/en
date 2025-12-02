@@ -1,0 +1,4 @@
+nokta
+puan
+uç
+husus

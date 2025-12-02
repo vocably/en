@@ -1,0 +1,4 @@
+dibujar
+sacar
+trazar
+extraer

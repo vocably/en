@@ -1,0 +1,3 @@
+cartella
+borsa
+sacca

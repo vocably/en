@@ -1,0 +1,2 @@
+carregador de notebook
+carregador de portátil

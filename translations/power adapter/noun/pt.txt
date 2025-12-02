@@ -1,0 +1,4 @@
+carregador
+adaptador de energia
+adaptador de corrente
+adaptador de alimentação

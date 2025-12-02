@@ -1,0 +1,4 @@
+recoger
+levantar
+buscar
+colectar

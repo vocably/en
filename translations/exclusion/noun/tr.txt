@@ -1,0 +1,3 @@
+dışlama
+hariç tutma
+istisna

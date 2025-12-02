@@ -1,0 +1,4 @@
+número
+cantidad
+cifra
+número musical

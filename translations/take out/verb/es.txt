@@ -1,0 +1,4 @@
+sacar
+llevar
+quitar
+extraer

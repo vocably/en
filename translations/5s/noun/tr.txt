@@ -1,0 +1,3 @@
+sıfat
+isim
+harf

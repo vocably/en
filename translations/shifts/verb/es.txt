@@ -1,0 +1,4 @@
+cambia
+desplaza
+mueve
+traslada

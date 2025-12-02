@@ -1,0 +1,2 @@
+kenar yarıçapı
+sınır yarıçapı

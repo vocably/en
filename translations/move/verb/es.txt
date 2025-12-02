@@ -1,0 +1,8 @@
+mover
+moverse
+trasladar
+trasladarse
+cambiar
+cambiarse
+desplazar
+desplazarse

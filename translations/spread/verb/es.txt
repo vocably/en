@@ -1,0 +1,4 @@
+extender
+esparcir
+propagar
+untar

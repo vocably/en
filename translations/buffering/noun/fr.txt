@@ -1,0 +1,2 @@
+mise en mémoire tampon
+mise en cache

@@ -1,0 +1,4 @@
+pinchar
+clavar
+aumentar
+incrementar

@@ -1,0 +1,3 @@
+pedra
+rocha
+rock

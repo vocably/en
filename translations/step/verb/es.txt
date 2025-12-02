@@ -1,0 +1,5 @@
+pisar
+dar un paso
+avanzar
+subir
+bajar

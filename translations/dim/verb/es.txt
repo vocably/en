@@ -1,0 +1,4 @@
+atenuar
+oscurecer
+bajar
+disminuir

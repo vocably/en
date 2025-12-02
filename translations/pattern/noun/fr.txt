@@ -1,0 +1,4 @@
+motif
+schéma
+modèle
+patron

@@ -1,0 +1,4 @@
+bicho
+insecto
+error
+fallo

@@ -1,0 +1,4 @@
+golpeado
+lastimado
+herido
+dañado

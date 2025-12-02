@@ -1,0 +1,4 @@
+dibuja
+atrae
+saca
+tira

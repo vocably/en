@@ -1,0 +1,4 @@
+rodar
+enrollar
+girar
+voltear

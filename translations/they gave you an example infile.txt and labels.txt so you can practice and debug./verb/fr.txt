@@ -1,0 +1,2 @@
+ils vous ont donné un exemple dans un fichier txt et des étiquettes txt pour que vous puissiez pratiquer et déboguer.
+on vous a donné un exemple dans un fichier txt et des étiquettes txt pour que vous puissiez pratiquer et déboguer.

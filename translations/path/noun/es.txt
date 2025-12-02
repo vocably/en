@@ -1,0 +1,4 @@
+camino
+sendero
+ruta
+vereda

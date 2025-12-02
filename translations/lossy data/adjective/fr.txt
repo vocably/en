@@ -1,0 +1,3 @@
+données avec perte
+données compressées avec perte
+données dégradées

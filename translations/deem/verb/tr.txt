@@ -1,0 +1,3 @@
+saymak
+varsaymak
+kabul etmek

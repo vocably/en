@@ -1,0 +1,1 @@
+{"source":"npx","number":"singular","lemma":"npx","lemmaPos":"noun","definitions":["A package runner tool that comes with npm 5.2+ and higher.","A command-line tool used to execute Node.js packages."],"examples":["Use npx to run a package without installing it globally.","npx create-react-app my-app"],"synonyms":["package runner","command-line tool"],"transcript":"ˈɛnˌpiːˈɛks"}

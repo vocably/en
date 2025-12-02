@@ -1,0 +1,4 @@
+perspective
+vue
+opinion
+prévision

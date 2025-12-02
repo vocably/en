@@ -1,0 +1,4 @@
+verildi
+yayınlandı
+çıkarıldı
+dağıtıldı

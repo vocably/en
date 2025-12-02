@@ -1,0 +1,2 @@
+vnitřní šev
+délka vnitřního švu

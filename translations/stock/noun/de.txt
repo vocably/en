@@ -1,0 +1,4 @@
+aktie
+bestand
+vorrat
+brühe

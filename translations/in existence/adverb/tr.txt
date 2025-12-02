@@ -1,0 +1,3 @@
+mevcut
+var olan
+bulunan

@@ -1,0 +1,2 @@
+reparador de pontas duplas
+reparador de pontas abertas

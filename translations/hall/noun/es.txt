@@ -1,0 +1,4 @@
+sala
+vestíbulo
+pasillo
+salón

@@ -1,0 +1,3 @@
+asalto
+retraso
+obstáculo

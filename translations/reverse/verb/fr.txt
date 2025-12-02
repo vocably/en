@@ -1,0 +1,3 @@
+inverser
+renverser
+retourner

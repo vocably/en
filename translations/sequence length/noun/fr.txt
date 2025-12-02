@@ -1,0 +1,2 @@
+longueur de séquence
+taille de séquence

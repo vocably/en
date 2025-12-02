@@ -1,0 +1,4 @@
+distance
+gap
+interval
+space

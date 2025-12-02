@@ -1,0 +1,4 @@
+file
+documento
+fascicolo
+archivio

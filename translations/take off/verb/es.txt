@@ -1,0 +1,4 @@
+despegar
+quitar
+sacar
+salir

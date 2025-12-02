@@ -1,0 +1,4 @@
+comida para llevar
+sacar
+llevar
+quitar

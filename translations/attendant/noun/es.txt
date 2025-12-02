@@ -1,0 +1,4 @@
+asistente
+encargado
+auxiliar
+acompañante

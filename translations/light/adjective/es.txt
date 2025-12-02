@@ -1,0 +1,4 @@
+ligero
+claro
+leve
+luminoso

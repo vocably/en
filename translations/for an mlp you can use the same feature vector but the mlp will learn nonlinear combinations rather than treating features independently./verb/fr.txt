@@ -1,0 +1,2 @@
+pour un mlp, vous pouvez utiliser le même vecteur de caractéristiques, mais le mlp apprendra des combinaisons non linéaires plutôt que de traiter les caractéristiques indépendamment.
+pour un mlp, on peut utiliser le même vecteur de caractéristiques, mais le mlp apprendra des combinaisons non linéaires au lieu de traiter les caractéristiques indépendamment.

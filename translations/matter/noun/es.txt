@@ -1,0 +1,6 @@
+asunto
+materia
+cuestión
+tema
+problema
+material

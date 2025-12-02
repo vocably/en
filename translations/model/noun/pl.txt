@@ -1,0 +1,3 @@
+model
+wzór
+makieta

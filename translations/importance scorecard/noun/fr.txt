@@ -1,0 +1,3 @@
+carte d'importance
+tableau d'importance
+score d'importance

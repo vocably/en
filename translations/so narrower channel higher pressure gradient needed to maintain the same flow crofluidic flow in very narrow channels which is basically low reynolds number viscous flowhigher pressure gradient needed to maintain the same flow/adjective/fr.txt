@@ -1,0 +1,5 @@
+canal plus étroit
+gradient de pression plus élevé
+écoulement microfluidique
+nombre de reynolds faible
+écoulement visqueux

@@ -1,0 +1,2 @@
+dll
+biblioteca de enlace dinámico

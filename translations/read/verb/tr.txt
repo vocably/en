@@ -1,0 +1,5 @@
+okumak
+okur
+okudu
+okuyor
+okuyacak

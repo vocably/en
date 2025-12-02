@@ -1,0 +1,3 @@
+canlandırma
+diriltme
+hayata döndürme

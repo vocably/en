@@ -1,0 +1,4 @@
+terminar
+descontar
+robar
+eliminar

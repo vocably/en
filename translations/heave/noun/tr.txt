@@ -1,0 +1,3 @@
+çekme
+kaldırma
+kabarma

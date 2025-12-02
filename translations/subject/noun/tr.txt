@@ -1,0 +1,4 @@
+konu
+ders
+özne
+denek

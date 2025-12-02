@@ -1,0 +1,3 @@
+cargado
+gravado
+obstaculizado

@@ -1,0 +1,4 @@
+gereksinimler
+şartlar
+koşullar
+ihtiyaçlar

@@ -1,0 +1,2 @@
+độ trễ sao chép cơ sở dữ liệu
+độ trễ sao chép db

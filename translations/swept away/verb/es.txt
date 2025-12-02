@@ -1,0 +1,4 @@
+arrastrado
+barrido
+llevado
+deslizado

@@ -1,0 +1,16 @@
+{
+  "number": "singular",
+  "lemma": "tomb",
+  "lemmaPos": "noun",
+  "definitions": [
+    "a large vault, typically an underground one, for burying the dead",
+    "a monument or chamber used as a burial place"
+  ],
+  "examples": [
+    "The ancient tomb was discovered by archaeologists.",
+    "The tombs were decorated with carvings."
+  ],
+  "synonyms": ["grave", "mausoleum", "sepulcher", "crypt"],
+  "transcript": "tuːm",
+  "source": "tomb"
+}

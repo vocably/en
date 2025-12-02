@@ -1,0 +1,1 @@
+{"source":"vkFormat","number":"singular","lemma":"vkFormat","lemmaPos":"noun","definitions":["A data type used in Vulkan graphics API to specify the format of image data."],"examples":["The vkFormat specifies the color format.","Choose the appropriate vkFormat for texture."],"synonyms":[],"transcript":"viː keɪ ˈfɔːrmæt"}

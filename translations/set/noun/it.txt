@@ -1,0 +1,8 @@
+set
+collezione
+serie
+gruppo
+insieme
+apparecchio
+servizio
+scenografia

@@ -1,0 +1,4 @@
+vestir
+vestirse
+ponerse
+arreglarse

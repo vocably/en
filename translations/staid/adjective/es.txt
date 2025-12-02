@@ -1,0 +1,3 @@
+serio
+formal
+sobrio

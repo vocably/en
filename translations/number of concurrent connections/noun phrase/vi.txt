@@ -1,0 +1,2 @@
+số lượng kết nối đồng thời
+số kết nối đồng thời

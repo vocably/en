@@ -1,0 +1,1 @@
+{"source":"min-heap","number":"singular","lemma":"min-heap","lemmaPos":"noun","definitions":["A binary heap data structure where the parent node is less than or equal to its child nodes."],"examples":["Insert an element into a min-heap.","Extract the minimum from a min-heap."],"synonyms":["priority queue","binary heap"],"transcript":"ˈmɪnˌhiːp"}

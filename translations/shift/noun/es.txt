@@ -1,0 +1,4 @@
+turno
+cambio
+desplazamiento
+traslado

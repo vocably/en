@@ -1,0 +1,4 @@
+partie
+rôle
+pièce
+élément

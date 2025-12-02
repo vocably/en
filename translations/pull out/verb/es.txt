@@ -1,0 +1,4 @@
+sacar
+retirar
+extraer
+arrancar

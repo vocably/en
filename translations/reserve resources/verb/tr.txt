@@ -1,0 +1,3 @@
+kaynak ayırmak
+kaynak tahsis etmek
+kaynak rezerve etmek

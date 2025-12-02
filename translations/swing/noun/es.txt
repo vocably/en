@@ -1,0 +1,3 @@
+columpio
+balanceo
+oscilación

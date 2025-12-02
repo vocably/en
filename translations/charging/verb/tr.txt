@@ -1,0 +1,4 @@
+şarj etme
+yükleme
+suçlama
+saldırma

@@ -1,0 +1,4 @@
+campo
+settore
+terreno
+prato

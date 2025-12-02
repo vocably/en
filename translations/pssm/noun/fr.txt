@@ -1,0 +1,2 @@
+matrice de position pondérée
+matrice de scores de position

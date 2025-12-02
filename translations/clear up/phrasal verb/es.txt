@@ -1,0 +1,4 @@
+aclarar
+despejar
+resolver
+ordenar
