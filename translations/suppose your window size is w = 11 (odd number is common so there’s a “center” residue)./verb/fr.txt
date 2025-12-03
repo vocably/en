@@ -1,0 +1,3 @@
+suppose que la taille de votre fenêtre soit un nombre impair, il y a donc un résidu central.
+supposez que la taille de votre fenêtre soit un nombre impair, il y a donc un résidu central.
+supposons que la taille de votre fenêtre soit un nombre impair, il y a donc un résidu central.

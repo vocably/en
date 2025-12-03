@@ -1,0 +1,2 @@
+ce n'est pas le flux total de la lvad, juste le flux dans la région de l'espace mince où se produit un cisaillement élevé.
+ce n'est pas le débit total de la lvad, seulement le débit dans la région de l'espace mince où se produit un cisaillement élevé.
