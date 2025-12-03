@@ -1,2 +1,0 @@
-direction tangentielle le long du piston de la lame
-direction tangente le long du piston de la lame

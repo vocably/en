@@ -1,2 +1,0 @@
-matrice de scores spécifiques à la position
-matrice de scoring spécifique à la position
