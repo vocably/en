@@ -1,0 +1,4 @@
+suelo
+tierra
+terreno
+motivo

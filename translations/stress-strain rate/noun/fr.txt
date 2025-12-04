@@ -1,0 +1,2 @@
+taux de déformation sous contrainte
+vitesse de déformation sous contrainte

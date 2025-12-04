@@ -1,0 +1,3 @@
+tamaño
+dimensionamiento
+encolado

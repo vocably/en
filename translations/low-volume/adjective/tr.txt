@@ -1,0 +1,4 @@
+düşük hacim
+düşük ses
+az hacim
+az ses

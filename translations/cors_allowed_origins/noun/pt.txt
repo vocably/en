@@ -1,0 +1,3 @@
+origens permitidas pelo cors
+origens autorizadas pelo cors
+origens permitidas pelo cross-origin resource sharing
