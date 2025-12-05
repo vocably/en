@@ -1,0 +1,1 @@
+{"transcript":"/bɪˈfɔːrɔːl/","source":"beforeAll","definitions":["A setup function in a testing framework that runs once before all tests in a suite."],"examples":["We use beforeAll to initialize the database.","beforeAll ensures the server is running."],"lemma":"beforeAll","lemmaPos":"verb","synonyms":["setup","initialize"],"number":"singular"}
