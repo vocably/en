@@ -1,0 +1,4 @@
+arrancar
+cavar
+sacar
+excavar

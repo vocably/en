@@ -1,0 +1,5 @@
+apagar
+sacar
+extinguir
+publicar
+emitir
