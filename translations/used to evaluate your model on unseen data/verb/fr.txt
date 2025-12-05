@@ -1,3 +1,0 @@
-utilisé pour évaluer votre modèle sur des données non vues
-utilisé pour évaluer votre modèle sur des données inédites
-utilisé pour évaluer votre modèle sur des données non observées
