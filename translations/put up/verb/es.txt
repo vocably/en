@@ -1,0 +1,5 @@
+colocar
+levantar
+montar
+alojar
+hospedar
