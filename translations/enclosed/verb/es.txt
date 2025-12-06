@@ -1,0 +1,4 @@
+adjunto
+incluido
+cerrado
+encerrado

@@ -1,0 +1,4 @@
+correr
+lanzar
+estrellar
+romper
