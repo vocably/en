@@ -1,0 +1,3 @@
+lavar
+quitar
+limpiar
