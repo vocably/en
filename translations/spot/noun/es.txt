@@ -1,0 +1,4 @@
+mancha
+lugar
+punto
+sitio
