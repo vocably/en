@@ -1,0 +1,2 @@
+xử lý theo lô
+xử lý hàng loạt
