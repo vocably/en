@@ -1,0 +1,4 @@
+pista
+camino
+huella
+carril

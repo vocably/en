@@ -1,0 +1,4 @@
+pistas
+huellas
+vías
+carriles
