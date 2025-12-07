@@ -1,0 +1,4 @@
+angestellter
+sachbearbeiter
+schreiber
+beamter
