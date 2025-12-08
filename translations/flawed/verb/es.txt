@@ -1,0 +1,5 @@
+defectuoso
+imperfecto
+fallido
+dañado
+deteriorado
