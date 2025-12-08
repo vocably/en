@@ -1,0 +1,4 @@
+məlumat bazasına daxil etmək
+məlumat bazasına yazmaq
+məlumat bazasında saxlamaq
+məlumat bazasında təşkil etmək
