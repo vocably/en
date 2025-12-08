@@ -1,0 +1,5 @@
+ataque
+embestida
+arremetida
+avalancha
+aluvión
