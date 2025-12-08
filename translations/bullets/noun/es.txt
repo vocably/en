@@ -1,0 +1,4 @@
+balas
+proyectiles
+viñetas
+puntos

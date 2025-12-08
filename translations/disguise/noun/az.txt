@@ -1,0 +1,4 @@
+geyimlə dəyişdirmə
+maskalanma
+gizlətmə
+pərdələmə
