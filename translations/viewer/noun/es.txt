@@ -1,0 +1,4 @@
+espectador
+televidente
+visor
+observador
