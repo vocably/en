@@ -1,0 +1,4 @@
+área
+zona
+superficie
+terreno
