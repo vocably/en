@@ -1,0 +1,5 @@
+ödəməmək
+yerinə yetirməmək
+defolt etmək
+ilkin vəziyyətinə qayıtmaq
+seçilməmişdən əvvəlki vəziyyətinə qayıtmaq
