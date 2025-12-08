@@ -1,0 +1,3 @@
+intervalos
+lapsos
+espacios
