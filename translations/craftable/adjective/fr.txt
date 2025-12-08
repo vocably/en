@@ -1,0 +1,4 @@
+fabricable
+manufacturable
+réalisable
+craftable
