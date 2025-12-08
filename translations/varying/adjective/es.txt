@@ -1,0 +1,5 @@
+variable
+diverso
+cambiante
+fluctuante
+diferente

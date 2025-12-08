@@ -1,0 +1,5 @@
+doblar
+apodar
+mezclar
+bautizar
+sincronizar
