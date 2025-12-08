@@ -1,0 +1,5 @@
+trama
+parcela
+solar
+argumento
+complot
