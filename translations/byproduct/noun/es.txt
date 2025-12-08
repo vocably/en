@@ -1,0 +1,4 @@
+subproducto
+producto secundario
+consecuencia
+efecto secundario
