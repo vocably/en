@@ -1,0 +1,5 @@
+audio
+sonido
+grabación
+pista de audio
+reproducción de audio
