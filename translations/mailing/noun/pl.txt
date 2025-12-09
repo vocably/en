@@ -1,0 +1,4 @@
+wysyłka
+korespondencja
+przesyłka
+poczta

@@ -1,0 +1,5 @@
+wysyłka
+przesyłka
+transport
+dostawa
+ładunek

@@ -1,0 +1,5 @@
+przesyłka
+dostawa
+partia towaru
+towar komisowy
+komis
