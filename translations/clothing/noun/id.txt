@@ -1,0 +1,5 @@
+pakaian
+busana
+sandang
+garmen
+vestimentum
