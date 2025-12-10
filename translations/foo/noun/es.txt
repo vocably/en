@@ -1,0 +1,3 @@
+marcador de posición
+nombre de variable
+función indefinida
