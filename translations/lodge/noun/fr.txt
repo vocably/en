@@ -1,0 +1,6 @@
+pavillon
+logement
+hutte
+abri
+tanière
+terrier
