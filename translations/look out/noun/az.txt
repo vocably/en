@@ -1,0 +1,9 @@
+müşahidəçi
+gözətçi
+keşikçi
+müşahidə məntəqəsi
+keşikçi məntəqəsi
+gözətçi məntəqəsi
+müşahidə
+keşik
+gözət
