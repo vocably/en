@@ -1,0 +1,5 @@
+GPS
+qlobal mövqeləndirmə sistemi
+peyk naviqasiya sistemi
+GPS cihazı
+GPS qəbuledicisi
