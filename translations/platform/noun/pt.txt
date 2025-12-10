@@ -1,0 +1,5 @@
+plataforma
+palco
+estrado
+tribuna
+programa
