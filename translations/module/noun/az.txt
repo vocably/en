@@ -1,0 +1,5 @@
+modul
+hissə
+blok
+bölmə
+komponent

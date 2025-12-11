@@ -1,0 +1,4 @@
+modullara ayırmaq
+modullara bölmək
+modul şəklində qurmaq
+modul şəklində dizayn etmək
