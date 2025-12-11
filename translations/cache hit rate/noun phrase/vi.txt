@@ -1,2 +1,0 @@
-tỷ lệ trúng bộ nhớ đệm
-tỷ lệ trúng cache
