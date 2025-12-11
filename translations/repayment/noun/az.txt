@@ -1,0 +1,4 @@
+ödəmə
+geri ödəmə
+ödəniş
+qaytarma
