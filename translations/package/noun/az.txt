@@ -1,0 +1,5 @@
+paket
+bağlama
+qutu
+komplekt
+dəst
