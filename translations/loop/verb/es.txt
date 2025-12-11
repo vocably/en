@@ -1,0 +1,5 @@
+formar un lazo
+hacer un bucle
+girar
+dar vueltas
+ejecutar un bucle
