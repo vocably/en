@@ -1,0 +1,4 @@
+uložit
+podat
+založit
+registrovat
