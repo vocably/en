@@ -1,0 +1,1 @@
+{"source":"s3:GetObject","number":"singular","lemma":"get object","lemmaPos":"verb","definitions":["An action in Amazon S3 that retrieves an object from a bucket."],"examples":["The application uses s3:GetObject to download files.","Ensure s3:GetObject permissions are set correctly."],"synonyms":["retrieve object","fetch object"],"transcript":"ˈɡɛt ˈɒbdʒɛkt"}
