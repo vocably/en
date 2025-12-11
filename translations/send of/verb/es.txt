@@ -1,0 +1,4 @@
+enviar
+mandar
+despedir
+expulsar
