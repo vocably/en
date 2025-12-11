@@ -1,0 +1,5 @@
+suave
+leve
+moderado
+benigno
+apacible
