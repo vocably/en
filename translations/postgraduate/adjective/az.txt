@@ -1,0 +1,4 @@
+aspirant
+magistr
+doktorant
+rezident
