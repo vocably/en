@@ -1,0 +1,3 @@
+serial
+ketma-ket qismli asar
+serial asar
