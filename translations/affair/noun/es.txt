@@ -1,0 +1,6 @@
+asunto
+caso
+relación
+aventura
+suceso
+evento
