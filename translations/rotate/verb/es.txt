@@ -1,0 +1,4 @@
+rotar
+girar
+alternar
+turnar
