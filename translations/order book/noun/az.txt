@@ -1,0 +1,3 @@
+sifarişlər kitabı
+sifarişlər portfeli
+yerinə yetirilməmiş sifarişlərin ümumi sayı
