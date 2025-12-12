@@ -1,0 +1,4 @@
+dayazlaşmaq
+dayazlaşdırmaq
+səthiləşmək
+səthiləşdirmək
