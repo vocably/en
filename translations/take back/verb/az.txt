@@ -1,0 +1,4 @@
+geri götürmək
+geri almaq
+geri qaytarmaq
+xatırlamaq
