@@ -1,0 +1,4 @@
+puutteellinen
+tiedoiltaan puutteellinen
+aineistoltaan puutteellinen
+datapuutteinen
