@@ -1,0 +1,4 @@
+lazımınca istifadə edilməmiş
+tam istifadə olunmamış
+səmərəsiz istifadə edilmiş
+az istifadə edilmiş
