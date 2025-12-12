@@ -1,0 +1,3 @@
+spam göndərmək
+lazımsız mesajlar göndərmək
+kütləvi ismarıclar göndərmək
