@@ -1,0 +1,7 @@
+escena
+lugar
+ambiente
+escenario
+decorado
+cuadro
+sitio
