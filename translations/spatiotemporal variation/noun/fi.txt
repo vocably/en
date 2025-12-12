@@ -1,0 +1,3 @@
+spatiaalis-temporaalinen vaihtelu
+tila-aikavaihtelu
+paikka-aikavaihtelu
