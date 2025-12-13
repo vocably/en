@@ -1,0 +1,10 @@
+liczba
+cyfra
+postać
+figura
+kształt
+rycina
+ilustracja
+schemat
+wykres
+rysunek

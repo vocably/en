@@ -1,0 +1,4 @@
+sumować
+obliczać
+podsumować
+zsumować
