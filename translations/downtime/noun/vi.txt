@@ -1,0 +1,4 @@
+thời gian ngừng hoạt động
+thời gian chết
+thời gian ngừng máy
+thời gian không hoạt động
