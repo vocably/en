@@ -1,0 +1,6 @@
+struktura
+budowla
+układ
+konstrukcja
+kompozycja
+organizacja

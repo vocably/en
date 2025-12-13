@@ -1,0 +1,5 @@
+uczony
+pracownik naukowy
+naukowiec
+profesor
+wykładowca akademicki
