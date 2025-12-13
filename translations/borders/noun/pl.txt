@@ -1,0 +1,5 @@
+granica
+krawędź
+obramowanie
+obwódka
+ramka

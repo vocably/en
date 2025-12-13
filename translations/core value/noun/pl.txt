@@ -1,0 +1,4 @@
+podstawowa wartość
+kluczowa wartość
+główna wartość
+wartość podstawowa
