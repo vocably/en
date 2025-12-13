@@ -1,0 +1,6 @@
+istek
+talep
+istem
+resmi istek
+resmi talep
+talepname
