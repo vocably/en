@@ -1,0 +1,5 @@
+program
+program telewizyjny
+program radiowy
+program komputerowy
+plan

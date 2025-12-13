@@ -1,0 +1,4 @@
+temat
+wątek
+przedmiot
+zagadnienie
