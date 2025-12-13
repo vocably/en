@@ -1,0 +1,4 @@
+pytania
+kwestie
+zagadnienia
+problemy
