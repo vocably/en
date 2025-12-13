@@ -1,0 +1,4 @@
+wynik testu
+wynik punktowy
+poziom
+ocena
