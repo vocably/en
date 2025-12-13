@@ -1,0 +1,5 @@
+Haftalik reyting vazifasi
+Haftalik reyting ishi
+Haftalik reytingni hisoblash vazifasi
+Haftalik reytingni yangilash vazifasi
+Haftalik reytingni avtomatlashtirilgan jarayoni
