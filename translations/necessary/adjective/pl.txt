@@ -1,0 +1,5 @@
+konieczny
+niezbędny
+potrzebny
+nieodzowny
+obligatoryjny
