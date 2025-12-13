@@ -1,0 +1,3 @@
+schemat blokowy
+diagram przepływu
+algorytm
