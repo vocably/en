@@ -1,0 +1,4 @@
+observador
+espectador
+mirón
+testigo
