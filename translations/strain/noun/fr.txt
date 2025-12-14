@@ -1,0 +1,10 @@
+tension
+souche
+effort
+contrainte
+traction
+variété
+race
+fatigue
+élongation
+stress
