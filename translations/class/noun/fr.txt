@@ -1,0 +1,6 @@
+classe
+catégorie
+cours
+type
+genre
+sorte
