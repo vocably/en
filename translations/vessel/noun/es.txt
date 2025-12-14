@@ -1,0 +1,5 @@
+buque
+barco
+vasija
+recipiente
+envase
