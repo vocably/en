@@ -1,0 +1,4 @@
+kurulu
+yüklü
+monte edilmiş
+yerleşik
