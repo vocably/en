@@ -1,0 +1,4 @@
+continuo
+ininterrumpido
+sin reinicio
+que no requiere reinicio
