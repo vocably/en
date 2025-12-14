@@ -1,0 +1,5 @@
+nombre
+numéro
+chiffre
+quantité
+rang
