@@ -1,0 +1,5 @@
+konut
+mesken
+ev
+ikametgah
+mekan
