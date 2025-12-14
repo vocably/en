@@ -1,0 +1,4 @@
+Gerät
+Haushaltsgerät
+Apparat
+Maschine
