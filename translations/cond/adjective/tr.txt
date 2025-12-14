@@ -1,0 +1,5 @@
+koşullu
+şartlı
+bağımlı
+koşullandırılmış
+şartlandırılmış

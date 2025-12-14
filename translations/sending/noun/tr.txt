@@ -1,0 +1,4 @@
+gönderme
+sevketme
+yollama
+gönderi
