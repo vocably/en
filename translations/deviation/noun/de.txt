@@ -1,0 +1,6 @@
+die Abweichung
+die Ablenkung
+die Kursabweichung
+die Standardabweichung
+die Anomalie
+die Fehlentwicklung
