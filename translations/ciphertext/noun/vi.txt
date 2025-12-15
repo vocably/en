@@ -1,0 +1,4 @@
+văn bản mã hóa
+thông tin mã hóa
+mật mã
+văn bản được mã hóa
