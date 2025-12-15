@@ -1,0 +1,5 @@
+die Abstimmung
+die Wahl
+der Wahlgang
+die Stimmabgabe
+das Votum
