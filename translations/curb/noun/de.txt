@@ -1,0 +1,3 @@
+der Bordstein
+die Bordsteinkante
+der Rinnstein
