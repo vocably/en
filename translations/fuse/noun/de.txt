@@ -1,0 +1,5 @@
+die Sicherung
+die Schmelzsicherung
+der Zünder
+die Zündschnur
+der Docht
