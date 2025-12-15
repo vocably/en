@@ -1,0 +1,6 @@
+courant
+habituel
+standard
+typique
+en stock
+disponible
