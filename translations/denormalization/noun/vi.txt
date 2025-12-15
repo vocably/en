@@ -1,0 +1,3 @@
+Phản chuẩn hóa
+Denormalization
+Giải chuẩn hóa
