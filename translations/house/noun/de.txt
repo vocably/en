@@ -1,0 +1,7 @@
+Haus
+Wohnhaus
+Gebäude
+Wohnung
+Parlament
+Kammer
+Versammlung
