@@ -1,0 +1,5 @@
+emballage
+conditionnement
+enveloppement
+papier d'emballage
+matériau d'emballage
