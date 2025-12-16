@@ -1,0 +1,4 @@
+boks
+bokslaşma
+qutulama
+paketləmə
