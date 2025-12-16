@@ -1,0 +1,7 @@
+structure
+organisation
+agencement
+arrangement
+bâtiment
+édifice
+construction
