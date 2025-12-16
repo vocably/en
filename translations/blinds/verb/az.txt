@@ -1,0 +1,4 @@
+kor edir
+görmə qabiliyyətini alır
+tutulur
+gizlədir
