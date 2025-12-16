@@ -1,0 +1,6 @@
+ficelle
+cordelette
+chaîne
+série
+suite
+chaîne de caractères
