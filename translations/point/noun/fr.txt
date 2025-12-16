@@ -1,0 +1,5 @@
+point
+endroit
+lieu
+étape
+détail
