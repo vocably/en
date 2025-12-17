@@ -1,0 +1,9 @@
+matriz
+serie
+conjunto
+gama
+orden
+disposición
+colección
+surtido
+abanico
