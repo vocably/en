@@ -1,0 +1,4 @@
+əlaqə saxlayır
+əlaqə qurur
+ünsiyyət qurur
+əlaqə yaradır

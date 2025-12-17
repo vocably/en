@@ -1,0 +1,4 @@
+əlaqə saxlamaq
+əlaqə yaratmaq
+əlaqələndirmək
+toxunmaq
