@@ -1,0 +1,4 @@
+bệnh nhân
+người bệnh
+bệnh nhân nội trú
+bệnh nhân ngoại trú
