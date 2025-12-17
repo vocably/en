@@ -1,0 +1,5 @@
+activos
+bienes
+ventaja
+recurso
+valor
