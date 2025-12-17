@@ -1,0 +1,4 @@
+die Triage
+die Priorisierung
+die Ersteinschätzung
+die Dringlichkeitseinstufung
