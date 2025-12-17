@@ -1,0 +1,5 @@
+Vorräte
+Bestand
+Lieferung
+Versorgung
+Zulieferung
