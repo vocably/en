@@ -1,0 +1,7 @@
+patrón
+diseño
+modelo
+plantilla
+muestra
+secuencia
+disposición
