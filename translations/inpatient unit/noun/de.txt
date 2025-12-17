@@ -1,0 +1,5 @@
+die Bettenstation
+die Krankenstation
+die Pflegestation
+die Station
+die inpatient unit

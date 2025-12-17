@@ -1,0 +1,5 @@
+die Energetisierung
+die Aktivierung
+die Bestromung
+die Zuschaltung
+die Erregung
