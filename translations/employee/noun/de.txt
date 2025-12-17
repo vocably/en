@@ -1,0 +1,6 @@
+der Angestellte
+die Angestellte
+der Mitarbeiter
+die Mitarbeiterin
+der Arbeitnehmer
+die Arbeitnehmerin
