@@ -1,0 +1,4 @@
+abwesend
+fehlend
+nicht anwesend
+fernbleibend
