@@ -1,0 +1,4 @@
+todo
+entero
+completo
+íntegro
