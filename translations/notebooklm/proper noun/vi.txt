@@ -1,0 +1,3 @@
+NotebookLM
+Trợ lý nghiên cứu và viết lách NotebookLM
+Sản phẩm NotebookLM của Google
