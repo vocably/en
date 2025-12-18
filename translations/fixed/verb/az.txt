@@ -1,0 +1,8 @@
+bərkidilmiş
+təmir edilmiş
+müəyyən edilmiş
+quraşdırılmış
+düzəldilmiş
+bərkidilmişdir
+təmir edilmişdir
+müəyyən edilmişdir
