@@ -1,0 +1,5 @@
+geri qaytarmaq
+geri almaq
+qaytarmaq
+bərpa etmək
+əvvəlki vəziyyətinə qaytarmaq
