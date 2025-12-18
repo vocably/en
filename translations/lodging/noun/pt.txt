@@ -1,0 +1,5 @@
+hospedagem
+alojamento
+acomodação
+moradia
+quarto
