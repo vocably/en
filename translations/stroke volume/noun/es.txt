@@ -1,0 +1,3 @@
+volumen sistólico
+volumen de eyección
+volumen latido
