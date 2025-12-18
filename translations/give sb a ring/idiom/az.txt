@@ -1,0 +1,8 @@
+Zəng etmək
+Zəng vurmaq
+Telefon etmək
+Telefon vurmaq
+Kiməsə zəng etmək
+Kiməsə zəng vurmaq
+Kiməsə telefon etmək
+Kiməsə telefon vurmaq
