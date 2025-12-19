@@ -1,0 +1,5 @@
+die Stärke
+die Kraft
+die Festigkeit
+die Belastbarkeit
+die Intensität
