@@ -1,0 +1,3 @@
+faktura göndərmək
+hesab göndərmək
+qaimə göndərmək
