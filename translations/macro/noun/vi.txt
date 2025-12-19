@@ -1,0 +1,3 @@
+macro
+lệnh macro
+chương trình macro
