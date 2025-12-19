@@ -1,0 +1,5 @@
+nəyisə axtarmaq
+nəyisə tapmaq
+məlumat axtarmaq
+məlumat tapmaq
+istinad etmək
