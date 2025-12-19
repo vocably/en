@@ -1,0 +1,5 @@
+die Feuchtigkeit
+die Nässe
+die Feuchte
+die Flüssigkeit
+die Kondensflüssigkeit
