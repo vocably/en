@@ -1,0 +1,5 @@
+seguidor
+rastreador
+cola
+dispositivo de cola
+mecanismo de cola
