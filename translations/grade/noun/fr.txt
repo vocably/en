@@ -1,0 +1,8 @@
+niveau
+note
+pente
+classe
+qualité
+valeur
+inclinaison
+rampe

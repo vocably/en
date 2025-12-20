@@ -1,0 +1,7 @@
+point
+endroit
+lieu
+avis
+idée
+score
+unité
