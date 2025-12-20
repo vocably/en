@@ -1,0 +1,5 @@
+terminal binası
+yolcu terminalı
+hava limanı terminalı
+vağzal binası
+son dayanacaq binası
