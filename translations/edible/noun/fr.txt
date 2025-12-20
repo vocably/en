@@ -1,0 +1,5 @@
+comestible
+mangeable
+denrée alimentaire
+produit alimentaire
+aliment
