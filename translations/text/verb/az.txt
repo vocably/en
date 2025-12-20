@@ -1,0 +1,4 @@
+mətn yazmaq
+mətn göndərmək
+SMS yazmaq
+SMS göndərmək

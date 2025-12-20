@@ -1,0 +1,4 @@
+SMS yazışma
+mətn mesajlaşması
+SMS göndərmə
+mesajlaşma
