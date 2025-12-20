@@ -1,0 +1,3 @@
+çap etmək
+çapa vermək
+print etmək
