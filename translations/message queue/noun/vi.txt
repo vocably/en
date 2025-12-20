@@ -1,0 +1,4 @@
+Hàng đợi tin nhắn
+Hàng đợi thông điệp
+Hệ thống xếp hàng đợi tin nhắn
+Thành phần xếp hàng đợi tin nhắn
