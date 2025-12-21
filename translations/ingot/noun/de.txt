@@ -1,0 +1,5 @@
+der Barren
+der Goldbarren
+der Stahlbarren
+der Metallbarren
+der Block

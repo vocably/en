@@ -1,0 +1,4 @@
+Aluminiumbarren
+Aluminiumblock
+Aluminiummassel
+Aluminiumrohling
