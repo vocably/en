@@ -1,0 +1,3 @@
+odbicie
+skok
+podskok

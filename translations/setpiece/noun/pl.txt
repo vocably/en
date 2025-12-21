@@ -1,0 +1,6 @@
+rozegranie stałego fragmentu gry
+stały fragment gry
+zagranie z góry
+ustawiona scena
+element dekoracyjny
+dekoracja
