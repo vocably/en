@@ -1,0 +1,4 @@
+dosya
+klasör
+evrak
+kutu
