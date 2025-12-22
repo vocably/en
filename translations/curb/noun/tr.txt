@@ -1,0 +1,3 @@
+kaldırım kenarı
+bordür
+kaldırım taşı
