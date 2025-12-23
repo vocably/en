@@ -1,0 +1,5 @@
+rond
+complète
+entier
+plein
+arrondi
