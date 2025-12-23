@@ -1,0 +1,4 @@
+Verweildauer
+Aufenthaltszeit
+Standzeit
+Verbleibzeit
