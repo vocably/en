@@ -1,0 +1,2 @@
+der Kehrwert
+der Reziprokwert
