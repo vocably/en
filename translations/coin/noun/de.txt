@@ -1,0 +1,4 @@
+die Münze
+das Geldstück
+die Währung
+die Geldeinheit
