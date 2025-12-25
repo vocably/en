@@ -1,0 +1,5 @@
+temel işlevsellik
+çekirdek işlevsellik
+ana işlevsellik
+temel fonksiyonellik
+çekirdek fonksiyonellik
