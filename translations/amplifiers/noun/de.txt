@@ -1,0 +1,4 @@
+Verstärker
+Leistungsverstärker
+Spannungsverstärker
+Stromverstärker
