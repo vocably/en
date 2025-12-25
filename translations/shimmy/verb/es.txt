@@ -1,0 +1,10 @@
+bailar
+moverse
+trepar
+subir
+bajar
+deslizarse
+contonearse
+sacudirse
+vibrar
+oscilar
