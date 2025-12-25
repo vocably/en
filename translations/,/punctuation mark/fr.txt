@@ -1,0 +1,4 @@
+virgule
+séparateur
+pause
+incise
