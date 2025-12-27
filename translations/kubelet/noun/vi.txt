@@ -1,0 +1,3 @@
+kubelet
+tác nhân kubelet
+thành phần kubelet

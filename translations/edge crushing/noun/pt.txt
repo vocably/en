@@ -1,0 +1,4 @@
+Amassamento de borda
+Esmagamento de borda
+Dano por esmagamento de borda
+Ato de esmagar a borda

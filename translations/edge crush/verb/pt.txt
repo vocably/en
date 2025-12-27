@@ -1,0 +1,4 @@
+amassar a borda
+esmagar a borda
+dobrar a borda
+testar a resistência da borda
