@@ -1,0 +1,4 @@
+abandonner
+laisser en plan
+échouer
+bloquer
