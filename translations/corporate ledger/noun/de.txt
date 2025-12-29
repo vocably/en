@@ -1,0 +1,4 @@
+Hauptbuch
+Geschäftsbuch
+Kassenbuch
+Kontenbuch
