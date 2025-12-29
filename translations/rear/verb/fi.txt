@@ -1,0 +1,5 @@
+kasvattaa
+hoitaa
+nostaa
+rakentaa
+kohottaa
