@@ -1,0 +1,5 @@
+die Anfrage
+die Abfrage
+die Suchanfrage
+die Frage
+die Erkundigung
