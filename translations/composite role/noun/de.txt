@@ -1,0 +1,3 @@
+die Sammelrolle
+die Verbundrolle
+die Kompositrolle
