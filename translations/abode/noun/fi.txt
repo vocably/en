@@ -1,0 +1,5 @@
+asunto
+koti
+maja
+asuinpaikka
+asuinsija
