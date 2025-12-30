@@ -1,0 +1,3 @@
+die Fackel
+die Taschenlampe
+das Licht
