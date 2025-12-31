@@ -1,0 +1,3 @@
+podrobit
+vystavit
+podřídit
