@@ -1,0 +1,4 @@
+die Quittung
+der Beleg
+der Empfang
+der Erhalt
