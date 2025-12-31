@@ -1,0 +1,5 @@
+Geschwindigkeit
+Schnelligkeit
+Bewegungsgeschwindigkeit
+Strömungsgeschwindigkeit
+Vortriebsgeschwindigkeit
