@@ -1,0 +1,5 @@
+vyhladit
+uhladit
+uvolnit
+zklidnit
+usnadnit
