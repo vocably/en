@@ -1,0 +1,3 @@
+version proverbiale
+variante proverbiale
+itération proverbiale
