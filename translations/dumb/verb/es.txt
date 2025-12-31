@@ -1,0 +1,5 @@
+enmudecer
+silenciar
+simplificar
+embrutecer
+trivializar
