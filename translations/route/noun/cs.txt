@@ -1,0 +1,4 @@
+cesta
+trasa
+směr
+způsob
