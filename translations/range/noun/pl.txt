@@ -1,0 +1,4 @@
+zakres
+pasmo
+gama
+szereg
