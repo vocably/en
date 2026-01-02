@@ -1,0 +1,7 @@
+die Latte
+die Leiste
+der Flügel
+die Lamelle
+die Planke
+die Tragflügelvorderkante
+die Vorflügelklappe
