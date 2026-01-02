@@ -1,0 +1,4 @@
+tömörítés
+összenyomás
+kompresszió
+sűrítés
