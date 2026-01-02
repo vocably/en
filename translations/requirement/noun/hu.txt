@@ -1,0 +1,4 @@
+követelmény
+előírás
+szükséglet
+feltétel

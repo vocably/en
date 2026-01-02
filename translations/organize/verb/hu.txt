@@ -1,0 +1,4 @@
+szervez
+rendez
+elrendez
+szerveződik
