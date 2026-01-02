@@ -1,0 +1,9 @@
+die Halle
+der Saal
+der Flur
+der Korridor
+die Diele
+der Gang
+die Aula
+das Foyer
+die Eingangshalle
