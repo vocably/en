@@ -1,0 +1,7 @@
+caso
+negócio
+assunto
+ocorrência
+evento
+relacionamento
+aventura
