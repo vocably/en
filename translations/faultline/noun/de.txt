@@ -1,0 +1,5 @@
+die Verwerfungslinie
+die Bruchlinie
+die Spaltungslinie
+die Trennlinie
+die Konfliktlinie
