@@ -1,0 +1,7 @@
+görünüm
+dış görünüş
+görünüş
+ortaya çıkma
+sahneye çıkma
+boy gösterme
+görünürlük
