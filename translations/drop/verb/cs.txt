@@ -1,0 +1,7 @@
+upustit
+klesat
+spadnout
+nechat spadnout
+vynechat
+odpadnout
+porodit
