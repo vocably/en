@@ -1,0 +1,4 @@
+frekwencja
+zatoczka
+przystanek
+zgromadzenie
