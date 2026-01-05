@@ -1,0 +1,4 @@
+rozměr
+dimenze
+aspekt
+stránka
