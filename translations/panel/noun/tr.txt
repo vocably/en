@@ -1,0 +1,8 @@
+panel
+levha
+tablo
+komisyon
+heyet
+bölüm
+dilim
+pano
