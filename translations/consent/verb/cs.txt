@@ -1,0 +1,4 @@
+souhlasit
+svolit
+povolit
+pravit ano
