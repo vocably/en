@@ -1,0 +1,8 @@
+döküm
+kalıba dökme
+oyuncu seçimi
+rol dağıtımı
+atma
+fırlatma
+deri değiştirme
+kabuk değiştirme
