@@ -1,0 +1,4 @@
+die Variable
+der Parameter
+die Größe
+der Faktor
