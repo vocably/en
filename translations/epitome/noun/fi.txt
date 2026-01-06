@@ -1,0 +1,5 @@
+tyyppiesimerkki
+ruumiillistuma
+tiivistelmä
+yhteenveto
+lyhennelmä
