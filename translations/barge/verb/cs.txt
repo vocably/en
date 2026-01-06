@@ -1,0 +1,4 @@
+vrazit
+narazit
+vpadnout
+vtrhnout
