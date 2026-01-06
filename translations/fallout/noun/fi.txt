@@ -1,0 +1,4 @@
+laskeuma
+seuraukset
+jälkiseuraukset
+haitalliset seuraukset
