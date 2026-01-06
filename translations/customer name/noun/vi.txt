@@ -1,0 +1,3 @@
+Tên khách hàng
+Tên người mua
+Tên đối tác
