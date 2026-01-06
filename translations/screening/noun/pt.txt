@@ -1,0 +1,5 @@
+triagem
+seleção
+exibição
+detecção
+rastreamento
