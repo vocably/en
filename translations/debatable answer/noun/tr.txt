@@ -1,0 +1,4 @@
+tartışmalı cevap
+tartışmaya açık cevap
+şüpheli cevap
+kesin olmayan cevap
