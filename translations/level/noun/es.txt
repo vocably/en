@@ -1,0 +1,7 @@
+nivel
+llano
+altura
+categoría
+escala
+plano
+rasante
