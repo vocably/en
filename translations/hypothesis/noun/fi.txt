@@ -1,0 +1,3 @@
+hypoteesi
+oletus
+oletusarvo
