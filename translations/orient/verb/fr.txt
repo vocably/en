@@ -1,0 +1,5 @@
+orienter
+s'orienter
+guider
+informer
+situer
