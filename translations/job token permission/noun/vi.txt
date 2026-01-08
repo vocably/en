@@ -1,0 +1,4 @@
+quyền của mã thông báo công việc
+quyền truy cập của mã thông báo công việc
+cấp phép mã thông báo công việc
+quyền hạn của mã thông báo công việc
