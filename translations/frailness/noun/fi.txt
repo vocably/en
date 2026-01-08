@@ -1,0 +1,6 @@
+hauraus
+heikkous
+hentous
+raihnaus
+murtuvuus
+turmeltuvuus
