@@ -1,0 +1,9 @@
+mauton
+rahvaanomainen
+rivo
+sivistymätön
+karkea
+paljas
+julkea
+tavallinen
+kansanomainen
