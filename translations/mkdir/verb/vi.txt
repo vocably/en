@@ -1,0 +1,4 @@
+tạo thư mục
+tạo một thư mục mới
+tạo thư mục hoặc cặp
+tạo thư mục trong hệ thống tệp
