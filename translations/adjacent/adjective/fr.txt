@@ -1,0 +1,4 @@
+adjacent
+contigu
+voisin
+limitrophe
