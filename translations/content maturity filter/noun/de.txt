@@ -1,0 +1,4 @@
+Inhaltsfilter
+Filter für nicht jugendfreie Inhalte
+Altersfreigabe-Filter
+Jugendschutzfilter
