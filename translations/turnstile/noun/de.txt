@@ -1,0 +1,4 @@
+Drehkreuz
+Drehsperre
+Durchgangssperre
+Zutrittssperre
