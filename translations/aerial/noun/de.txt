@@ -1,0 +1,5 @@
+die Antenne
+der Antennenmast
+der Funkmast
+die Sendeantenne
+die Empfangsantenne
