@@ -1,0 +1,5 @@
+bileşen
+parça
+eleman
+aksam
+kurucu unsur

@@ -1,0 +1,4 @@
+bileşen
+parça
+eleman
+komponent
