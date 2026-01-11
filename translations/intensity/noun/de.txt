@@ -1,0 +1,5 @@
+die Intensität
+die Stärke
+die Heftigkeit
+die Ausprägung
+der Grad
