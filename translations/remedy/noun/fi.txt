@@ -1,0 +1,5 @@
+lääke
+hoito
+parannuskeino
+oikeuskeino
+hyvitys
