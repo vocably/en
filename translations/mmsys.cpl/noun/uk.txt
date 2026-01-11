@@ -1,0 +1,3 @@
+mmsys.cpl
+файл mmsys.cpl
+розширення файлу mmsys.cpl
