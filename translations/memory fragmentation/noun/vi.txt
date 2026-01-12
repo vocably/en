@@ -1,0 +1,3 @@
+phân mảnh bộ nhớ
+tình trạng phân mảnh bộ nhớ
+sự phân mảnh bộ nhớ
