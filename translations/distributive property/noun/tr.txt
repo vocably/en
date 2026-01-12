@@ -1,0 +1,2 @@
+dağılma özelliği
+çarpmanın toplama üzerine dağılma özelliği
