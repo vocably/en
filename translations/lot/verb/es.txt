@@ -1,0 +1,4 @@
+sortear
+dividir en lotes
+asignar por sorteo
+echar suertes
