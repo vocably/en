@@ -1,0 +1,5 @@
+aceptable
+pasable
+regular
+satisfactorio
+conveniente
