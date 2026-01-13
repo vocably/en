@@ -1,0 +1,5 @@
+dormido
+aletargado
+inactivo
+desatento
+distraído
