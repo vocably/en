@@ -1,0 +1,5 @@
+hàng hải
+thuộc hàng hải
+thuộc biển
+thuộc tàu thuyền
+thuộc hàng hải (tàu thuyền)
