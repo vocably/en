@@ -1,0 +1,6 @@
+marcas
+productos
+fabricados
+producción
+cantidades
+tipos

@@ -1,0 +1,5 @@
+parte
+papel
+región
+componente
+elemento
