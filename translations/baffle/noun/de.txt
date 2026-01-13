@@ -1,0 +1,5 @@
+die Schallwand
+die Blende
+das Prallblech
+die Trennwand
+die Stauwand
