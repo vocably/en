@@ -1,0 +1,9 @@
+cadre
+charpente
+ossature
+bâti
+châssis
+monture
+armature
+squelette
+image
