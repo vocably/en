@@ -1,0 +1,4 @@
+dönüş
+geri dönüş
+getiri
+iade
