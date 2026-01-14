@@ -1,0 +1,3 @@
+folio
+sayfa numarası
+büyük boy kitap
