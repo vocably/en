@@ -1,0 +1,2 @@
+mevcut
+var olan
