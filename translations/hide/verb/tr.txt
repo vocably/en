@@ -1,0 +1,4 @@
+saklamak
+gizlemek
+saklanmak
+gizli tutmak
