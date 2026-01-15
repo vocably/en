@@ -1,0 +1,4 @@
+tomada
+saída
+escoadouro
+ponto de venda
