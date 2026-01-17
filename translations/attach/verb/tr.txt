@@ -1,0 +1,3 @@
+eklemek
+iliştirmek
+bağlamak
