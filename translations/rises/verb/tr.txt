@@ -1,0 +1,5 @@
+yükselir
+kalkar
+artar
+doğar
+ayaklanır
