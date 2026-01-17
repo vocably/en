@@ -1,0 +1,4 @@
+hareket
+hamle
+taşınma
+yer değiştirme

@@ -1,0 +1,4 @@
+arama
+çağırma
+adlandırma
+seslenme
