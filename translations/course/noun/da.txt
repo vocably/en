@@ -1,0 +1,4 @@
+kursus
+rute
+retning
+ret
