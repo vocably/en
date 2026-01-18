@@ -1,0 +1,3 @@
+yaprak
+sayfa
+tabaka
