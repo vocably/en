@@ -1,0 +1,3 @@
+şehir
+kent
+büyükşehir
