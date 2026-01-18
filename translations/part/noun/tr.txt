@@ -1,0 +1,4 @@
+parça
+kısım
+bölüm
+rol
