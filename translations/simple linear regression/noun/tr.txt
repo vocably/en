@@ -1,0 +1,2 @@
+Basit Doğrusal Regresyon
+Tek Değişkenli Doğrusal Regresyon
