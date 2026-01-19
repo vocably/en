@@ -1,0 +1,3 @@
+bejelent
+kihirdet
+közzétesz
