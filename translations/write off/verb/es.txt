@@ -1,0 +1,3 @@
+cancelar
+dar de baja
+amortizar
