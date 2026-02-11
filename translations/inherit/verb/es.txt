@@ -1,0 +1,3 @@
+heredar
+recibir en herencia
+ser el heredero de

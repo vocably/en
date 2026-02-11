@@ -1,0 +1,2 @@
+conmutar por error
+activar la conmutación por error

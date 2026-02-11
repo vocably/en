@@ -1,0 +1,2 @@
+tên kubeconfig hiện tại
+tên cấu hình hiện tại

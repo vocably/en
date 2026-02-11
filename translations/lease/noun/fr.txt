@@ -1,0 +1,3 @@
+bail
+location
+crédit-bail

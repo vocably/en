@@ -1,0 +1,2 @@
+conmutación por error
+recuperación automática

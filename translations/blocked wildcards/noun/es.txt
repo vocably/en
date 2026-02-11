@@ -1,0 +1,2 @@
+comodines bloqueados
+caracteres comodín bloqueados

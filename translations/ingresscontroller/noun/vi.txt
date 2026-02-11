@@ -1,0 +1,2 @@
+Bộ điều khiển Ingress
+Ingress Controller

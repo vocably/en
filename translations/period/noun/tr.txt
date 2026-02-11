@@ -1,0 +1,3 @@
+dönem
+nokta
+adet

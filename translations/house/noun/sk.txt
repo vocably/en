@@ -1,0 +1,3 @@
+dom
+budova
+snemovňa

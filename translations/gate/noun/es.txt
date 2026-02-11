@@ -1,0 +1,5 @@
+puerta
+entrada
+verja
+compuerta
+taquilla

@@ -1,0 +1,2 @@
+parâmetro de string de consulta
+parâmetro de consulta

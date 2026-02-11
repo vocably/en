@@ -1,0 +1,2 @@
+transition d'alignement par culbute
+transition de culbute-alignement

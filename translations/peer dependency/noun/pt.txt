@@ -1,0 +1,2 @@
+dependência de pares
+dependência compartilhada

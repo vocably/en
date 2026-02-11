@@ -1,0 +1,2 @@
+bộ điều khiển Ingress
+bộ điều khiển cổng vào

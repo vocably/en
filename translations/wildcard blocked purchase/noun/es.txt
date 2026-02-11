@@ -1,0 +1,2 @@
+compra bloqueada por comodín
+compra bloqueada por patrón genérico

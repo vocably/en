@@ -1,0 +1,3 @@
+zero
+nic
+punkt zerowy

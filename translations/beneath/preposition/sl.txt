@@ -1,0 +1,3 @@
+pod
+spodaj
+nižje od

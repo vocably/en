@@ -1,0 +1,2 @@
+dependências de pares
+dependências de mesmo nível

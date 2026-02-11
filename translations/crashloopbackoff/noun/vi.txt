@@ -1,0 +1,2 @@
+CrashLoopBackoff
+Lỗi lặp lại khi khởi động lại

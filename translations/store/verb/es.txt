@@ -1,0 +1,3 @@
+almacenar
+guardar
+archivar

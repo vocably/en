@@ -1,0 +1,2 @@
+tasa de bits
+velocidad de bits

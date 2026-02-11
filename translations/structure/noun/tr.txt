@@ -1,0 +1,3 @@
+yapı
+bünye
+strüktür

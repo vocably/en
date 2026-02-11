@@ -1,0 +1,5 @@
+ir
+salir
+funcionar
+asistir
+quedar

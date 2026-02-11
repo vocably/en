@@ -1,0 +1,2 @@
+desteklenmeyen işlenen
+desteklenmeyen operand
