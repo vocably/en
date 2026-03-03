@@ -1,0 +1,4 @@
+tutma
+alıkoyma
+sürdürme
+düzenleme

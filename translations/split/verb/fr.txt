@@ -1,0 +1,4 @@
+diviser
+fendre
+partager
+quitter

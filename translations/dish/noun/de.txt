@@ -1,0 +1,4 @@
+Gericht
+Schale
+Teller
+Mahlzeit

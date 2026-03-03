@@ -1,0 +1,2 @@
+limiter la casse
+limiter les dégâts

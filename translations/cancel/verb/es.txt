@@ -1,0 +1,4 @@
+cancelar
+anular
+rescindir
+compensar

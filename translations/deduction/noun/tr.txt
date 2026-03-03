@@ -1,0 +1,3 @@
+çıkarma
+kesinti
+tümdengelim

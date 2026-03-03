@@ -1,0 +1,4 @@
+geçmek
+değiştirmek
+açmak
+kapatmak

@@ -1,0 +1,3 @@
+jogo
+partida
+brincadeira

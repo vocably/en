@@ -1,0 +1,3 @@
+cuerda
+hilo
+cadena

@@ -1,0 +1,3 @@
+retkikunta
+matka
+nopeus
