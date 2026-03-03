@@ -1,0 +1,5 @@
+portão
+entrada
+saída
+bilheteria
+circuito

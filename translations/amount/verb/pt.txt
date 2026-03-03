@@ -1,0 +1,3 @@
+totalizar
+equivaler
+somar
