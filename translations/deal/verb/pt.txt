@@ -1,0 +1,4 @@
+distribuir
+lidar
+negociar
+aplicar

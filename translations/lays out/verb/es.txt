@@ -1,0 +1,4 @@
+extender
+planear
+preparar
+exponer
