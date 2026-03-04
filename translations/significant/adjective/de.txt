@@ -1,4 +1,1 @@
-bedeutend
-wesentlich
-erheblich
-signifikant
+["bedeutend","erheblich","aussagekräftig"]

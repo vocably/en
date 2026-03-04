@@ -1,5 +1,1 @@
-thận trọng
-cẩn trọng
-cẩn thận
-chu đáo
-khôn ngoan
+["thận trọng","cẩn trọng"]

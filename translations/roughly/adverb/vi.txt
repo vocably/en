@@ -1,3 +1,1 @@
-khoảng
-xấp xỉ
-đại khái
+["khoảng chừng","xấp xỉ","đại khái"]

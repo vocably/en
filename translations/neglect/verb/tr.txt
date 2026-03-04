@@ -1,2 +1,1 @@
-ihmal etmek
-savsaklamak
+["ihmal etmek","savsaklamak","yapmamak"]

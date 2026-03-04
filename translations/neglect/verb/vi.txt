@@ -1,2 +1,1 @@
-bỏ bê
-sao lãng
+["bỏ bê","xao nhãng","quên"]

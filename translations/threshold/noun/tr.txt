@@ -1,2 +1,1 @@
-eşik
-başlangıç noktası
+["eşik","başlangıç noktası","alt sınır"]

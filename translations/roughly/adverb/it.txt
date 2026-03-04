@@ -1,4 +1,1 @@
-circa
-approssimativamente
-grosso modo
-più o meno
+["approssimativamente","all'incirca","rozzamente"]

@@ -1,5 +1,1 @@
-həzzverici
-ləzzətli
-xoş
-şirin
-zövqverici
+["ləzzətli","xoş"]

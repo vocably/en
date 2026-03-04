@@ -1,5 +1,1 @@
-hesab etmək
-fikirləşmək
-nəzərə almaq
-saymaq
-düşünmək
+["düşünmək","hesab etmək","nəzərə almaq"]

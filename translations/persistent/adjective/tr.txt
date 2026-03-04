@@ -1,4 +1,1 @@
-ısrarcı
-sürekli
-devamlı
-inatçı
+["inatçı","sürekli","kalıcı"]

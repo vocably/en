@@ -1,3 +1,1 @@
-betrachten
-erwägen
-überlegen
+["betrachten","erwägen","berücksichtigen"]

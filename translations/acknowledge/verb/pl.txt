@@ -1,4 +1,1 @@
-potwierdzać
-przyjmować do wiadomości
-uznawać
-przyznawać
+["przyjmować","uznawać","potwierdzać","odnotowywać"]

@@ -1,2 +1,1 @@
-résultat
-issue
+["résultat","conséquence"]

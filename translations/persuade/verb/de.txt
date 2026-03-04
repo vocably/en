@@ -1,5 +1,1 @@
-überreden
-überzeugen
-bewegen
-veranlassen
-gewinnen
+["überzeugen","überreden"]

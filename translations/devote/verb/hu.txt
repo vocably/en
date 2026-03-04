@@ -1,2 +1,1 @@
-szentel
-áldoz
+["szentel","ráfordít"]

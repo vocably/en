@@ -1,2 +1,1 @@
-đáng kể
-quan trọng
+["quan trọng","đáng kể","có ý nghĩa"]

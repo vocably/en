@@ -1,2 +1,1 @@
-Auswirkung
-Folge
+["die Nachwirkung","die Rückwirkung","der Widerhall"]

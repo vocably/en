@@ -1,3 +1,1 @@
-biện minh
-chứng minh
-bào chữa
+["biện minh","chứng minh","xếp thẳng hàng"]

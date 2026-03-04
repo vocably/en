@@ -1,0 +1,1 @@
+["seuil","entrée","point de départ"]

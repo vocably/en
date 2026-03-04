@@ -1,2 +1,1 @@
-qəbul etmək
-tanımaq
+["etiraf etmək","qəbul etmək","təsdiqləmək","bildirmək"]

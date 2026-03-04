@@ -1,5 +1,1 @@
-miễn cưỡng
-ngần ngại
-do dự
-không sẵn lòng
-lưỡng lự
+["miễn cưỡng","do dự"]

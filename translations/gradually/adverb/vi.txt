@@ -1,3 +1,1 @@
-dần dần
-từ từ
-từng bước
+["dần dần","từ từ"]

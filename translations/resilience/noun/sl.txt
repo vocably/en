@@ -1,2 +1,1 @@
-odpornost
-elastičnost
+["odpornost","prožnost"]

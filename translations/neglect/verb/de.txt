@@ -1,3 +1,1 @@
-vernachlässigen
-versäumen
-unterlassen
+["vernachlässigen","versäumen","unterlassen"]

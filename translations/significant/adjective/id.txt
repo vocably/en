@@ -1,2 +1,1 @@
-penting
-signifikan
+["penting","berarti","signifikan"]

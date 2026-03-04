@@ -1,0 +1,1 @@
+["disposisjon","temperament","anlegg","ordning"]

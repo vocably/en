@@ -1,4 +1,1 @@
-znaczący
-istotny
-ważny
-pokazny
+["znaczący","istotny","znamienny"]

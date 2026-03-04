@@ -1,0 +1,1 @@
+["dopad","následek","ozvěna"]

@@ -1,4 +1,1 @@
-inandırmaq
-razı salmaq
-təşviq etmək
-yola gətirmək
+["inandırmaq","razı salmaq"]

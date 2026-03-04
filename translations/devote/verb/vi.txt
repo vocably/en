@@ -1,5 +1,1 @@
-cống hiến
-tận tâm
-dành trọn
-hiến dâng
-chuyên tâm
+["cống hiến","dành"]

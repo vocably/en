@@ -1,0 +1,1 @@
+["raksturs","izvietojums","rīcība","izlemšana"]

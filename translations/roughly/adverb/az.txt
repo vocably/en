@@ -1,5 +1,1 @@
-təxminən
-üstüörtülü
-kobudcasına
-qaba
-ehtiyatsızcasına
+["kobudcasına","təqribən","üstündən"]

@@ -1,3 +1,1 @@
-rozważać
-brać pod uwagę
-uwzględniać
+["rozważać","brać pod uwagę","uważać"]
