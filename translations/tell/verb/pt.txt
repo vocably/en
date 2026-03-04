@@ -1,0 +1,4 @@
+contar
+dizer
+distinguir
+ordenar

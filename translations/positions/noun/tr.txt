@@ -1,0 +1,4 @@
+konumlar
+pozisyonlar
+durumlar
+mevkiler
