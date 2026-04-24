@@ -1,0 +1,3 @@
+die Ausgangssperre
+die Sperrstunde
+die Ausgangsbeschränkung

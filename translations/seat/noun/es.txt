@@ -1,0 +1,3 @@
+asiento
+silla
+plaza

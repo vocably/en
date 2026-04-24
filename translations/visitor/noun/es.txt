@@ -1,0 +1,3 @@
+visitante
+turista
+inspector

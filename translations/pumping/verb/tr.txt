@@ -1,0 +1,4 @@
+pompalama
+basma
+sorgulama
+fışkırtma

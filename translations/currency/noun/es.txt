@@ -1,0 +1,3 @@
+moneda
+divisa
+vigencia

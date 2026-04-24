@@ -1,0 +1,4 @@
+poutre
+faisceau
+rayon
+regard

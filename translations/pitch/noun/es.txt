@@ -1,0 +1,4 @@
+tono
+campo
+terreno
+discurso

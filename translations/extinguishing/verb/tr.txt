@@ -1,0 +1,3 @@
+söndürme
+ortadan kaldırma
+yok etme

@@ -1,0 +1,3 @@
+tamizado
+cribado
+zarandeo

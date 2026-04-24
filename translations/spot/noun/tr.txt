@@ -1,0 +1,4 @@
+nokta
+leke
+benek
+yer

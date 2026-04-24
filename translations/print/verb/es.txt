@@ -1,0 +1,4 @@
+imprimir
+estampar
+publicar
+editar

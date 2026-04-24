@@ -1,0 +1,3 @@
+pular
+saltar
+aumentar

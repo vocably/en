@@ -1,0 +1,3 @@
+imprimir
+grabar
+dejar una huella

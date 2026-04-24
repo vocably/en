@@ -1,0 +1,4 @@
+numerar
+contar
+totalizar
+incluir

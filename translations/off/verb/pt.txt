@@ -1,0 +1,3 @@
+matar
+remover
+cancelar

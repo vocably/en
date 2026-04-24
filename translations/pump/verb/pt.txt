@@ -1,0 +1,5 @@
+bombear
+impulsionar
+injetar
+mover para cima e para baixo
+interrogar

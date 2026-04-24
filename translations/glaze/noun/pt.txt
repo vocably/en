@@ -1,0 +1,3 @@
+esmalte
+cobertura
+camada fina

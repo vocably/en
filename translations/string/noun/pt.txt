@@ -1,0 +1,3 @@
+corda
+fio
+sequência de caracteres

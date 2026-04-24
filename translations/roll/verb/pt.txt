@@ -1,0 +1,10 @@
+rolar
+girar
+virar
+enrolar
+passar
+mover
+rodar
+deslizar
+balançar
+ecoar

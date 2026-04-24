@@ -1,0 +1,3 @@
+partida
+saída
+desvio

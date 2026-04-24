@@ -1,0 +1,4 @@
+cihaz
+aygıt
+araç
+yöntem

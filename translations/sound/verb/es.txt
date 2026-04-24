@@ -1,0 +1,4 @@
+sonar
+parecer
+sondear
+auscultar

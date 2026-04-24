@@ -1,0 +1,4 @@
+die Tonhöhe
+das Spielfeld
+die Intensität
+die Verkaufsstrategie

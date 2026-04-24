@@ -1,0 +1,2 @@
+nối bằng dấu gạch ngang
+dùng dấu gạch ngang để nối

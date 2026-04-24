@@ -1,0 +1,4 @@
+được nhúng
+được gắn
+được lồng vào
+được tích hợp

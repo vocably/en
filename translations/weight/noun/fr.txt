@@ -1,0 +1,4 @@
+poids
+haltère
+importance
+influence

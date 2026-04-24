@@ -1,0 +1,4 @@
+adicionar
+somar
+acrescentar
+incluir

@@ -1,0 +1,4 @@
+registrar
+grabar
+anotar
+documentar

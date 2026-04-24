@@ -1,0 +1,2 @@
+votar
+emitir el voto

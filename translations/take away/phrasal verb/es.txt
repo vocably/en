@@ -1,0 +1,4 @@
+quitar
+restar
+llevar
+aprender

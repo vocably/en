@@ -1,0 +1,3 @@
+tablero
+panel
+cuadro de mandos

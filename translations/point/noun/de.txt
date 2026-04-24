@@ -1,0 +1,5 @@
+Punkt
+Stelle
+Spitze
+Ort
+Aspekt

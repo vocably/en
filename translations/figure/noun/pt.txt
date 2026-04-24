@@ -1,0 +1,5 @@
+número
+figura
+pessoa
+imagem
+ilustração

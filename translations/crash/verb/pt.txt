@@ -1,0 +1,5 @@
+bater
+colidir
+falir
+invadir
+dormir

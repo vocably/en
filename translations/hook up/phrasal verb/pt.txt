@@ -1,0 +1,4 @@
+conectar
+ligar
+encontrar
+fornecer

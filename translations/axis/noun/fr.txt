@@ -1,0 +1,4 @@
+axe
+axe de symétrie
+axe de rotation
+axe principal

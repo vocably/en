@@ -1,0 +1,3 @@
+türetme
+türeyiş
+çıkarım

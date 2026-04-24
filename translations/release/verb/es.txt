@@ -1,0 +1,4 @@
+soltar
+liberar
+lanzar
+emitir

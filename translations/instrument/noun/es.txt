@@ -1,0 +1,4 @@
+instrumento
+herramienta
+aparato
+documento

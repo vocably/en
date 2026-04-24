@@ -1,0 +1,4 @@
+die Spanne
+die Zeitspanne
+die Spannweite
+die Reichweite

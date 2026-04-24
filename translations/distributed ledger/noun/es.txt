@@ -1,0 +1,2 @@
+libro mayor distribuido
+registro distribuido

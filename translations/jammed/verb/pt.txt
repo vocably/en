@@ -1,0 +1,3 @@
+congestionado
+preso
+emperrado

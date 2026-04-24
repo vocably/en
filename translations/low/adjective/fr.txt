@@ -1,0 +1,4 @@
+bas
+faible
+peu élevé
+inférieur

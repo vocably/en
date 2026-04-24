@@ -1,0 +1,3 @@
+espesor
+grosor
+espesura

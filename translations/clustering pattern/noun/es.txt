@@ -1,0 +1,2 @@
+patrón de agrupamiento
+patrón de clúster

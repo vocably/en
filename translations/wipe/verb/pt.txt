@@ -1,0 +1,4 @@
+limpar
+secar
+apagar
+remover

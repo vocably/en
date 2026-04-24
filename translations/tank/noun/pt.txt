@@ -1,0 +1,3 @@
+tanque
+carro de combate
+cisterna

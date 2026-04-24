@@ -1,0 +1,4 @@
+bolso
+monedero
+fondos
+dinero

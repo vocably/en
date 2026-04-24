@@ -1,0 +1,3 @@
+rampe
+pente
+plan incliné

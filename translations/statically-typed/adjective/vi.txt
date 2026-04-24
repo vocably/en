@@ -1,0 +1,2 @@
+kiểu tĩnh
+được định kiểu tĩnh

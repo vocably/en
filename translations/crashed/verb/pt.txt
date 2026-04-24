@@ -1,0 +1,4 @@
+bateu
+colidiu
+falhou
+invadiu

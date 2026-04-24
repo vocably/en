@@ -1,0 +1,3 @@
+temps de relaxation
+temps de retour à l'équilibre
+temps de relaxation spin-réseau

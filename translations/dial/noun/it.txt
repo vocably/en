@@ -1,0 +1,3 @@
+quadrante
+selettore
+disco

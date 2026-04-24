@@ -1,0 +1,3 @@
+banco
+bancada
+tribunal

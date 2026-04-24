@@ -1,0 +1,5 @@
+acender
+iluminar
+clarear
+pousar
+encontrar

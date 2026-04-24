@@ -1,0 +1,3 @@
+barra lateral
+columna lateral
+recuadro

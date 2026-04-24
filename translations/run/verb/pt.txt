@@ -1,0 +1,4 @@
+correr
+administrar
+gerenciar
+funcionar

@@ -1,0 +1,4 @@
+traduire
+transposer
+interpréter
+convertir

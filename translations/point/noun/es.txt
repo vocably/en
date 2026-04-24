@@ -1,0 +1,5 @@
+punto
+lugar
+sitio
+extremo
+etapa

@@ -1,0 +1,3 @@
+ignorer
+ne pas tenir compte de
+faire abstraction de

@@ -1,0 +1,2 @@
+sair do controle
+ficar fora de controle
