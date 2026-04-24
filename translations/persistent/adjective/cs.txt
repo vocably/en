@@ -1,1 +1,3 @@
-["vytrvalý","houževnatý","perzistentní"]
+vytrvalý
+houževnatý
+perzistentní

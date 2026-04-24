@@ -1,1 +1,3 @@
-["verwaarlozen","veronachtzamen","nalaten"]
+verwaarlozen
+veronachtzamen
+nalaten

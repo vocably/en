@@ -1,1 +1,3 @@
-["cyfiawnhau","unioni","puro"]
+cyfiawnhau
+unioni
+puro

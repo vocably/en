@@ -1,1 +1,2 @@
-["juriya","maidowa"]
+juriya
+maidowa

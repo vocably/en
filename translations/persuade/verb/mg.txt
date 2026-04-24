@@ -1,1 +1,2 @@
-["mandresy lahatra","mitaona"]
+mandresy lahatra
+mitaona

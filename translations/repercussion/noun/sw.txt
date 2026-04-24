@@ -1,1 +1,3 @@
-["madhara","matokeo","mwangwi"]
+madhara
+matokeo
+mwangwi

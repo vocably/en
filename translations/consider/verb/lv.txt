@@ -1,1 +1,3 @@
-["apsvērt","uzskatīt","ņemt vērā"]
+apsvērt
+uzskatīt
+ņemt vērā

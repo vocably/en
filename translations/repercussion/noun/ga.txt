@@ -1,1 +1,3 @@
-["iarmhairt","frithéifeacht","macalla"]
+iarmhairt
+frithéifeacht
+macalla

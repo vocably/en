@@ -1,1 +1,3 @@
-["go garbh","neamhghlan","thart ar"]
+go garbh
+neamhghlan
+thart ar

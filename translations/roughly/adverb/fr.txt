@@ -1,1 +1,3 @@
-["rudement","approximativement","grossièrement"]
+rudement
+approximativement
+grossièrement

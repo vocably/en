@@ -1,1 +1,2 @@
-["ketahanan","daya lenting"]
+ketahanan
+daya lenting

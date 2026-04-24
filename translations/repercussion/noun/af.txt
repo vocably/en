@@ -1,1 +1,3 @@
-["nadelige gevolg","terugslag","weerklank"]
+nadelige gevolg
+terugslag
+weerklank

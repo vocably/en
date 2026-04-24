@@ -1,1 +1,4 @@
-["xasiyyət","təbiət","yerləşdirmə","sərəncam"]
+xasiyyət
+təbiət
+yerləşdirmə
+sərəncam

@@ -1,1 +1,2 @@
-["Natiijo","Gabagabo"]
+Natiijo
+Gabagabo

@@ -1,1 +1,4 @@
-["dispozicion","natyrë","karakter","vendosje"]
+dispozicion
+natyrë
+karakter
+vendosje

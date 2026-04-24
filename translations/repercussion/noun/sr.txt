@@ -1,1 +1,3 @@
-["posledica","odjek","reakcija"]
+posledica
+odjek
+reakcija

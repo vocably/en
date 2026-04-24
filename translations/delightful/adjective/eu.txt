@@ -1,1 +1,2 @@
-["ederra","atsegina"]
+ederra
+atsegina

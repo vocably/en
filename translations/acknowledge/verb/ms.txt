@@ -1,1 +1,4 @@
-["mengakui","mengiktiraf","membalas","memberi isyarat"]
+mengakui
+mengiktiraf
+membalas
+memberi isyarat

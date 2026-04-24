@@ -1,1 +1,3 @@
-["íhuga","telja","virða"]
+íhuga
+telja
+virða

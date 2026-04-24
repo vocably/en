@@ -1,1 +1,2 @@
-["go neamhdhíreach","go intuigthe"]
+go neamhdhíreach
+go intuigthe

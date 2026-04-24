@@ -1,1 +1,2 @@
-["gu so-thuigsinn","gu neo-dhìreach"]
+gu so-thuigsinn
+gu neo-dhìreach

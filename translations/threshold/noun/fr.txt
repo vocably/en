@@ -1,1 +1,3 @@
-["seuil","entrée","point de départ"]
+seuil
+entrée
+point de départ

@@ -1,1 +1,3 @@
-["aptuveni","rupji","neapstrādāti"]
+aptuveni
+rupji
+neapstrādāti

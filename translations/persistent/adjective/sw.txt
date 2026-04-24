@@ -1,1 +1,3 @@
-["endelevu","kaidi","ngangari"]
+endelevu
+kaidi
+ngangari

@@ -1,1 +1,2 @@
-["geuwat","enggal"]
+geuwat
+enggal

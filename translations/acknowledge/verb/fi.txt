@@ -1,1 +1,4 @@
-["tunnustaa","myöntää","kuittaa","tervehtiä"]
+tunnustaa
+myöntää
+kuittaa
+tervehtiä

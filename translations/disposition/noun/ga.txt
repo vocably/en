@@ -1,1 +1,4 @@
-["meon","claonadh","socrú","cur"]
+meon
+claonadh
+socrú
+cur

@@ -1,1 +1,3 @@
-["mukova","chikumbaridzo","pakutanga"]
+mukova
+chikumbaridzo
+pakutanga

@@ -1,1 +1,3 @@
-["durván","körülbelül","nagyjából"]
+durván
+körülbelül
+nagyjából

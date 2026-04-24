@@ -1,1 +1,3 @@
-["integrita","bezúhonnosť","celistvosť"]
+integrita
+bezúhonnosť
+celistvosť

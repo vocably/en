@@ -1,1 +1,2 @@
-["ishod","rezultat"]
+ishod
+rezultat

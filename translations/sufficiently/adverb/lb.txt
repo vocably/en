@@ -1,1 +1,2 @@
-["genuch","duerchaus"]
+genuch
+duerchaus

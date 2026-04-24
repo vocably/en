@@ -1,1 +1,3 @@
-["anetsa","ramba","godo"]
+anetsa
+ramba
+godo

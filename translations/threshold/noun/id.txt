@@ -1,1 +1,3 @@
-["ambang","batas","titik"]
+ambang
+batas
+titik

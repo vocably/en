@@ -1,1 +1,3 @@
-["breithniú","meas","cuimhneamh"]
+breithniú
+meas
+cuimhneamh

@@ -1,1 +1,3 @@
-["mahery","tokony ho","amin'ny ankapobeny"]
+mahery
+tokony ho
+amin'ny ankapobeny

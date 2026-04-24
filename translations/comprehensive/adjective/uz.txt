@@ -1,1 +1,2 @@
-["atrofl","keng qamrovli"]
+atrofl
+keng qamrovli

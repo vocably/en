@@ -1,1 +1,2 @@
-["toàn diện","bao quát"]
+toàn diện
+bao quát

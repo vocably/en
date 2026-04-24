@@ -1,1 +1,3 @@
-["õigustama","põhjendama","õigeks mõistma"]
+õigustama
+põhjendama
+õigeks mõistma

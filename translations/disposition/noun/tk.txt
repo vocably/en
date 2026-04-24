@@ -1,1 +1,4 @@
-["häsiýet","meýil","ýerleşiş","karar"]
+häsiýet
+meýil
+ýerleşiş
+karar

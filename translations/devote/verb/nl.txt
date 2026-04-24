@@ -1,1 +1,2 @@
-["wijden aan","besteden aan"]
+wijden aan
+besteden aan

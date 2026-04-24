@@ -1,1 +1,2 @@
-["osamala","wopewa"]
+osamala
+wopewa

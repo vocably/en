@@ -1,1 +1,3 @@
-["grobo","približno","okvirno"]
+grobo
+približno
+okvirno

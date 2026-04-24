@@ -1,1 +1,2 @@
-["yn raddol","fesul tipyn"]
+yn raddol
+fesul tipyn

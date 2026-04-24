@@ -1,1 +1,2 @@
-["ìfura","ìbèru"]
+ìfura
+ìbèru

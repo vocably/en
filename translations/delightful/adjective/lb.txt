@@ -1,1 +1,2 @@
-["erfreelech","agreabel"]
+erfreelech
+agreabel

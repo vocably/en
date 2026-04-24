@@ -1,1 +1,3 @@
-["iraunkor","temati","iraunkorra"]
+iraunkor
+temati
+iraunkorra

@@ -1,1 +1,3 @@
-["sekas","atgrūdiens","atbalss"]
+sekas
+atgrūdiens
+atbalss

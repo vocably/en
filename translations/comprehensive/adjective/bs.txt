@@ -1,1 +1,2 @@
-["sveobuhvatan","opsežan"]
+sveobuhvatan
+opsežan

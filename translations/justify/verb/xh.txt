@@ -1,1 +1,3 @@
-["thethelela","lungisa","bonisa ubunyani"]
+thethelela
+lungisa
+bonisa ubunyani

@@ -1,1 +1,2 @@
-["gaar ahaan","si la taaban karo"]
+gaar ahaan
+si la taaban karo

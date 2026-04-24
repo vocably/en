@@ -1,1 +1,4 @@
-["dispusizioni","caratteru","arrangiamentu","risoluzione"]
+dispusizioni
+caratteru
+arrangiamentu
+risoluzione

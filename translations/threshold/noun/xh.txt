@@ -1,1 +1,3 @@
-["umnyango","isango","umda"]
+umnyango
+isango
+umda

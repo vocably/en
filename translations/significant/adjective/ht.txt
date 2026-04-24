@@ -1,1 +1,3 @@
-["enpòtan","siyifikatif","konsiderab"]
+enpòtan
+siyifikatif
+konsiderab

@@ -1,1 +1,2 @@
-["whakapau","tuku"]
+whakapau
+tuku

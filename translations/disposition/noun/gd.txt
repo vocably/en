@@ -1,1 +1,4 @@
-["stuamachd","suidheachadh","càradh","crìoch"]
+stuamachd
+suidheachadh
+càradh
+crìoch

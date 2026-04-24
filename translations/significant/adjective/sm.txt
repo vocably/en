@@ -1,1 +1,3 @@
-["taua","tāua","mafai ona iloa"]
+taua
+tāua
+mafai ona iloa

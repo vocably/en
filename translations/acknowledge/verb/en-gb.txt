@@ -1,1 +1,4 @@
-["acknowledge","recognise","confirm receipt of","greet"]
+acknowledge
+recognise
+confirm receipt of
+greet

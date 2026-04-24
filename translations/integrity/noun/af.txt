@@ -1,1 +1,3 @@
-["integriteit","eerlikheid","onkreukbaarheid"]
+integriteit
+eerlikheid
+onkreukbaarheid

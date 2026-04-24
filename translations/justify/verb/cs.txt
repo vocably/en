@@ -1,1 +1,3 @@
-["ospravedlnit","zarovnat","očistit"]
+ospravedlnit
+zarovnat
+očistit

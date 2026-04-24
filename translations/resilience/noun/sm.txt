@@ -1,1 +1,2 @@
-["malosi","mausali"]
+malosi
+mausali

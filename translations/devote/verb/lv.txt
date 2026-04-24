@@ -1,1 +1,2 @@
-["veltīt","ziedo"]
+veltīt
+ziedo

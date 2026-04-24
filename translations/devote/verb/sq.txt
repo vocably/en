@@ -1,1 +1,2 @@
-["kushtoj","i përkushtohem"]
+kushtoj
+i përkushtohem

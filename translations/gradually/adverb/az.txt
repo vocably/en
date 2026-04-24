@@ -1,1 +1,2 @@
-["tədricən","yavaş-yavaş"]
+tədricən
+yavaş-yavaş

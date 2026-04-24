@@ -1,1 +1,3 @@
-["integritat","enteresa","solidesa"]
+integritat
+enteresa
+solidesa

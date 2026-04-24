@@ -1,1 +1,3 @@
-["netije","yza serpikme","ýaň"]
+netije
+yza serpikme
+ýaň

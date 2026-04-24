@@ -1,1 +1,4 @@
-["huy","mizaç","eğilim","düzenleme"]
+huy
+mizaç
+eğilim
+düzenleme

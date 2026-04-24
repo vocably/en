@@ -1,1 +1,2 @@
-["rezultat","pasojë"]
+rezultat
+pasojë

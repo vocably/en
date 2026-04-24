@@ -1,1 +1,4 @@
-["tan olmoq","e'tirof etmoq","tasdiqlamoq","bildirmoq"]
+tan olmoq
+e'tirof etmoq
+tasdiqlamoq
+bildirmoq

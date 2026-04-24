@@ -1,1 +1,2 @@
-["ko'ndirmoq","ishontirmoq"]
+ko'ndirmoq
+ishontirmoq

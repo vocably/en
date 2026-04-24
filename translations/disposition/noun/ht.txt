@@ -1,1 +1,4 @@
-["dispozisyon","aranjman","karaktè","rezolisyon"]
+dispozisyon
+aranjman
+karaktè
+rezolisyon

@@ -1,1 +1,3 @@
-["kwado","gosi na o ziri ezi","mee ka ọ kwụ ọtọ"]
+kwado
+gosi na o ziri ezi
+mee ka ọ kwụ ọtọ

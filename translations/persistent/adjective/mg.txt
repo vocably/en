@@ -1,1 +1,3 @@
-["maharitra","miraikitra","tsy mety levona"]
+maharitra
+miraikitra
+tsy mety levona

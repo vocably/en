@@ -1,1 +1,3 @@
-["opravdati","poravnati","osloboditi krivice"]
+opravdati
+poravnati
+osloboditi krivice

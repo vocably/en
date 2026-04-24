@@ -1,1 +1,4 @@
-["luonne","mieli","järjestely","hallinta"]
+luonne
+mieli
+järjestely
+hallinta

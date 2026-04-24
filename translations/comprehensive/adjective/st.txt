@@ -1,1 +1,2 @@
-["phethahetseng","akaretsang"]
+phethahetseng
+akaretsang

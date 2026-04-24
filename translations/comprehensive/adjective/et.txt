@@ -1,1 +1,2 @@
-["põhjalik","ulatuslik"]
+põhjalik
+ulatuslik

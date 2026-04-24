@@ -1,1 +1,3 @@
-["mafaufau","iloilo","manatu"]
+mafaufau
+iloilo
+manatu

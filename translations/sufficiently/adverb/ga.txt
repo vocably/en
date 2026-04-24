@@ -1,1 +1,2 @@
-["go leor","a dhóthain"]
+go leor
+a dhóthain

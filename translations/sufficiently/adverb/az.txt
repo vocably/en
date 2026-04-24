@@ -1,1 +1,2 @@
-["kifayət qədər","yetərincə"]
+kifayət qədər
+yetərincə

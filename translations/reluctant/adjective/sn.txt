@@ -1,1 +1,2 @@
-["kuzengurira","kuzeza"]
+kuzengurira
+kuzeza

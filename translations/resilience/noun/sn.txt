@@ -1,1 +1,2 @@
-["ushingi","kupora"]
+ushingi
+kupora

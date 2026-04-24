@@ -1,1 +1,3 @@
-["yankı","akıs","tepki"]
+yankı
+akıs
+tepki

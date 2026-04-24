@@ -1,1 +1,4 @@
-["sinneslag","läggning","anlag","disposition"]
+sinneslag
+läggning
+anlag
+disposition

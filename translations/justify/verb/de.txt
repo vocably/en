@@ -1,1 +1,3 @@
-["rechtfertigen","begründen","freisprechen"]
+rechtfertigen
+begründen
+freisprechen

@@ -1,1 +1,3 @@
-["kabaca","yaklaşık olarak","aşağı yukarı"]
+kabaca
+yaklaşık olarak
+aşağı yukarı

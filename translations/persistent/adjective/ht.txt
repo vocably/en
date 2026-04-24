@@ -1,1 +1,3 @@
-["ki pèsistan","ki kontinye","ki pa lage"]
+ki pèsistan
+ki kontinye
+ki pa lage

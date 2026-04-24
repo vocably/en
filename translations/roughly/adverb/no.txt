@@ -1,1 +1,3 @@
-["omtrent","rundt","grovt"]
+omtrent
+rundt
+grovt

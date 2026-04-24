@@ -1,1 +1,3 @@
-["gigih","berterusan","malar"]
+gigih
+berterusan
+malar

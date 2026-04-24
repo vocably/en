@@ -1,1 +1,2 @@
-["zinikele","nikela"]
+zinikele
+nikela

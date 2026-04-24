@@ -1,1 +1,3 @@
-["ghjustificà","allineà","assolve"]
+ghjustificà
+allineà
+assolve

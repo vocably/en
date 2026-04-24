@@ -1,1 +1,3 @@
-["rashin kulawa","sakarci","manta"]
+rashin kulawa
+sakarci
+manta

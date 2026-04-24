@@ -1,1 +1,2 @@
-["reticent","șovăielnic"]
+reticent
+șovăielnic

@@ -1,1 +1,3 @@
-["ambang","had","takuk"]
+ambang
+had
+takuk

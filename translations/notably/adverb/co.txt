@@ -1,1 +1,2 @@
-["in particulare","soprattuttu"]
+in particulare
+soprattuttu

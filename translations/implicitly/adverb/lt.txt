@@ -1,1 +1,2 @@
-["numanomai","absoliučiai"]
+numanomai
+absoliučiai

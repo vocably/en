@@ -1,1 +1,2 @@
-["huna","mutunga kore"]
+huna
+mutunga kore

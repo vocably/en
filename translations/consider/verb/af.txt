@@ -1,1 +1,3 @@
-["oorweeg","beskou","in ag neem"]
+oorweeg
+beskou
+in ag neem

@@ -1,1 +1,2 @@
-["tikras pa tikras","piti piti"]
+tikras pa tikras
+piti piti

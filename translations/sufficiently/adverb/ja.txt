@@ -1,1 +1,2 @@
-["十分に","adequately"]
+十分に
+adequately

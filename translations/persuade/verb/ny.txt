@@ -1,1 +1,2 @@
-["kunkhoswezera","kuyesetsa"]
+kunkhoswezera
+kuyesetsa

@@ -1,1 +1,3 @@
-["neaizmirst","nepievērst uzmanību","atstāt novārtā"]
+neaizmirst
+nepievērst uzmanību
+atstāt novārtā

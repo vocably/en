@@ -1,1 +1,3 @@
-["ondorioa","atzeraegitea","oihartzuna"]
+ondorioa
+atzeraegitea
+oihartzuna

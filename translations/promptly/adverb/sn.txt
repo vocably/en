@@ -1,1 +1,2 @@
-["nekukurumidza","panguva"]
+nekukurumidza
+panguva

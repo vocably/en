@@ -1,1 +1,2 @@
-["prešutno","bezuvjetno"]
+prešutno
+bezuvjetno

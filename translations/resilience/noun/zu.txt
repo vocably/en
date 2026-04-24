@@ -1,1 +1,2 @@
-["amandla okubuyela esimeni","ukuqina"]
+amandla okubuyela esimeni
+ukuqina

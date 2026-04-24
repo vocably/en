@@ -1,1 +1,3 @@
-["elhanyagol","figyelmen kívül hagy","mulaszt"]
+elhanyagol
+figyelmen kívül hagy
+mulaszt

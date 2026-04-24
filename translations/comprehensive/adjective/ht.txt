@@ -1,1 +1,2 @@
-["konpreyansif","detaye"]
+konpreyansif
+detaye

@@ -1,1 +1,2 @@
-["pühendama","ohverdama"]
+pühendama
+ohverdama

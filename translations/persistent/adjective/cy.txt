@@ -1,1 +1,3 @@
-["dyfal","parhaus","gludiog"]
+dyfal
+parhaus
+gludiog

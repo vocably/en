@@ -1,1 +1,2 @@
-["Widderstandsfäegkeet","Elastizitéit"]
+Widderstandsfäegkeet
+Elastizitéit

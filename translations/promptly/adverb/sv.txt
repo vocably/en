@@ -1,1 +1,2 @@
-["omgående","punktligt"]
+omgående
+punktligt

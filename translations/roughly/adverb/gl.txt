@@ -1,1 +1,3 @@
-["aproximadamente","groseiramente","bastonamente"]
+aproximadamente
+groseiramente
+bastonamente

@@ -1,1 +1,2 @@
-["mob","pab"]
+mob
+pab

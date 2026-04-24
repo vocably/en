@@ -1,1 +1,3 @@
-["zhruba","přibližně","hrubě"]
+zhruba
+přibližně
+hrubě

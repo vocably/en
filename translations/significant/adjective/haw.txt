@@ -1,1 +1,3 @@
-["koʻikoʻi","manaʻo nui","ʻano nui"]
+koʻikoʻi
+manaʻo nui
+ʻano nui

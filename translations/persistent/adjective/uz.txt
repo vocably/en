@@ -1,1 +1,3 @@
-["qat'iyatli","turg'un","doimiy"]
+qat'iyatli
+turg'un
+doimiy

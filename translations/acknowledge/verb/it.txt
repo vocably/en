@@ -1,1 +1,4 @@
-["riconoscere","ammettere","confermare","salutare"]
+riconoscere
+ammettere
+confermare
+salutare

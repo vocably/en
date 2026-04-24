@@ -1,1 +1,2 @@
-["ngati-ati","ewuh"]
+ngati-ati
+ewuh

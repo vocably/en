@@ -1,1 +1,3 @@
-["sa feleng","tiileng","phehellang"]
+sa feleng
+tiileng
+phehellang

@@ -1,1 +1,3 @@
-["die Nachwirkung","die Rückwirkung","der Widerhall"]
+die Nachwirkung
+die Rückwirkung
+der Widerhall

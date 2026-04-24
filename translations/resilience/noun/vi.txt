@@ -1,1 +1,2 @@
-["khả năng phục hồi","tính đàn hồi"]
+khả năng phục hồi
+tính đàn hồi

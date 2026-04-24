@@ -1,1 +1,2 @@
-["pośrednio","bezwarunkowo"]
+pośrednio
+bezwarunkowo

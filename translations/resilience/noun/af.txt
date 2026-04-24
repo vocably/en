@@ -1,1 +1,2 @@
-["veerkragtigheid","rekbaarheid"]
+veerkragtigheid
+rekbaarheid

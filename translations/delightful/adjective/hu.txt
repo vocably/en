@@ -1,1 +1,2 @@
-["gyönyörű","elragadó"]
+gyönyörű
+elragadó

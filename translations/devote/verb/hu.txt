@@ -1,1 +1,2 @@
-["szentel","ráfordít"]
+szentel
+ráfordít

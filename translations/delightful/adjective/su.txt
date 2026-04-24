@@ -1,1 +1,2 @@
-["pikaresepeun","matak waas"]
+pikaresepeun
+matak waas

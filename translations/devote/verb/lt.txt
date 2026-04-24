@@ -1,1 +1,2 @@
-["paskirti","atsiduoti"]
+paskirti
+atsiduoti

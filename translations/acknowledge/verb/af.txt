@@ -1,1 +1,4 @@
-["erken","bevestig","erkenning gee aan","groet"]
+erken
+bevestig
+erkenning gee aan
+groet

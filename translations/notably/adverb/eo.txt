@@ -1,1 +1,2 @@
-["precipe","aparte"]
+precipe
+aparte

@@ -1,1 +1,3 @@
-["tính chính trực","tính toàn vẹn","sự nhất quán"]
+tính chính trực
+tính toàn vẹn
+sự nhất quán

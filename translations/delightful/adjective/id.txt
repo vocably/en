@@ -1,1 +1,2 @@
-["menyenangkan","nikmat"]
+menyenangkan
+nikmat

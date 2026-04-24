@@ -1,1 +1,2 @@
-["kompleksowy","wszechstronny"]
+kompleksowy
+wszechstronny

@@ -1,1 +1,2 @@
-["ni ifura","laipe"]
+ni ifura
+laipe

@@ -1,1 +1,3 @@
-["heiðarleiki","réttlæti","óskiptanleiki"]
+heiðarleiki
+réttlæti
+óskiptanleiki

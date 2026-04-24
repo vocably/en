@@ -1,1 +1,2 @@
-["ymroi","cyflwyno"]
+ymroi
+cyflwyno

@@ -1,1 +1,3 @@
-["gaharjynlyk bilen","takmynan","garaz"]
+gaharjynlyk bilen
+takmynan
+garaz

@@ -1,1 +1,4 @@
-["uznat","přiznat","potvrdit","všimnout si"]
+uznat
+přiznat
+potvrdit
+všimnout si

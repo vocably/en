@@ -1,1 +1,3 @@
-["mandinika","mihevitra","mandray an-tsaina"]
+mandinika
+mihevitra
+mandray an-tsaina

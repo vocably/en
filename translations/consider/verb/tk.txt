@@ -1,1 +1,3 @@
-["hasaplamak","oýlamak","üns bermek"]
+hasaplamak
+oýlamak
+üns bermek

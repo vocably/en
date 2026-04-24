@@ -1,1 +1,3 @@
-["zanemariti","opustiti","izpustiti"]
+zanemariti
+opustiti
+izpustiti

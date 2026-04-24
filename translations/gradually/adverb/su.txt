@@ -1,1 +1,2 @@
-["saeutik-saeutik","alon-alon"]
+saeutik-saeutik
+alon-alon

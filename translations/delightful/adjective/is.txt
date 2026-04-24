@@ -1,1 +1,2 @@
-["yndislegur","heillandi"]
+yndislegur
+heillandi

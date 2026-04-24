@@ -1,1 +1,3 @@
-["igazol","indokol","felment"]
+igazol
+indokol
+felment

@@ -1,1 +1,2 @@
-["digon","yn ddigonol"]
+digon
+yn ddigonol

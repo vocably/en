@@ -1,1 +1,2 @@
-["vastupidavus","elastsus"]
+vastupidavus
+elastsus

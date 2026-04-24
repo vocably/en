@@ -1,1 +1,2 @@
-["wary","chary"]
+wary
+chary

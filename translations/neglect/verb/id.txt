@@ -1,1 +1,3 @@
-["mengabaikan","melalaikan","tidak memedulikan"]
+mengabaikan
+melalaikan
+tidak memedulikan

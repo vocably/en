@@ -1,1 +1,2 @@
-["ampleksa","kompleta"]
+ampleksa
+kompleta

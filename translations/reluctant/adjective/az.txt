@@ -1,1 +1,2 @@
-["istəməyən","könülsüz"]
+istəməyən
+könülsüz

@@ -1,1 +1,3 @@
-["ripercussione","cunsiquenza","ec"]
+ripercussione
+cunsiquenza
+ec

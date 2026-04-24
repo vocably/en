@@ -1,1 +1,3 @@
-["vanrækja","hirða ekki um","láta undir höfuð leggjast"]
+vanrækja
+hirða ekki um
+láta undir höfuð leggjast

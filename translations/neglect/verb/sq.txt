@@ -1,1 +1,3 @@
-["lë pas dore","neglijo","harroj"]
+lë pas dore
+neglijo
+harroj

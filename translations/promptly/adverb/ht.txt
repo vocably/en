@@ -1,1 +1,2 @@
-["toudsuite","san pèdi tan"]
+toudsuite
+san pèdi tan

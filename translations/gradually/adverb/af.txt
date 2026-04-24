@@ -1,1 +1,2 @@
-["geleidelik","stelselmatig"]
+geleidelik
+stelselmatig

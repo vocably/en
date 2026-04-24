@@ -1,1 +1,2 @@
-["kina","pana"]
+kina
+pana

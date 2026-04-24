@@ -1,1 +1,2 @@
-["posvetiti","nameniti"]
+posvetiti
+nameniti

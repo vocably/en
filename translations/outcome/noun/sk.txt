@@ -1,1 +1,2 @@
-["výsledok","dôsledok"]
+výsledok
+dôsledok

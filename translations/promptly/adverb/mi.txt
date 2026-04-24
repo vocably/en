@@ -1,1 +1,2 @@
-["tonu","i te wa tika"]
+tonu
+i te wa tika

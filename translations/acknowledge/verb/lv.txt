@@ -1,1 +1,4 @@
-["atzīt","apliecināt","pateikties","ievērot"]
+atzīt
+apliecināt
+pateikties
+ievērot

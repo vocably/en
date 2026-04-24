@@ -1,1 +1,3 @@
-["sinne","jatkuva","pysyvä"]
+sinne
+jatkuva
+pysyvä

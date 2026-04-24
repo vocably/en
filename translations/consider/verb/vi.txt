@@ -1,1 +1,3 @@
-["cân nhắc","xem xét","coi"]
+cân nhắc
+xem xét
+coi

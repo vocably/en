@@ -1,1 +1,3 @@
-["pasamano","simula","hangganan"]
+pasamano
+simula
+hangganan

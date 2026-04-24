@@ -1,1 +1,2 @@
-["förtjusande","underbar"]
+förtjusande
+underbar

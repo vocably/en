@@ -1,1 +1,4 @@
-["disposição","temperamento","tendência","resolução"]
+disposição
+temperamento
+tendência
+resolução

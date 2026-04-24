@@ -1,1 +1,3 @@
-["seuraus","jälkiseuraus","kaiku"]
+seuraus
+jälkiseuraus
+kaiku

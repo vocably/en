@@ -1,1 +1,4 @@
-["disposizione","indole","carattere","temperamento"]
+disposizione
+indole
+carattere
+temperamento

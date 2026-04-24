@@ -1,1 +1,2 @@
-["prontamente","puntualmente"]
+prontamente
+puntualmente

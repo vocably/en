@@ -1,1 +1,3 @@
-["epekto","resulta","bunga"]
+epekto
+resulta
+bunga

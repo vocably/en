@@ -1,1 +1,2 @@
-["ngokukodwa","ingakumbi"]
+ngokukodwa
+ingakumbi

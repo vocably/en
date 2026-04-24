@@ -1,1 +1,3 @@
-["kira-kira","kasar","grusa-grusu"]
+kira-kira
+kasar
+grusa-grusu

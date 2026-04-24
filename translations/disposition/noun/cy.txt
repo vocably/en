@@ -1,1 +1,4 @@
-["anian","trefniant","hawl","penderfyniad"]
+anian
+trefniant
+hawl
+penderfyniad

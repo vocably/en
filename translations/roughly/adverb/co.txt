@@ -1,1 +1,3 @@
-["à l'ingrossu","apprussimatamente","grossu modu"]
+à l'ingrossu
+apprussimatamente
+grossu modu

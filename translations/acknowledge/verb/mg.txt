@@ -1,1 +1,4 @@
-["manaiky","miaiky","mankasitraka","mamaly"]
+manaiky
+miaiky
+mankasitraka
+mamaly

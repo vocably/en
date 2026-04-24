@@ -1,1 +1,2 @@
-["postepeno","polako"]
+postepeno
+polako

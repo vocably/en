@@ -1,1 +1,2 @@
-["divan","ugodan"]
+divan
+ugodan

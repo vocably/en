@@ -1,1 +1,3 @@
-["membenarkan","menjustifikasi","menyokong"]
+membenarkan
+menjustifikasi
+menyokong

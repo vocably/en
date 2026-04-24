@@ -1,1 +1,3 @@
-["slieksnis","robeža","sākotnējais punkts"]
+slieksnis
+robeža
+sākotnējais punkts

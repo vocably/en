@@ -1,1 +1,3 @@
-["esanguratsu","adierazgarri","nabarmen"]
+esanguratsu
+adierazgarri
+nabarmen

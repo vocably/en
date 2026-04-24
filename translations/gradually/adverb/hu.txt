@@ -1,1 +1,2 @@
-["fokozatosan","lassan"]
+fokozatosan
+lassan

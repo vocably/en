@@ -1,1 +1,3 @@
-["bosaga","sepgit","minimum dereje"]
+bosaga
+sepgit
+minimum dereje

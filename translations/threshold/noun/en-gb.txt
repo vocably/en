@@ -1,1 +1,3 @@
-["threshold","brink","verge"]
+threshold
+brink
+verge

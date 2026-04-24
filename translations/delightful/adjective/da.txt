@@ -1,1 +1,2 @@
-["dejlig","herlig"]
+dejlig
+herlig

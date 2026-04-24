@@ -1,1 +1,3 @@
-["nglirwakake","nglalekake","nilar"]
+nglirwakake
+nglalekake
+nilar

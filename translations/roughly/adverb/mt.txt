@@ -1,1 +1,3 @@
-["bejn wieħed u ieħor","approssimattivament","fil-qosor"]
+bejn wieħed u ieħor
+approssimattivament
+fil-qosor

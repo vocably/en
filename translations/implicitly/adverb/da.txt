@@ -1,1 +1,2 @@
-["stiltiende","ubetinget"]
+stiltiende
+ubetinget

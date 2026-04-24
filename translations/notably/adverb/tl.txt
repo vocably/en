@@ -1,1 +1,2 @@
-["kapansin-pansin","lalo na"]
+kapansin-pansin
+lalo na

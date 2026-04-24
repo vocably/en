@@ -1,1 +1,2 @@
-["achọghị","egbu oge"]
+achọghị
+egbu oge

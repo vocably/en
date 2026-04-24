@@ -1,1 +1,3 @@
-["beduidend","betekenisvol","wesenlik"]
+beduidend
+betekenisvol
+wesenlik

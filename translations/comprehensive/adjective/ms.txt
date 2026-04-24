@@ -1,1 +1,2 @@
-["komprehensif","menyeluruh"]
+komprehensif
+menyeluruh

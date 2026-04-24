@@ -1,1 +1,2 @@
-["qancin","wax is tusi"]
+qancin
+wax is tusi

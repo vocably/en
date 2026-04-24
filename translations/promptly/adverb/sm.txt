@@ -1,1 +1,2 @@
-["vave","tau sa"]
+vave
+tau sa

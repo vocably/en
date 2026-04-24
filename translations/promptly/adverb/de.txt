@@ -1,1 +1,2 @@
-["sofort","pünktlich"]
+sofort
+pünktlich

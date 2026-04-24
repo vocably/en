@@ -1,1 +1,3 @@
-["balulekile","nentsingiselo","phawulekile"]
+balulekile
+nentsingiselo
+phawulekile

@@ -1,1 +1,3 @@
-["sekvo","repuŝo","eĥo"]
+sekvo
+repuŝo
+eĥo

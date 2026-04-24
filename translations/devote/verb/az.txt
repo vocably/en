@@ -1,1 +1,2 @@
-["həsr etmək","ithaf etmək"]
+həsr etmək
+ithaf etmək

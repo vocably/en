@@ -1,1 +1,3 @@
-["considerar","tenir en compte","creure"]
+considerar
+tenir en compte
+creure

@@ -1,1 +1,2 @@
-["qaphela","xwaya"]
+qaphela
+xwaya

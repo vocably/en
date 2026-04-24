@@ -1,1 +1,3 @@
-["vedholdende","ihærdig","persistent"]
+vedholdende
+ihærdig
+persistent

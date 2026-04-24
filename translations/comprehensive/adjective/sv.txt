@@ -1,1 +1,2 @@
-["omfattande","heltäckande"]
+omfattande
+heltäckande

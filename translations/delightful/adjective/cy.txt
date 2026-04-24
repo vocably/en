@@ -1,1 +1,2 @@
-["hyfryd","dedwydd"]
+hyfryd
+dedwydd

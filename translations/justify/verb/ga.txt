@@ -1,1 +1,3 @@
-["fíoraigh","tabhair údar leis","réitigh"]
+fíoraigh
+tabhair údar leis
+réitigh

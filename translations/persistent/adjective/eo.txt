@@ -1,1 +1,3 @@
-["persista","obstina","daŭra"]
+persista
+obstina
+daŭra

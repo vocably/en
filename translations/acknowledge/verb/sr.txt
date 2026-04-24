@@ -1,1 +1,4 @@
-["priznati","potvrditi","primiti k znanju","pozdraviti"]
+priznati
+potvrditi
+primiti k znanju
+pozdraviti

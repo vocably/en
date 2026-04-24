@@ -1,1 +1,2 @@
-["delisye","agreab"]
+delisye
+agreab

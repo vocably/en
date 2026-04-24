@@ -1,1 +1,2 @@
-["ezitan","refize"]
+ezitan
+refize

@@ -1,1 +1,4 @@
-["dispożizzjoni","tqegħid","arranġament","deċiżjoni"]
+dispożizzjoni
+tqegħid
+arranġament
+deċiżjoni

@@ -1,1 +1,3 @@
-["ukunganaki","ukungazihoyi","ukungakwenzi"]
+ukunganaki
+ukungazihoyi
+ukungakwenzi

@@ -1,1 +1,3 @@
-["əks-səda","nəticə","əksolunma"]
+əks-səda
+nəticə
+əksolunma

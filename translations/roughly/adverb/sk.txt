@@ -1,1 +1,5 @@
-["zhruba","pribli\r\n\r\nzne","hrubo"]
+zhruba
+pribli
+
+zne
+hrubo

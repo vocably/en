@@ -1,1 +1,2 @@
-["konbentzitu","sinesgarri egin"]
+konbentzitu
+sinesgarri egin

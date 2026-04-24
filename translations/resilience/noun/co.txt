@@ -1,1 +1,2 @@
-["risilienza","elasticità"]
+risilienza
+elasticità

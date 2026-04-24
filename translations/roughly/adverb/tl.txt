@@ -1,1 +1,3 @@
-["magaspang","halos","hindi pinino"]
+magaspang
+halos
+hindi pinino

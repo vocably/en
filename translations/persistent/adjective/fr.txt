@@ -1,1 +1,3 @@
-["persistant","tenace","permanent"]
+persistant
+tenace
+permanent

@@ -1,1 +1,3 @@
-["ingaruka","igisubizo","ihuriro"]
+ingaruka
+igisubizo
+ihuriro

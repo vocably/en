@@ -1,1 +1,4 @@
-["dispozicio","aranĝo","emo","inklino"]
+dispozicio
+aranĝo
+emo
+inklino

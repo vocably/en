@@ -1,1 +1,2 @@
-["bind","mbush mendjen"]
+bind
+mbush mendjen

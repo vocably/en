@@ -1,1 +1,3 @@
-["jelentős","fontos","szignifikáns"]
+jelentős
+fontos
+szignifikáns

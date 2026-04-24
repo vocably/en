@@ -1,1 +1,2 @@
-["netieši","klusi"]
+netieši
+klusi

@@ -1,1 +1,3 @@
-["pomemben","znatnen","smiseln"]
+pomemben
+znatnen
+smiseln

@@ -1,1 +1,3 @@
-["jistifye","bay rezon","aliyen"]
+jistifye
+bay rezon
+aliyen

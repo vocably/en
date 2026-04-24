@@ -1,1 +1,4 @@
-["tunnistama","möönma","kinnitama","tervitama"]
+tunnistama
+möönma
+kinnitama
+tervitama

@@ -1,1 +1,4 @@
-["viðurkenna","játa","staðfesta","þakka"]
+viðurkenna
+játa
+staðfesta
+þakka

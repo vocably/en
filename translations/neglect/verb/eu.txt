@@ -1,1 +1,3 @@
-["utzugabea izan","arduragabekeriaz jokatu","ahaztu"]
+utzugabea izan
+arduragabekeriaz jokatu
+ahaztu

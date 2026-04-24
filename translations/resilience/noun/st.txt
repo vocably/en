@@ -1,1 +1,2 @@
-["mamello","botsitso"]
+mamello
+botsitso

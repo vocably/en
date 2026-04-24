@@ -1,1 +1,3 @@
-["seasmhach","leanúnach","buan"]
+seasmhach
+leanúnach
+buan

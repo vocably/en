@@ -1,1 +1,2 @@
-["neo-dheònach","leisg"]
+neo-dheònach
+leisg

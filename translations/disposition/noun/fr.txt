@@ -1,1 +1,4 @@
-["disposition","arrangement","règlement","pouvoir"]
+disposition
+arrangement
+règlement
+pouvoir

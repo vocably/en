@@ -1,1 +1,4 @@
-["sufi\nc\ne","adekvate"]
+sufi
+c
+e
+adekvate

@@ -1,1 +1,4 @@
-["uiga","faiga","pule","iʻuga"]
+uiga
+faiga
+pule
+iʻuga

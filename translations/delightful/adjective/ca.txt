@@ -1,1 +1,2 @@
-["encantador","deliciós"]
+encantador
+deliciós

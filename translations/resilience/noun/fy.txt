@@ -1,1 +1,2 @@
-["fearkrêft","fearigens"]
+fearkrêft
+fearigens

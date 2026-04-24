@@ -1,1 +1,3 @@
-["pōkare","tata","mōmona"]
+pōkare
+tata
+mōmona

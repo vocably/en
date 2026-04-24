@@ -1,1 +1,2 @@
-["nekavējoties","punktuāli"]
+nekavējoties
+punktuāli

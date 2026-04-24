@@ -1,1 +1,3 @@
-["posledica","odmev","odbitek"]
+posledica
+odmev
+odbitek

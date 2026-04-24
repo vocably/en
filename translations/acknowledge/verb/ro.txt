@@ -1,1 +1,4 @@
-["a recunoaște","a admite","a confirma","a saluta"]
+a recunoaște
+a admite
+a confirma
+a saluta

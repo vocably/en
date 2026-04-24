@@ -1,1 +1,3 @@
-["justifiéieren","ausriichten","fräisprachen"]
+justifiéieren
+ausriichten
+fräisprachen

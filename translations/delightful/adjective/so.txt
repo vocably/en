@@ -1,1 +1,2 @@
-["farxad leh","macaan"]
+farxad leh
+macaan

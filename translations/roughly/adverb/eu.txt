@@ -1,1 +1,3 @@
-["gutxi gorabehera","baxu","rozoki"]
+gutxi gorabehera
+baxu
+rozoki

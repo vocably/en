@@ -1,1 +1,2 @@
-["drempel","dorpel"]
+drempel
+dorpel

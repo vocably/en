@@ -1,1 +1,4 @@
-["erkjenne","bekrefte","anerkjenne","kvittere for"]
+erkjenne
+bekrefte
+anerkjenne
+kvittere for

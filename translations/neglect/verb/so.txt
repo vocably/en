@@ -1,1 +1,3 @@
-["dayac","illaaw","ka gaabso"]
+dayac
+illaaw
+ka gaabso

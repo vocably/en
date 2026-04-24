@@ -1,1 +1,3 @@
-["integridad","katapatan","kabuuan"]
+integridad
+katapatan
+kabuuan

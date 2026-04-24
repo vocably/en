@@ -1,1 +1,2 @@
-["versigtig","sku"]
+versigtig
+sku

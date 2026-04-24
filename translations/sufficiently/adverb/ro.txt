@@ -1,1 +1,2 @@
-["suficient","îndeajuns"]
+suficient
+îndeajuns

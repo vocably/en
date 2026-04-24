@@ -1,1 +1,3 @@
-["integritet","helhet","soliditet"]
+integritet
+helhet
+soliditet

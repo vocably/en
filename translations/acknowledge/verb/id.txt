@@ -1,1 +1,4 @@
-["mengakui","menerima","membalas","menanggapi"]
+mengakui
+menerima
+membalas
+menanggapi

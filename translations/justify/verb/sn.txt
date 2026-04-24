@@ -1,1 +1,3 @@
-["kururamisa","kujustify","kuchenura"]
+kururamisa
+kujustify
+kuchenura

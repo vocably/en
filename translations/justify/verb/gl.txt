@@ -1,1 +1,3 @@
-["xustificar","aliñar","absolver"]
+xustificar
+aliñar
+absolver

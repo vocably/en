@@ -1,1 +1,4 @@
-["aidich","gabh ri","thoir fainear","aithnich"]
+aidich
+gabh ri
+thoir fainear
+aithnich

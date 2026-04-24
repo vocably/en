@@ -1,1 +1,3 @@
-["yn fras","tua","yn anghyflawn"]
+yn fras
+tua
+yn anghyflawn

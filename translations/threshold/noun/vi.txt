@@ -1,1 +1,3 @@
-["ngưỡng cửa","ngưỡng","ngưỡng giới hạn"]
+ngưỡng cửa
+ngưỡng
+ngưỡng giới hạn

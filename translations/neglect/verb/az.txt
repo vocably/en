@@ -1,1 +1,3 @@
-["baxımsızlıq etmək","əhəmiyyət verməmək","yerinə yetirməmək"]
+baxımsızlıq etmək
+əhəmiyyət verməmək
+yerinə yetirməmək

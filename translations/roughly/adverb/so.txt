@@ -1,1 +1,3 @@
-["si qallafsan","qiyaastii","guud ahaan"]
+si qallafsan
+qiyaastii
+guud ahaan

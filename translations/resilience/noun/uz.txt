@@ -1,1 +1,2 @@
-["chidam","egiluvchanlik"]
+chidam
+egiluvchanlik

@@ -1,1 +1,3 @@
-["eftervirkning","konsekvens","genlyd"]
+eftervirkning
+konsekvens
+genlyd

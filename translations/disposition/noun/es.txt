@@ -1,1 +1,4 @@
-["disposición","índole","carácter","arreglo"]
+disposición
+índole
+carácter
+arreglo

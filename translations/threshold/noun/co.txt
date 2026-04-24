@@ -1,1 +1,3 @@
-["sogliu","limitu","principiu"]
+sogliu
+limitu
+principiu

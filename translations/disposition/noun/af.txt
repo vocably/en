@@ -1,1 +1,4 @@
-["geaardheid","aard","skikking","beskikking"]
+geaardheid
+aard
+skikking
+beskikking

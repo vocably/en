@@ -1,1 +1,4 @@
-["pranoj","njoh","konfirmoj","përshëndes"]
+pranoj
+njoh
+konfirmoj
+përshëndes

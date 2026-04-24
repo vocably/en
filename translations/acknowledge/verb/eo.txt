@@ -1,1 +1,4 @@
-["agnoski","rekoni","konfirmi","saluti"]
+agnoski
+rekoni
+konfirmi
+saluti

@@ -1,1 +1,2 @@
-["aofai","lautele"]
+aofai
+lautele

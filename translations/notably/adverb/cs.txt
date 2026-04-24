@@ -1,1 +1,2 @@
-["zejména","hlavně"]
+zejména
+hlavně

@@ -1,1 +1,3 @@
-["konsideroj","mendohem","marr parasysh"]
+konsideroj
+mendohem
+marr parasysh

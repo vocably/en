@@ -1,1 +1,3 @@
-["kwa ukali","takriban","kwa ujumla"]
+kwa ukali
+takriban
+kwa ujumla

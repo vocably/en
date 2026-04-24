@@ -1,1 +1,2 @@
-["üstü kapalı olarak","mutlak olarak"]
+üstü kapalı olarak
+mutlak olarak

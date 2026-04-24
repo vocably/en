@@ -1,1 +1,2 @@
-["txaus","rawg"]
+txaus
+rawg

@@ -1,1 +1,2 @@
-["a dedica","a devota"]
+a dedica
+a devota

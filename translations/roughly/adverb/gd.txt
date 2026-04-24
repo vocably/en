@@ -1,1 +1,3 @@
-["gu garbh","mu thimcheall","mu"]
+gu garbh
+mu thimcheall
+mu

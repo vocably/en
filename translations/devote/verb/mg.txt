@@ -1,1 +1,2 @@
-["manokana","natokana"]
+manokana
+natokana

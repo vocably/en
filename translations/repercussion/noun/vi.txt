@@ -1,1 +1,3 @@
-["hậu quả","sự dội lại","tiếng vang"]
+hậu quả
+sự dội lại
+tiếng vang

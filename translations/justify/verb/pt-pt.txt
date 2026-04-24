@@ -1,1 +1,3 @@
-["justificar","alinhar","absolver"]
+justificar
+alinhar
+absolver

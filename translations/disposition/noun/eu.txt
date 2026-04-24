@@ -1,1 +1,4 @@
-["izaera","joera","antolamendu","erabaki"]
+izaera
+joera
+antolamendu
+erabaki

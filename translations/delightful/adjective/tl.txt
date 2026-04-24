@@ -1,1 +1,2 @@
-["nakakatuwa","kaiga-igaya"]
+nakakatuwa
+kaiga-igaya

@@ -1,1 +1,8 @@
-["nway\n\nnway","ji\n\nnway\n\nnway"]
+nway
+
+nway
+ji
+
+nway
+
+nway

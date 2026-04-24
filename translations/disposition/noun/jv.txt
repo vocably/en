@@ -1,1 +1,4 @@
-["watak","sipat","tata letak","pembuangan"]
+watak
+sipat
+tata letak
+pembuangan

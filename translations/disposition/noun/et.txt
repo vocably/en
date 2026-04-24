@@ -1,1 +1,4 @@
-["iseloom","paigutus","käsutus","lahendus"]
+iseloom
+paigutus
+käsutus
+lahendus

@@ -1,1 +1,2 @@
-["vie","tilegne"]
+vie
+tilegne

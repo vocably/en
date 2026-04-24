@@ -1,1 +1,3 @@
-["atalasea","muga","ataria"]
+atalasea
+muga
+ataria

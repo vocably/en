@@ -1,1 +1,2 @@
-["ehtiyatlı","çəkingən"]
+ehtiyatlı
+çəkingən

@@ -1,1 +1,2 @@
-["dediĉi","sin dediĉi"]
+dediĉi
+sin dediĉi

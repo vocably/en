@@ -1,1 +1,2 @@
-["ítarlegur","alhliða"]
+ítarlegur
+alhliða

@@ -1,1 +1,3 @@
-["réttlæta","sanna","fella í jafnvægi"]
+réttlæta
+sanna
+fella í jafnvægi

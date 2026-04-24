@@ -1,1 +1,2 @@
-["tino","rawa"]
+tino
+rawa

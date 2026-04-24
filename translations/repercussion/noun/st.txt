@@ -1,1 +1,3 @@
-["phello","kgutlo","modumo"]
+phello
+kgutlo
+modumo

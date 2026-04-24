@@ -1,1 +1,3 @@
-["tuku","whakarere","wareware"]
+tuku
+whakarere
+wareware

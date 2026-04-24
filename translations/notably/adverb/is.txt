@@ -1,1 +1,2 @@
-["sérstaklega","einkum"]
+sérstaklega
+einkum

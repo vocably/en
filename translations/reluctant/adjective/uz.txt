@@ -1,1 +1,2 @@
-["istamaydigan","xohlamaydigan"]
+istamaydigan
+xohlamaydigan

@@ -1,1 +1,2 @@
-["pang'onopang'ono","mosamala"]
+pang'onopang'ono
+mosamala

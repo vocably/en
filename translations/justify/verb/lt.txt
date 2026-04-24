@@ -1,1 +1,3 @@
-["pagrįsti","išteisinti","lygiuoti"]
+pagrįsti
+išteisinti
+lygiuoti

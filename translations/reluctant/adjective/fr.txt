@@ -1,1 +1,2 @@
-["réticent","peu enclin"]
+réticent
+peu enclin

@@ -1,1 +1,2 @@
-["okamžitě","přesně"]
+okamžitě
+přesně

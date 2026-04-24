@@ -1,1 +1,3 @@
-["descuidar","negligir","ometre"]
+descuidar
+negligir
+ometre

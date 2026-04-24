@@ -1,1 +1,2 @@
-["ostrożny","nieśmiały"]
+ostrożny
+nieśmiały

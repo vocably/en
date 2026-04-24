@@ -1,1 +1,3 @@
-["fersommele","negearje","ferjitte"]
+fersommele
+negearje
+ferjitte

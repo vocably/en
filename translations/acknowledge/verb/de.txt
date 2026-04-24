@@ -1,1 +1,4 @@
-["anerkennen","bestätigen","zur Kenntnis nehmen","begrüßen"]
+anerkennen
+bestätigen
+zur Kenntnis nehmen
+begrüßen

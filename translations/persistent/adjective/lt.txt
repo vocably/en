@@ -1,1 +1,3 @@
-["atkaklus","nuolatinis","ištvermingas"]
+atkaklus
+nuolatinis
+ištvermingas

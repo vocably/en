@@ -1,1 +1,2 @@
-["palaipsniui","po truputį"]
+palaipsniui
+po truputį

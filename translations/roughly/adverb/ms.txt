@@ -1,1 +1,3 @@
-["kira-kira","lebih kurang","secara kasar"]
+kira-kira
+lebih kurang
+secara kasar

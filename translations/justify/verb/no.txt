@@ -1,1 +1,3 @@
-["rettferdiggjøre","begrunne","frifinne"]
+rettferdiggjøre
+begrunne
+frifinne

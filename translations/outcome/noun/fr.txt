@@ -1,1 +1,2 @@
-["résultat","conséquence"]
+résultat
+conséquence

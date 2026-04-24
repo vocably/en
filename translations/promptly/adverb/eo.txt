@@ -1,1 +1,2 @@
-["tuj","ekzakte"]
+tuj
+ekzakte

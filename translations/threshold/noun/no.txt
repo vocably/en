@@ -1,1 +1,3 @@
-["terskel","terskelverdi","grenseverdi"]
+terskel
+terskelverdi
+grenseverdi

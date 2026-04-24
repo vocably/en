@@ -1,1 +1,4 @@
-["elismer","tudomásul vesz","igazol","köszön"]
+elismer
+tudomásul vesz
+igazol
+köszön

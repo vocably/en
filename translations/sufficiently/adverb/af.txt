@@ -1,1 +1,2 @@
-["voldoende","genoegsaam"]
+voldoende
+genoegsaam

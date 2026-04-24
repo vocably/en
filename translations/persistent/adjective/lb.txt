@@ -1,1 +1,3 @@
-["persistent","dauerhaft","zäi"]
+persistent
+dauerhaft
+zäi

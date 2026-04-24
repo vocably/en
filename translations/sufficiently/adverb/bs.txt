@@ -1,1 +1,2 @@
-["dovoljno","adekvatno"]
+dovoljno
+adekvatno

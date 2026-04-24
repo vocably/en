@@ -1,1 +1,2 @@
-["ezu","nke_ezu"]
+ezu
+nke_ezu

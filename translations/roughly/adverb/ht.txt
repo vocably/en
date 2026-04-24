@@ -1,1 +1,3 @@
-["brutalman","apeprè","degrosye"]
+brutalman
+apeprè
+degrosye

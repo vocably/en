@@ -1,1 +1,2 @@
-["mjaftueshëm","sa duhet"]
+mjaftueshëm
+sa duhet

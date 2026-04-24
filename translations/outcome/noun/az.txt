@@ -1,1 +1,2 @@
-["nəticə","sonuc"]
+nəticə
+sonuc

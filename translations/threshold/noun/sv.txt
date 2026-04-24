@@ -1,1 +1,3 @@
-["tröskel","gräns","startpunkt"]
+tröskel
+gräns
+startpunkt

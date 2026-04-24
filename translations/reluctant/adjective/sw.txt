@@ -1,1 +1,2 @@
-["kusitasita","-a kusita"]
+kusitasita
+-a kusita

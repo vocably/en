@@ -1,1 +1,4 @@
-["kukubali","kutambua","kudhibitisha","kusabahi"]
+kukubali
+kutambua
+kudhibitisha
+kusabahi

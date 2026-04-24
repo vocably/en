@@ -1,1 +1,3 @@
-["harkita","pitää","ottaa huomioon"]
+harkita
+pitää
+ottaa huomioon

@@ -1,1 +1,2 @@
-["implicitně","bezvýhradně"]
+implicitně
+bezvýhradně

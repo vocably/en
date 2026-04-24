@@ -1,1 +1,2 @@
-["bagyşlamak","sarp etmek"]
+bagyşlamak
+sarp etmek

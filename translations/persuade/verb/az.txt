@@ -1,1 +1,2 @@
-["inandırmaq","razı salmaq"]
+inandırmaq
+razı salmaq

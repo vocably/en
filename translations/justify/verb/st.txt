@@ -1,1 +1,3 @@
-["netefatsa","lokisa","hlweka"]
+netefatsa
+lokisa
+hlweka

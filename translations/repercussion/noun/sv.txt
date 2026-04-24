@@ -1,1 +1,3 @@
-["återverkan","rekyl","eko"]
+återverkan
+rekyl
+eko

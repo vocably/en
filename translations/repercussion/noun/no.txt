@@ -1,1 +1,3 @@
-["ettervirkning","rekyl","gjenklang"]
+ettervirkning
+rekyl
+gjenklang

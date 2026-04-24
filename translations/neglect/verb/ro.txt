@@ -1,1 +1,3 @@
-["a neglija","a nu ține cont de","a omite"]
+a neglija
+a nu ține cont de
+a omite

@@ -1,1 +1,3 @@
-["biện minh","chứng minh","xếp thẳng hàng"]
+biện minh
+chứng minh
+xếp thẳng hàng

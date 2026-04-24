@@ -1,1 +1,3 @@
-["marinka","irbad","heerka"]
+marinka
+irbad
+heerka

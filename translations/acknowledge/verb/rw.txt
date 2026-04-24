@@ -1,1 +1,4 @@
-["kwemera","kumenya","kwakira","gusuhuza"]
+kwemera
+kumenya
+kwakira
+gusuhuza

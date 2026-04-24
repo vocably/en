@@ -1,1 +1,2 @@
-["segera","tepat waktu"]
+segera
+tepat waktu

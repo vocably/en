@@ -1,1 +1,4 @@
-["kuvomereza","kuzindikira","kulandira","kupatsa moni"]
+kuvomereza
+kuzindikira
+kulandira
+kupatsa moni

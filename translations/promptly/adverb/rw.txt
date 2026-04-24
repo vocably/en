@@ -1,1 +1,2 @@
-["ako kanya","ku gihe"]
+ako kanya
+ku gihe

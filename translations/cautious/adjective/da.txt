@@ -1,1 +1,2 @@
-["forsigtig","betænksom"]
+forsigtig
+betænksom

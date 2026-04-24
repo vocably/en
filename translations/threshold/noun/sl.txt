@@ -1,1 +1,3 @@
-["prag","meja","rob"]
+prag
+meja
+rob

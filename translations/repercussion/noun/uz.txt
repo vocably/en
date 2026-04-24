@@ -1,1 +1,3 @@
-["oqibat","aks-sado","ta'sir"]
+oqibat
+aks-sado
+ta'sir

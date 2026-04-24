@@ -1,1 +1,2 @@
-["ikrar etmek","ynandyrmak"]
+ikrar etmek
+ynandyrmak

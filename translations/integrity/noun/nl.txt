@@ -1,1 +1,3 @@
-["integriteit","gaafheid","ongeschondenheid"]
+integriteit
+gaafheid
+ongeschondenheid

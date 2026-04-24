@@ -1,1 +1,2 @@
-["malinklina","kontraŭvola"]
+malinklina
+kontraŭvola

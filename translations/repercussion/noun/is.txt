@@ -1,1 +1,3 @@
-["afleiðing","eftirköst","óafturkræf áhrif"]
+afleiðing
+eftirköst
+óafturkræf áhrif

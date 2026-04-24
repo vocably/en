@@ -1,1 +1,4 @@
-["yarda","ganewa","amsa","gaisuwa"]
+yarda
+ganewa
+amsa
+gaisuwa

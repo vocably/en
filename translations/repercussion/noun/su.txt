@@ -1,1 +1,3 @@
-["balukar","dampak","akibat"]
+balukar
+dampak
+akibat

@@ -1,1 +1,3 @@
-["neglect","disregard","fail to do"]
+neglect
+disregard
+fail to do

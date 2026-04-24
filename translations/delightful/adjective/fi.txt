@@ -1,1 +1,2 @@
-["ihana","nautittava"]
+ihana
+nautittava

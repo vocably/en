@@ -1,1 +1,3 @@
-["qhov tshwm sim","qhov txim","lub suab nrov"]
+qhov tshwm sim
+qhov txim
+lub suab nrov

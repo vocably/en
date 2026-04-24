@@ -1,1 +1,2 @@
-["odmah","ta\\u010dno"]
+odmah
+ta\u010dno

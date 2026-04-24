@@ -1,1 +1,2 @@
-["ampy","mahavita"]
+ampy
+mahavita

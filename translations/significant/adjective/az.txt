@@ -1,1 +1,3 @@
-["əhəmiyyətli","önəmli","vacib"]
+əhəmiyyətli
+önəmli
+vacib

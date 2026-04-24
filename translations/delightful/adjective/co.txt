@@ -1,1 +1,2 @@
-["deliziosu","piacevule"]
+deliziosu
+piacevule

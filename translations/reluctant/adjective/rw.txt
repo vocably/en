@@ -1,1 +1,2 @@
-["zuyaza","gakerageza"]
+zuyaza
+gakerageza

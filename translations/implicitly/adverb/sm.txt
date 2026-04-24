@@ -1,1 +1,2 @@
-["fa'asino","atoa"]
+fa'asino
+atoa

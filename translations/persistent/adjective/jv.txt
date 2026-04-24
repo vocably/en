@@ -1,1 +1,3 @@
-["gigih","mantep","tetep"]
+gigih
+mantep
+tetep

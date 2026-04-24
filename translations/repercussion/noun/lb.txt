@@ -1,1 +1,3 @@
-["Konsequenz","Auswierkung","Réckstouss"]
+Konsequenz
+Auswierkung
+Réckstouss

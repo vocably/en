@@ -1,1 +1,3 @@
-["davamlı","əzmli","dayanıqlı"]
+davamlı
+əzmli
+dayanıqlı

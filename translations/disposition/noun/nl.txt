@@ -1,1 +1,4 @@
-["aanleg","aard","karakter","regeling"]
+aanleg
+aard
+karakter
+regeling

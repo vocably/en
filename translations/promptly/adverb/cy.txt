@@ -1,1 +1,2 @@
-["yn brydlon","ar unwaith"]
+yn brydlon
+ar unwaith

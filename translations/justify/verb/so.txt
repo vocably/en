@@ -1,1 +1,3 @@
-["Caddee","Toosi","Dambi dhaaf"]
+Caddee
+Toosi
+Dambi dhaaf

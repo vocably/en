@@ -1,1 +1,3 @@
-["ystyried","meddwl","cofio"]
+ystyried
+meddwl
+cofio

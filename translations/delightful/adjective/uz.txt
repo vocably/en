@@ -1,1 +1,2 @@
-["yoqimli","xushyoqim"]
+yoqimli
+xushyoqim

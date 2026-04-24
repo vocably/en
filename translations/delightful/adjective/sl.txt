@@ -1,1 +1,2 @@
-["čudovit","prijeten"]
+čudovit
+prijeten

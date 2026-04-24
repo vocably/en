@@ -1,1 +1,3 @@
-["kitartó","állandó","perzisztens"]
+kitartó
+állandó
+perzisztens

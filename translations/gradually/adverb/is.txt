@@ -1,1 +1,2 @@
-["smám saman","stig af stigi"]
+smám saman
+stig af stigi

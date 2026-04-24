@@ -1,1 +1,3 @@
-["aklamak","esaslandyrmak","dogrulamak"]
+aklamak
+esaslandyrmak
+dogrulamak

@@ -1,1 +1,4 @@
-["aard","ynstelling","regeling","beskikking"]
+aard
+ynstelling
+regeling
+beskikking

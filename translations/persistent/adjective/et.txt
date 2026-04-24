@@ -1,1 +1,3 @@
-["visa","püsiv","järeleandmatu"]
+visa
+püsiv
+järeleandmatu

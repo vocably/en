@@ -1,1 +1,2 @@
-["akahele","kaupaona"]
+akahele
+kaupaona

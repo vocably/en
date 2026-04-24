@@ -1,1 +1,2 @@
-["nenoriai","nedrąsiai"]
+nenoriai
+nedrąsiai

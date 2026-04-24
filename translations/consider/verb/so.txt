@@ -1,1 +1,3 @@
-["Ka fiirso","U fiirso","Tixgeli"]
+Ka fiirso
+U fiirso
+Tixgeli

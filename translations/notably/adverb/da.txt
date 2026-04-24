@@ -1,1 +1,2 @@
-["især","navnlig"]
+især
+navnlig

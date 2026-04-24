@@ -1,1 +1,3 @@
-["ruaj khov","ntev","lo"]
+ruaj khov
+ntev
+lo

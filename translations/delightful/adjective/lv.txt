@@ -1,1 +1,2 @@
-["apburošs","burvīgs"]
+apburošs
+burvīgs

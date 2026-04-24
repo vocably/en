@@ -1,1 +1,2 @@
-["qëndresë","elasticitet"]
+qëndresë
+elasticitet

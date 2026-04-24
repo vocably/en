@@ -1,1 +1,2 @@
-["óbeint","algjörlega"]
+óbeint
+algjörlega

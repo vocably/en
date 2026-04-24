@@ -1,1 +1,2 @@
-["entzückend","reizend"]
+entzückend
+reizend

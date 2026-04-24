@@ -1,1 +1,3 @@
-["drompel","grins","drompelfrije"]
+drompel
+grins
+drompelfrije

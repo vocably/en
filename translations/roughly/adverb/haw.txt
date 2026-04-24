@@ -1,1 +1,3 @@
-["aneane","kokoke","iho"]
+aneane
+kokoke
+iho

@@ -1,1 +1,4 @@
-["unerken","bekennen","bestätegen","beäntweren"]
+unerken
+bekennen
+bestätegen
+beäntweren

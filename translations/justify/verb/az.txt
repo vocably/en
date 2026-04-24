@@ -1,1 +1,3 @@
-["əsaslandırmaq","haqq qazandırmaq","təmizə çıxarmaq"]
+əsaslandırmaq
+haqq qazandırmaq
+təmizə çıxarmaq

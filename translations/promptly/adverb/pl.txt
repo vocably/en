@@ -1,1 +1,2 @@
-["natychmiast","punktualnie"]
+natychmiast
+punktualnie

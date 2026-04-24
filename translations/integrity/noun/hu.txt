@@ -1,1 +1,3 @@
-["feddhetetlenség","tisztesség","becsületesség"]
+feddhetetlenség
+tisztesség
+becsületesség

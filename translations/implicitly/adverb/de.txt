@@ -1,1 +1,2 @@
-["implizit","stillschweigend"]
+implizit
+stillschweigend

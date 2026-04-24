@@ -1,1 +1,3 @@
-["répercussion","contrecoup","retentissement"]
+répercussion
+contrecoup
+retentissement

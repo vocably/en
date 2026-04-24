@@ -1,1 +1,3 @@
-["visszahatás","következmény","visszhang"]
+visszahatás
+következmény
+visszhang

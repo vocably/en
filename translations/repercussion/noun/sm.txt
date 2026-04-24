@@ -1,1 +1,3 @@
-["i'uga","taunu'uga","tali"]
+i'uga
+taunu'uga
+tali

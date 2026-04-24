@@ -1,1 +1,2 @@
-["hərtərəfli","əhatəli"]
+hərtərəfli
+əhatəli

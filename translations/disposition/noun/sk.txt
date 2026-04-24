@@ -1,1 +1,4 @@
-["dispozícia","povaha","sklon","usporiadanie"]
+dispozícia
+povaha
+sklon
+usporiadanie

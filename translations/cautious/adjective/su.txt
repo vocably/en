@@ -1,1 +1,2 @@
-["ati-ati","wegah"]
+ati-ati
+wegah

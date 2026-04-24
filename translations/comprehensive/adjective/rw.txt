@@ -1,1 +1,2 @@
-["byuzuye","rusange"]
+byuzuye
+rusange

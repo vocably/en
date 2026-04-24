@@ -1,1 +1,2 @@
-["délicieux","ravissant"]
+délicieux
+ravissant

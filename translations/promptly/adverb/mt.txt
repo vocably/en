@@ -1,1 +1,2 @@
-["minnufih","fil-pront"]
+minnufih
+fil-pront

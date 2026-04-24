@@ -1,1 +1,3 @@
-["prag","kućni prag","granica"]
+prag
+kućni prag
+granica

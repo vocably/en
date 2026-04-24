@@ -1,1 +1,4 @@
-["tilstr\n\nelig","nok"]
+tilstr
+
+elig
+nok

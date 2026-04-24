@@ -1,1 +1,2 @@
-["nang hindi tuwiran","nang lubusan"]
+nang hindi tuwiran
+nang lubusan

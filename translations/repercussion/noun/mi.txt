@@ -1,1 +1,3 @@
-["hua","pānga","whakaari"]
+hua
+pānga
+whakaari

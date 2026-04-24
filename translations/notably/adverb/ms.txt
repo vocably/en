@@ -1,1 +1,2 @@
-["terutamanya","khususnya"]
+terutamanya
+khususnya

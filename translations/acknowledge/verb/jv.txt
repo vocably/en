@@ -1,1 +1,4 @@
-["ngakoni","nampa","ngregoni","mangerteni"]
+ngakoni
+nampa
+ngregoni
+mangerteni

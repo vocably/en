@@ -1,1 +1,2 @@
-["ləzzətli","xoş"]
+ləzzətli
+xoş

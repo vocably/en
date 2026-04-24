@@ -1,1 +1,3 @@
-["märkimisväärne","oluline","tähenduslik"]
+märkimisväärne
+oluline
+tähenduslik

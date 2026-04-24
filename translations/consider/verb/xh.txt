@@ -1,1 +1,3 @@
-["cnga","cinga","qwalasela"]
+cnga
+cinga
+qwalasela

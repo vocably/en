@@ -1,1 +1,2 @@
-["hallgatólagosan","magától értetődően"]
+hallgatólagosan
+magától értetődően

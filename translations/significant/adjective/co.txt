@@ -1,1 +1,3 @@
-["significativu","impurtante","espressivu"]
+significativu
+impurtante
+espressivu

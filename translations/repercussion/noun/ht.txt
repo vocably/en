@@ -1,1 +1,3 @@
-["konsekans","reperkisyon","reja"]
+konsekans
+reperkisyon
+reja

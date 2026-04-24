@@ -1,1 +1,3 @@
-["nimbang","nganggep","gatekake"]
+nimbang
+nganggep
+gatekake

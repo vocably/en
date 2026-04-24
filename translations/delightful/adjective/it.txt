@@ -1,1 +1,2 @@
-["delizioso","squisito"]
+delizioso
+squisito

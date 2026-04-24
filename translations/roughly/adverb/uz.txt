@@ -1,1 +1,3 @@
-["taxminan","dag'al qilib","qo'pol qilib"]
+taxminan
+dag'al qilib
+qo'pol qilib

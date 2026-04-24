@@ -1,1 +1,3 @@
-["tagajärg","järelkaja","kaja"]
+tagajärg
+järelkaja
+kaja

@@ -1,1 +1,3 @@
-["roes","ongeveer","rofweg"]
+roes
+ongeveer
+rofweg

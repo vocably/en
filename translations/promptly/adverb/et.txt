@@ -1,1 +1,2 @@
-["viivitamatult","täpselt"]
+viivitamatult
+täpselt

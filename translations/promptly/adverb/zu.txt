@@ -1,1 +1,2 @@
-["masinyane","ngesikhathi"]
+masinyane
+ngesikhathi

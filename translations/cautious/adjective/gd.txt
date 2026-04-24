@@ -1,1 +1,2 @@
-["faiceallach","rabhaidh"]
+faiceallach
+rabhaidh

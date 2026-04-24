@@ -1,1 +1,2 @@
-["menjëherë","me kohë"]
+menjëherë
+me kohë

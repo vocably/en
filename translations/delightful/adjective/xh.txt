@@ -1,1 +1,2 @@
-["mnandi","nomtsalane"]
+mnandi
+nomtsalane

@@ -1,1 +1,3 @@
-["beachdachadh","meas","aire"]
+beachdachadh
+meas
+aire

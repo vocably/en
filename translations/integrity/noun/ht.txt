@@ -1,1 +1,3 @@
-["entegrite","onètete","moralite"]
+entegrite
+onètete
+moralite

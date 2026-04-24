@@ -1,1 +1,4 @@
-["watak","sifat","penempatan","penyelesaian"]
+watak
+sifat
+penempatan
+penyelesaian

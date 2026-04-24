@@ -1,1 +1,3 @@
-["ingenzi","ifite ireme","igaragaza"]
+ingenzi
+ifite ireme
+igaragaza

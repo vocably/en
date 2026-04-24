@@ -1,1 +1,3 @@
-["implicitne","bezpodmiene\nne"]
+implicitne
+bezpodmiene
+ne

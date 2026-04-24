@@ -1,1 +1,3 @@
-["významný","důležitý","smysluplný"]
+významný
+důležitý
+smysluplný

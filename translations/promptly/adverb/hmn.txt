@@ -1,1 +1,2 @@
-["tam sim ntawd","raws sijhawm"]
+tam sim ntawd
+raws sijhawm

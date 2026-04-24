@@ -1,1 +1,2 @@
-["makamaka","kwambiri"]
+makamaka
+kwambiri

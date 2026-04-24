@@ -1,1 +1,4 @@
-["boýun almak","ykwrar etmek","tassyk etmek","habar bermek"]
+boýun almak
+ykwrar etmek
+tassyk etmek
+habar bermek

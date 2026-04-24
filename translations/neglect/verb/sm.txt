@@ -1,1 +1,3 @@
-["faatamala","le amanaia","tuulafoai"]
+faatamala
+le amanaia
+tuulafoai

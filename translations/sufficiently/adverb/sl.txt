@@ -1,1 +1,2 @@
-["dovolj","zadostno"]
+dovolj
+zadostno

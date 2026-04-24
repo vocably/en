@@ -1,1 +1,2 @@
-["osobito","posebno"]
+osobito
+posebno

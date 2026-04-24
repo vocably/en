@@ -1,1 +1,2 @@
-["widerwillig","zögernd"]
+widerwillig
+zögernd

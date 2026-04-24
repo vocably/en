@@ -1,1 +1,4 @@
-["uznať","priznať","potvrdiť","vziať na vedomie"]
+uznať
+priznať
+potvrdiť
+vziať na vedomie

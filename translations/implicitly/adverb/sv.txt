@@ -1,1 +1,2 @@
-["underförstått","absolut"]
+underförstått
+absolut

@@ -1,1 +1,4 @@
-["perangai","sifat","susunan","penyelesaian"]
+perangai
+sifat
+susunan
+penyelesaian

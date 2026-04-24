@@ -1,1 +1,2 @@
-["erresilientzia","malgutasun"]
+erresilientzia
+malgutasun

@@ -1,1 +1,2 @@
-["osoa","zabala"]
+osoa
+zabala

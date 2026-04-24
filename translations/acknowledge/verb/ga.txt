@@ -1,1 +1,4 @@
-["admhaigh","aithin","deimhnigh","thug aitheantas do"]
+admhaigh
+aithin
+deimhnigh
+thug aitheantas do

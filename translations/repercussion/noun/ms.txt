@@ -1,1 +1,3 @@
-["kesan","akibat","gema"]
+kesan
+akibat
+gema

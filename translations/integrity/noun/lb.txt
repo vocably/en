@@ -1,1 +1,3 @@
-["Integritéit","Éierlechkeet","Soliditéit"]
+Integritéit
+Éierlechkeet
+Soliditéit

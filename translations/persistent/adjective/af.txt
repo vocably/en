@@ -1,1 +1,3 @@
-["aanhoudend","volhardend","vasbeslote"]
+aanhoudend
+volhardend
+vasbeslote

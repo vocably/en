@@ -1,1 +1,3 @@
-["ọnụ ụzọ","mmalite","ókè"]
+ọnụ ụzọ
+mmalite
+ókè

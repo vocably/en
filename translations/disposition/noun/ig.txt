@@ -1,1 +1,4 @@
-["Àgwà","Mmezi","Ndokwa","Mkpebi"]
+Àgwà
+Mmezi
+Ndokwa
+Mkpebi

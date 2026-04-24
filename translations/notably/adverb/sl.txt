@@ -1,1 +1,2 @@
-["predvsem","zlasti"]
+predvsem
+zlasti

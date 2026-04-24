@@ -1,1 +1,4 @@
-["hunhu","mugariro","kurongeka","kugadzirisa"]
+hunhu
+mugariro
+kurongeka
+kugadzirisa

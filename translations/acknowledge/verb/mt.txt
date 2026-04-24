@@ -1,1 +1,4 @@
-["jirrikonoxxi","jammetti","jikkonferma","jilqa'"]
+jirrikonoxxi
+jammetti
+jikkonferma
+jilqa'

@@ -1,1 +1,4 @@
-["qir","ogaansho","xaqiijin","salaan"]
+qir
+ogaansho
+xaqiijin
+salaan

@@ -1,1 +1,2 @@
-["üstüörtülü","şərtsiz"]
+üstüörtülü
+şərtsiz

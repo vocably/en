@@ -1,1 +1,3 @@
-["tokonana","fetra","ambangovely"]
+tokonana
+fetra
+ambangovely

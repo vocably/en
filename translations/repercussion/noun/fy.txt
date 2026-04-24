@@ -1,1 +1,3 @@
-["neislach","weromslach","wjerklank"]
+neislach
+weromslach
+wjerklank

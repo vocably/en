@@ -1,1 +1,4 @@
-["erkennen","bevestigen","honoreren","begroeten"]
+erkennen
+bevestigen
+honoreren
+begroeten

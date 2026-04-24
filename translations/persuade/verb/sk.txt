@@ -1,1 +1,2 @@
-["presvedčiť","nahovoriť"]
+presvedčiť
+nahovoriť

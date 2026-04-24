@@ -1,1 +1,4 @@
-["sind","gemyt","placering","anordning"]
+sind
+gemyt
+placering
+anordning

@@ -1,1 +1,3 @@
-["ƙofa","mafari","iyaka"]
+ƙofa
+mafari
+iyaka

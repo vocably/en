@@ -1,1 +1,3 @@
-["pravigi","justigi","senkulpigi"]
+pravigi
+justigi
+senkulpigi

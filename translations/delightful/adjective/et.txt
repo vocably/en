@@ -1,1 +1,2 @@
-["veetlev","võluv"]
+veetlev
+võluv

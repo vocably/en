@@ -1,1 +1,2 @@
-["kem-kem","aýakdygyna"]
+kem-kem
+aýakdygyna

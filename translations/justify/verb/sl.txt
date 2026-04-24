@@ -1,1 +1,3 @@
-["upravičiti","poravnati","opravičiti"]
+upravičiti
+poravnati
+opravičiti

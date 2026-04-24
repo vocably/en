@@ -1,1 +1,3 @@
-["keukeuh","ngotot","teuneung"]
+keukeuh
+ngotot
+teuneung

@@ -1,1 +1,3 @@
-["sinifikanti","importanti","tifsira"]
+sinifikanti
+importanti
+tifsira

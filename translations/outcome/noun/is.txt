@@ -1,1 +1,2 @@
-["afleiðing","árangur"]
+afleiðing
+árangur

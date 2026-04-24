@@ -1,1 +1,3 @@
-["gróflega","svona","í grófum dráttum"]
+gróflega
+svona
+í grófum dráttum

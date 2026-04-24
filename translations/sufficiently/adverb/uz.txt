@@ -1,1 +1,2 @@
-["yetarli darajada","kifoya"]
+yetarli darajada
+kifoya

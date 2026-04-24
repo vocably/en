@@ -1,1 +1,3 @@
-["faʻamalosi","tusa","faʻataʻitaʻi"]
+faʻamalosi
+tusa
+faʻataʻitaʻi

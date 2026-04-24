@@ -1,1 +1,2 @@
-["venovať sa","zasvätiť"]
+venovať sa
+zasvätiť

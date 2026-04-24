@@ -1,1 +1,3 @@
-["vindicate","align","acquit"]
+vindicate
+align
+acquit

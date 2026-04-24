@@ -1,1 +1,3 @@
-["Cawaaqib","Natiijo","Dhawaaq"]
+Cawaaqib
+Natiijo
+Dhawaaq

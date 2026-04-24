@@ -1,1 +1,3 @@
-["vernoléissegen","net këmmeren","verpassen"]
+vernoléissegen
+net këmmeren
+verpassen

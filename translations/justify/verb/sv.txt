@@ -1,1 +1,3 @@
-["rättfärdiga","motivera","justera"]
+rättfärdiga
+motivera
+justera

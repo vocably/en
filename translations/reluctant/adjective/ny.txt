@@ -1,1 +1,2 @@
-["kukayikira","wosafuna"]
+kukayikira
+wosafuna

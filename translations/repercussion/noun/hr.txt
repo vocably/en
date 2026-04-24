@@ -1,1 +1,3 @@
-["posljedica","odjek","reverberacija"]
+posljedica
+odjek
+reverberacija

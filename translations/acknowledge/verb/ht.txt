@@ -1,1 +1,4 @@
-["rekonèt","aksepte","konfime","salye"]
+rekonèt
+aksepte
+konfime
+salye

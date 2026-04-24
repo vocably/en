@@ -1,1 +1,4 @@
-["disposició","caràcter","índole","liquidació"]
+disposició
+caràcter
+índole
+liquidació

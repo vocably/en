@@ -1,1 +1,2 @@
-["Adkaysi","Dabacsanaan"]
+Adkaysi
+Dabacsanaan

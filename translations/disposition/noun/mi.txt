@@ -1,1 +1,4 @@
-["āhua","huranga","whakaritenga","otinga"]
+āhua
+huranga
+whakaritenga
+otinga

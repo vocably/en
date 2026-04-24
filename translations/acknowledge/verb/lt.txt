@@ -1,1 +1,4 @@
-["pripažinti","patvirtinti","atsidėkoti","pastebėti"]
+pripažinti
+patvirtinti
+atsidėkoti
+pastebėti

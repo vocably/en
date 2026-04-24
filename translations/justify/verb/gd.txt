@@ -1,1 +1,3 @@
-["dearbhaich","fìreanachadh","co-thaobhaich"]
+dearbhaich
+fìreanachadh
+co-thaobhaich

@@ -1,1 +1,2 @@
-["raara onwe ya nye","nye"]
+raara onwe ya nye
+nye

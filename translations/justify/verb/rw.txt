@@ -1,1 +1,3 @@
-["kwerekana ko ari ukuri","guhuza imipaka y'inyandiko","kugira umwere"]
+kwerekana ko ari ukuri
+guhuza imipaka y'inyandiko
+kugira umwere

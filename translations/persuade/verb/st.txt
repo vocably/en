@@ -1,1 +1,2 @@
-["ho susumetsa","ho kgodisa"]
+ho susumetsa
+ho kgodisa

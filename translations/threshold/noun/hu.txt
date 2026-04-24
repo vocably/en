@@ -1,1 +1,3 @@
-["küszöb","határ","ingerküszöb"]
+küszöb
+határ
+ingerküszöb

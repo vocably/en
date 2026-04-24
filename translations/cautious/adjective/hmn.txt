@@ -1,1 +1,2 @@
-["ceev faj","tsis khov siab"]
+ceev faj
+tsis khov siab

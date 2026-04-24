@@ -1,1 +1,2 @@
-["koke","i ka manawa pono"]
+koke
+i ka manawa pono

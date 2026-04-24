@@ -1,1 +1,2 @@
-["nefis","keyifli"]
+nefis
+keyifli

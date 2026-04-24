@@ -1,1 +1,2 @@
-["consacrer","dédier"]
+consacrer
+dédier

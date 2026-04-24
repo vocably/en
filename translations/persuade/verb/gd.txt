@@ -1,1 +1,2 @@
-["thoir a chreidsinn","cuir impidh air"]
+thoir a chreidsinn
+cuir impidh air

@@ -1,1 +1,2 @@
-["banzi","pheleleyo"]
+banzi
+pheleleyo

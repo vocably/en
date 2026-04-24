@@ -1,1 +1,2 @@
-["haddii ay suurtogal tahay","waqtigii loogu talagalay"]
+haddii ay suurtogal tahay
+waqtigii loogu talagalay

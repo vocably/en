@@ -1,1 +1,2 @@
-["daya lentur","daya pulih"]
+daya lentur
+daya pulih

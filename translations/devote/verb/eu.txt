@@ -1,1 +1,2 @@
-["eskaini","sagartu"]
+eskaini
+sagartu

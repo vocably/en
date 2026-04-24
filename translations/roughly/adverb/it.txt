@@ -1,1 +1,3 @@
-["approssimativamente","all'incirca","rozzamente"]
+approssimativamente
+all'incirca
+rozzamente

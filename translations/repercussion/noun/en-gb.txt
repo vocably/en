@@ -1,1 +1,2 @@
-["repercussion","reverberation"]
+repercussion
+reverberation

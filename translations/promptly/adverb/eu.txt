@@ -1,1 +1,2 @@
-["berehala","puntualki"]
+berehala
+puntualki

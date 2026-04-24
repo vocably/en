@@ -1,1 +1,3 @@
-["significativo","rilevante","importante"]
+significativo
+rilevante
+importante

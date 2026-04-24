@@ -1,1 +1,3 @@
-["dürüstlük","bütövlük","sağlamlıq"]
+dürüstlük
+bütövlük
+sağlamlıq

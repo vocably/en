@@ -1,1 +1,3 @@
-["Thibitisha","Panga","Samehe"]
+Thibitisha
+Panga
+Samehe

@@ -1,1 +1,2 @@
-["veenma","ümber veenma"]
+veenma
+ümber veenma

@@ -1,1 +1,3 @@
-["konsidere","reflechi","pran an kont"]
+konsidere
+reflechi
+pran an kont

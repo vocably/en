@@ -1,1 +1,2 @@
-["ìfaradà","ìgbéláradà"]
+ìfaradà
+ìgbéláradà

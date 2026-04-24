@@ -1,1 +1,2 @@
-["hloko","ts'ohi"]
+hloko
+ts'ohi

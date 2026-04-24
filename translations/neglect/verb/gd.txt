@@ -1,1 +1,3 @@
-["dearmad","neo-chùram","dìmeas"]
+dearmad
+neo-chùram
+dìmeas

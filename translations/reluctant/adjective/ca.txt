@@ -1,1 +1,2 @@
-["reticent","poc inclinat"]
+reticent
+poc inclinat

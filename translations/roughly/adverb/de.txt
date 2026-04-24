@@ -1,1 +1,3 @@
-["ungefähr","grob","roh"]
+ungefähr
+grob
+roh

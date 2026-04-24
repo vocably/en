@@ -1,1 +1,2 @@
-["telja á","yfirtala"]
+telja á
+yfirtala

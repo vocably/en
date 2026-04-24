@@ -1,1 +1,2 @@
-["mbujuk","ngarih-arih"]
+mbujuk
+ngarih-arih

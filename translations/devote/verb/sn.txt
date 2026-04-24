@@ -1,1 +1,2 @@
-["kuzvipira","kutsaurira"]
+kuzvipira
+kutsaurira

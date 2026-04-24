@@ -1,1 +1,2 @@
-["yn nodedig","yn arbennig"]
+yn nodedig
+yn arbennig

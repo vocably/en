@@ -1,1 +1,3 @@
-["o'ylamoq","hisobga olmoq","deb bilmoq"]
+o'ylamoq
+hisobga olmoq
+deb bilmoq

@@ -1,1 +1,3 @@
-["gigih","ulet","persisten"]
+gigih
+ulet
+persisten

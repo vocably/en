@@ -1,1 +1,2 @@
-["ka mokhoa o sa tobang","ka ho feletseng"]
+ka mokhoa o sa tobang
+ka ho feletseng

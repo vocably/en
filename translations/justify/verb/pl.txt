@@ -1,1 +1,3 @@
-["uzasadniać","wyrównywać","usprawiedliwiać"]
+uzasadniać
+wyrównywać
+usprawiedliwiać

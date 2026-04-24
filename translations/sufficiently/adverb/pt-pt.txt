@@ -1,1 +1,2 @@
-["suficientemente","bastante"]
+suficientemente
+bastante

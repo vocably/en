@@ -1,1 +1,3 @@
-["retfærdiggøre","begrunde","justere"]
+retfærdiggøre
+begrunde
+justere

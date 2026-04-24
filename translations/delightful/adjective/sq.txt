@@ -1,1 +1,2 @@
-["i këndshëm","i mrekullueshëm"]
+i këndshëm
+i mrekullueshëm

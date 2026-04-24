@@ -1,1 +1,3 @@
-["godīgums","integritāte","veselums"]
+godīgums
+integritāte
+veselums

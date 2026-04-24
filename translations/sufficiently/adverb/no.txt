@@ -1,1 +1,2 @@
-["tilstrekkelig","nok"]
+tilstrekkelig
+nok

@@ -1,1 +1,3 @@
-["justifikoj","arsyetoj","shpallej i pafajshëm"]
+justifikoj
+arsyetoj
+shpallej i pafajshëm

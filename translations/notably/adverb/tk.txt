@@ -1,1 +1,2 @@
-["esasan","hususan"]
+esasan
+hususan

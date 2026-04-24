@@ -1,1 +1,3 @@
-["afërsisht","përafërsisht","ashpër"]
+afërsisht
+përafërsisht
+ashpër

@@ -1,1 +1,3 @@
-["i rëndësishëm","domethënës","kuptimplotë"]
+i rëndësishëm
+domethënës
+kuptimplotë

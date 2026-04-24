@@ -1,1 +1,3 @@
-["considerar","pensar","ter en conta"]
+considerar
+pensar
+ter en conta

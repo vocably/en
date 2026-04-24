@@ -1,1 +1,4 @@
-["usposobienie","charakter","rozporządzanie","rozstrzygnięcie"]
+usposobienie
+charakter
+rozporządzanie
+rozstrzygnięcie

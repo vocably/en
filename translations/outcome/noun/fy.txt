@@ -1,1 +1,2 @@
-["útkomst","gefolch"]
+útkomst
+gefolch

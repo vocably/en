@@ -1,1 +1,2 @@
-["cuprinzător","atotcuprinzător"]
+cuprinzător
+atotcuprinzător

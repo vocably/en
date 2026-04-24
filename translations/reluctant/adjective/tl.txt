@@ -1,1 +1,2 @@
-["nag-aatubili","ayaw"]
+nag-aatubili
+ayaw

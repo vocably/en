@@ -1,1 +1,4 @@
-["makhalidwe","kasinthidwe","ulamuliro","kuthetsa"]
+makhalidwe
+kasinthidwe
+ulamuliro
+kuthetsa

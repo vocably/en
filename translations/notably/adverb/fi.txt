@@ -1,1 +1,2 @@
-["erityisesti","huomattavasti"]
+erityisesti
+huomattavasti

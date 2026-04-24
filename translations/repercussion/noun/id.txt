@@ -1,1 +1,3 @@
-["dampak","akibat","gema"]
+dampak
+akibat
+gema

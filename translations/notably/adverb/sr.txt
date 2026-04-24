@@ -1,1 +1,2 @@
-["posebno","značajno"]
+posebno
+značajno

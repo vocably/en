@@ -1,1 +1,2 @@
-["aoibhinn","thar a bheith taitneamhach"]
+aoibhinn
+thar a bheith taitneamhach

@@ -1,1 +1,3 @@
-["integreco","honesteco","unueco"]
+integreco
+honesteco
+unueco

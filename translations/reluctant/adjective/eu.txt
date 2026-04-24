@@ -1,1 +1,2 @@
-["errezelo","gogogabe"]
+errezelo
+gogogabe

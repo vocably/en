@@ -1,1 +1,2 @@
-["ʻoluʻolu","nani"]
+ʻoluʻolu
+nani

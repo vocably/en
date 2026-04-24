@@ -1,1 +1,4 @@
-["nuotaika","būdas","išdėstymas","sprendimas"]
+nuotaika
+būdas
+išdėstymas
+sprendimas

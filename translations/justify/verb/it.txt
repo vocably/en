@@ -1,1 +1,3 @@
-["giustificare","allineare","scagionare"]
+giustificare
+allineare
+scagionare

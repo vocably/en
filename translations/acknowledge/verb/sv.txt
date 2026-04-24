@@ -1,1 +1,4 @@
-["erkänna","bekräfta","tacka för","kvittera"]
+erkänna
+bekräfta
+tacka för
+kvittera

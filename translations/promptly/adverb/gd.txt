@@ -1,1 +1,2 @@
-["gu sgiobalta","gu pongail"]
+gu sgiobalta
+gu pongail

@@ -1,1 +1,2 @@
-["overtale","overbevise"]
+overtale
+overbevise

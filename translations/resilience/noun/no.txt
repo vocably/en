@@ -1,1 +1,2 @@
-["motstandskraft","elastisitet"]
+motstandskraft
+elastisitet

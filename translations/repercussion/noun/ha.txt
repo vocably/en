@@ -1,1 +1,3 @@
-["sakamako","amo","maimaita sauti"]
+sakamako
+amo
+maimaita sauti

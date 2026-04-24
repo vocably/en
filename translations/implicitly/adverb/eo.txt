@@ -1,1 +1,2 @@
-["implicite","absolute"]
+implicite
+absolute

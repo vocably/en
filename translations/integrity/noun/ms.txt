@@ -1,1 +1,3 @@
-["integriti","keutuhan","kejujuran"]
+integriti
+keutuhan
+kejujuran

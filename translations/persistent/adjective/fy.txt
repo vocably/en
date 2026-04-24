@@ -1,1 +1,3 @@
-["oanhâldend","fêsthâldend","koppich"]
+oanhâldend
+fêsthâldend
+koppich

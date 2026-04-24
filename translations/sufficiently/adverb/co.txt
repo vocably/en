@@ -1,1 +1,2 @@
-["abbastanza","àbasta"]
+abbastanza
+àbasta

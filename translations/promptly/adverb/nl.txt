@@ -1,1 +1,2 @@
-["onmiddellijk","stipt"]
+onmiddellijk
+stipt

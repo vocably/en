@@ -1,1 +1,3 @@
-["maldelikate","proksimume","krude"]
+maldelikate
+proksimume
+krude

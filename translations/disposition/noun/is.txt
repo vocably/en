@@ -1,1 +1,4 @@
-["skapsmót","geðslag","ráðstöfun","fyrirkomulag"]
+skapsmót
+geðslag
+ráðstöfun
+fyrirkomulag

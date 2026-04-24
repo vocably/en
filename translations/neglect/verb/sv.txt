@@ -1,1 +1,3 @@
-["försumma","åsidosätta","underlåta"]
+försumma
+åsidosätta
+underlåta

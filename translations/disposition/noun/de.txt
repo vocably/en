@@ -1,1 +1,4 @@
-["die Disposition","das Gemüt","die Anordnung","die Regelung"]
+die Disposition
+das Gemüt
+die Anordnung
+die Regelung

@@ -1,1 +1,4 @@
-["hali","halayya","tsari","ikon mallaka"]
+hali
+halayya
+tsari
+ikon mallaka

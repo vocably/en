@@ -1,1 +1,2 @@
-["mai-tSoro","mai-hankali"]
+mai-tSoro
+mai-hankali

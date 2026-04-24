@@ -1,1 +1,3 @@
-["wichtich","betsjuttend","signifikant"]
+wichtich
+betsjuttend
+signifikant

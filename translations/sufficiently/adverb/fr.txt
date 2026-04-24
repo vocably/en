@@ -1,1 +1,2 @@
-["suffisamment","assez"]
+suffisamment
+assez

@@ -1,1 +1,4 @@
-["toetra","fomba","fandaharana","fanapahan-kevitra"]
+toetra
+fomba
+fandaharana
+fanapahan-kevitra

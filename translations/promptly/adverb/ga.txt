@@ -1,1 +1,2 @@
-["láithreach","go pras"]
+láithreach
+go pras

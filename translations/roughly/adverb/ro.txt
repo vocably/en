@@ -1,1 +1,3 @@
-["aproximativ","cam","grosolan"]
+aproximativ
+cam
+grosolan

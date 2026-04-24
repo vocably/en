@@ -1,1 +1,3 @@
-["düşünmek","göz önünde bulundurmak","hesaba katmak"]
+düşünmek
+göz önünde bulundurmak
+hesaba katmak

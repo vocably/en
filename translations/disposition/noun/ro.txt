@@ -1,1 +1,4 @@
-["dispoziție","aranjament","soluționare","înclinație"]
+dispoziție
+aranjament
+soluționare
+înclinație

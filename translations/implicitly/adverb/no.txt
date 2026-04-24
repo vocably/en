@@ -1,1 +1,2 @@
-["implisitt","underforstått"]
+implisitt
+underforstått

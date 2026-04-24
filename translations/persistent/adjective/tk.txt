@@ -1,1 +1,3 @@
-["tutukly","dowamly","ýapysgan"]
+tutukly
+dowamly
+ýapysgan

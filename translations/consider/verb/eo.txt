@@ -1,1 +1,3 @@
-["pripensi","konsideri","atenti"]
+pripensi
+konsideri
+atenti

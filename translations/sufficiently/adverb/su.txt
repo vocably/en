@@ -1,1 +1,2 @@
-["cukup","nyukupan"]
+cukup
+nyukupan

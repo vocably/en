@@ -1,1 +1,2 @@
-["uvjeriti","nagovoriti"]
+uvjeriti
+nagovoriti

@@ -1,1 +1,2 @@
-["heerlijk","charmant"]
+heerlijk
+charmant

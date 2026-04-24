@@ -1,1 +1,2 @@
-["ngay lập tức","đúng giờ"]
+ngay lập tức
+đúng giờ

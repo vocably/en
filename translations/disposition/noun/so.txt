@@ -1,1 +1,4 @@
-["Dabeecad","Hab","Diyaarin","Go'aan"]
+Dabeecad
+Hab
+Diyaarin
+Go'aan

@@ -1,1 +1,2 @@
-["genôch","foldwaande"]
+genôch
+foldwaande

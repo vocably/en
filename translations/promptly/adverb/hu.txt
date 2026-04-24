@@ -1,1 +1,2 @@
-["azonnal","pontosan"]
+azonnal
+pontosan

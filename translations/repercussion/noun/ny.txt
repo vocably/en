@@ -1,1 +1,3 @@
-["zotsatira","kubwerera","mserere"]
+zotsatira
+kubwerera
+mserere

@@ -1,1 +1,3 @@
-["Kuganizira","Kulingalira","Kusamala"]
+Kuganizira
+Kulingalira
+Kusamala

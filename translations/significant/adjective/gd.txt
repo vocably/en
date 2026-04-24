@@ -1,1 +1,3 @@
-["cudromach","brìghmhor","sònraichte"]
+cudromach
+brìghmhor
+sònraichte

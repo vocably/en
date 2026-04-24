@@ -1,1 +1,4 @@
-["straks","omgående","præcis","punktligt"]
+straks
+omgående
+præcis
+punktligt

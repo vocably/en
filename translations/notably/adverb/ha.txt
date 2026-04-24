@@ -1,1 +1,2 @@
-["musamman","ainihin"]
+musamman
+ainihin

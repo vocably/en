@@ -1,1 +1,3 @@
-["dogrulyk","bitewilik","sagdynlyk"]
+dogrulyk
+bitewilik
+sagdynlyk

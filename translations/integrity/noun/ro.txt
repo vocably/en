@@ -1,1 +1,3 @@
-["integritate","onestitate","soliditate"]
+integritate
+onestitate
+soliditate

@@ -1,1 +1,2 @@
-["hezi tues","pa dëshirë"]
+hezi tues
+pa dëshirë

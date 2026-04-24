@@ -1,1 +1,2 @@
-["canlyniad","deillian"]
+canlyniad
+deillian

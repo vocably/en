@@ -1,1 +1,3 @@
-["tsy miraharaha","manao tsirambina","mankato"]
+tsy miraharaha
+manao tsirambina
+mankato

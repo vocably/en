@@ -1,1 +1,2 @@
-["ievērojami","īpaši"]
+ievērojami
+īpaši

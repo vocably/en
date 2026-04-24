@@ -1,1 +1,2 @@
-["uroczy","zachwycający"]
+uroczy
+zachwycający

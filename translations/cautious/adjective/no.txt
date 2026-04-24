@@ -1,1 +1,2 @@
-["forsiktig","betenkt"]
+forsiktig
+betenkt
