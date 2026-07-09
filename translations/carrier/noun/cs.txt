@@ -1,0 +1,4 @@
+dopravce
+nosič
+přenašeč
+kurýr

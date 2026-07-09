@@ -1,0 +1,4 @@
+agente
+representante
+apoderado
+factor

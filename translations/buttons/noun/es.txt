@@ -1,0 +1,3 @@
+botones
+pulsadores
+chapas

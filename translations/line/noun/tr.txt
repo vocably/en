@@ -1,0 +1,4 @@
+çizgi
+sıra
+hat
+satır

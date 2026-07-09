@@ -1,0 +1,3 @@
+transferir
+sair
+remover

@@ -1,0 +1,2 @@
+entorno flotante
+entorno de coma flotante

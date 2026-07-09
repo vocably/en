@@ -1,0 +1,2 @@
+thực thi với quyền root
+dùng sudo

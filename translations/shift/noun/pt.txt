@@ -1,0 +1,4 @@
+turno
+mudança
+deslocamento
+vestido

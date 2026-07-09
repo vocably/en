@@ -1,0 +1,2 @@
+hàm lambda
+hàm ẩn danh

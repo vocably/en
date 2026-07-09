@@ -1,0 +1,3 @@
+szakasz
+rész
+metszet

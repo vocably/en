@@ -1,0 +1,4 @@
+tartma
+ağırlık
+gelme
+basma

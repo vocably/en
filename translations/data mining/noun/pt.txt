@@ -1,0 +1,4 @@
+minera
+dados
+garimpagem
+dados

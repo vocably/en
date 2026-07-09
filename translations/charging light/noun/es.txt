@@ -1,0 +1,2 @@
+luz de carga
+luz indicadora de carga

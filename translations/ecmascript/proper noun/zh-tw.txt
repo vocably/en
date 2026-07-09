@@ -1,0 +1,2 @@
+ECMAScript
+ECMA指令碼

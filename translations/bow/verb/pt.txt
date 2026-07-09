@@ -1,0 +1,3 @@
+curvar
+inclinar
+tocar

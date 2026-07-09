@@ -1,0 +1,4 @@
+conductor
+chofer
+destornillador
+impulsor

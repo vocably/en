@@ -1,0 +1,4 @@
+edificio
+construcción
+carretera
+camino

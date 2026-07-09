@@ -1,0 +1,4 @@
+die Steckdose
+der Auslass
+die Verkaufsstelle
+das Ventil

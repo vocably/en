@@ -1,0 +1,3 @@
+posição
+cargo
+situação

@@ -1,0 +1,4 @@
+secuencias
+sucesiones
+series
+segmentos

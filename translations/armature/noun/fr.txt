@@ -1,0 +1,5 @@
+armature
+induit
+carcasse
+monture
+ossature

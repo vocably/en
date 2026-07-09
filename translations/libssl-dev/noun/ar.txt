@@ -1,0 +1,2 @@
+libssl-dev
+مكتبة تطوير OpenSSL

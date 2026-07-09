@@ -1,0 +1,3 @@
+pedir prestado
+tomar prestado
+sacar prestado

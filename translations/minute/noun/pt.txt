@@ -1,0 +1,3 @@
+minuto
+instante
+momento

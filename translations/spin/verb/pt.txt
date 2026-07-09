@@ -1,0 +1,4 @@
+girar
+rodar
+fiar
+dar um giro

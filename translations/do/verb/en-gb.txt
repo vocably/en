@@ -1,0 +1,5 @@
+do
+make
+perform
+carry out
+manage

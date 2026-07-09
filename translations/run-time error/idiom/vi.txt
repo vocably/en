@@ -1,0 +1,2 @@
+lỗi thời gian chạy
+lỗi runtime

@@ -1,0 +1,5 @@
+kapı
+geçit
+giriş
+çıkış
+geçiş

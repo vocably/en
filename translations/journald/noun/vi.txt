@@ -1,0 +1,2 @@
+Journald
+Nhật ký hệ thống

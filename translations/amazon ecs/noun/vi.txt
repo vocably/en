@@ -1,0 +1,2 @@
+Dịch vụ điều phối vùng chứa được quản lý hoàn toàn do Amazon Web Services (AWS) cung cấp, hỗ trợ các vùng chứa Docker.
+Dịch vụ cho phép bạn chạy và mở rộng quy mô các ứng dụng được đóng gói trong vùng chứa trên AWS.

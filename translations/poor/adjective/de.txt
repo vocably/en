@@ -1,0 +1,3 @@
+arm
+schlecht
+gering

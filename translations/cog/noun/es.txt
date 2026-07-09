@@ -1,0 +1,3 @@
+engranaje
+diente
+rueda dentada

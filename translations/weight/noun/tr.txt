@@ -1,0 +1,4 @@
+ağırlık
+sıklet
+önem
+etki

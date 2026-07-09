@@ -1,0 +1,3 @@
+lampar
+iluminar
+bater

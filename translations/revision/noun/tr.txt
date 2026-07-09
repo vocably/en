@@ -1,0 +1,3 @@
+gözden geçirme
+düzeltme
+tekrar çalışma

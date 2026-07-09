@@ -1,0 +1,4 @@
+cerrar
+apagar
+clausurar
+silenciar

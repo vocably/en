@@ -1,0 +1,3 @@
+vuelta
+giro
+turno

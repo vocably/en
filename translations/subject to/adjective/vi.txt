@@ -1,0 +1,2 @@
+phụ thuộc
+tùy thuộc

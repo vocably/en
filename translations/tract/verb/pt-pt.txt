@@ -1,0 +1,3 @@
+arrastar
+seguir
+rastrear

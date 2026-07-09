@@ -1,0 +1,3 @@
+saludar
+decir hola
+dar saludos

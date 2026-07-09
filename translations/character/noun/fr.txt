@@ -1,0 +1,3 @@
+personnage
+caractère
+lettre

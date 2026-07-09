@@ -1,0 +1,4 @@
+ignorar
+dejar plantado
+saltarse
+desahogarse

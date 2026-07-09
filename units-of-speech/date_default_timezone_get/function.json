@@ -1,0 +1,1 @@
+{"exists":true,"definitions":["A function that returns the default timezone currently used by all date/time functions."],"examples":["echo date_default_timezone_get();"],"lemma":"date_default_timezone_get","lemmaPos":"function","synonyms":["get_default_timezone"],"number":"singular","source":"date_default_timezone_get","transcript":""}

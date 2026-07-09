@@ -1,0 +1,3 @@
+ładowanie
+załadowywanie
+obciążanie

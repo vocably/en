@@ -1,0 +1,2 @@
+Xử lý ngôn ngữ tự nhiên
+Điện toán ngôn ngữ tự nhiên

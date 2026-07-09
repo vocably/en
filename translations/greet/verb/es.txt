@@ -1,0 +1,3 @@
+saludar
+recibir
+acoger

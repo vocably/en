@@ -1,0 +1,3 @@
+conmutador
+botón
+palanca

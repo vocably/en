@@ -1,0 +1,3 @@
+magnitud
+escala
+intensidad

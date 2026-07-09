@@ -1,0 +1,4 @@
+chute
+jogador que chuta
+surpresa
+problema

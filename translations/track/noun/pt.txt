@@ -1,0 +1,4 @@
+pista
+trilho
+faixa
+rastro

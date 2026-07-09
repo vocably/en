@@ -1,0 +1,2 @@
+lớp cơ sở
+lớp cha

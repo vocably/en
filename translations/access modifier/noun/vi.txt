@@ -1,0 +1,2 @@
+b	ext{bộ điều chỉnh truy cập}
+b	ext{công cụ sửa đổi truy cập}

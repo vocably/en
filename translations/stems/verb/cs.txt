@@ -1,0 +1,3 @@
+pramenit
+zastavit
+odstranit stopky

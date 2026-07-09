@@ -1,0 +1,5 @@
+move
+shift
+relocate
+stir
+propose
