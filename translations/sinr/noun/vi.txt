@@ -1,0 +1,2 @@
+Tỷ lệ Tín hiệu trên Nhiễu cộng Tín hiệu gây nhiễu
+SINR

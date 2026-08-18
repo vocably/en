@@ -1,0 +1,2 @@
+truy cập giá trị
+tham chiếu ngược

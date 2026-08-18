@@ -1,0 +1,4 @@
+pingar
+enviar um ping para
+chamar
+mandar uma mensagem para

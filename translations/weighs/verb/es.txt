@@ -1,0 +1,4 @@
+pesa
+sopesa
+gravita
+pondera

@@ -1,0 +1,3 @@
+armazenamento
+abastecimento
+estocagem

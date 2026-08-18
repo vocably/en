@@ -1,0 +1,3 @@
+die Laufleistung
+der Kilometerstand
+der Verbrauch

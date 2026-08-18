@@ -1,0 +1,4 @@
+câmara
+quarto
+sala
+compartimento

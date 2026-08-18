@@ -1,0 +1,3 @@
+criatura
+ser
+bicho

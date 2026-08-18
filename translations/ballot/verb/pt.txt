@@ -1,0 +1,3 @@
+votar
+sortear
+escrutinar

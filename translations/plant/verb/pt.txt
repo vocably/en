@@ -1,0 +1,4 @@
+plantar
+fixar
+colocar
+esconder

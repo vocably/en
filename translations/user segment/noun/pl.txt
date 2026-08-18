@@ -1,0 +1,4 @@
+segment u
+ytkownik
+ów
+segment

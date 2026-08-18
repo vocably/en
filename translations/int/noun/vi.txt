@@ -1,0 +1,2 @@
+số nguyên
+kiểu int

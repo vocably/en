@@ -1,0 +1,4 @@
+agravar
+componer
+mezclar
+calcular el interés compuesto

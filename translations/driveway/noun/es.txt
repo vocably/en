@@ -1,0 +1,2 @@
+la entrada
+el camino de entrada

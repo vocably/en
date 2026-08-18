@@ -1,0 +1,2 @@
+bin bin t
+my bin t

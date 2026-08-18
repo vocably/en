@@ -1,0 +1,4 @@
+flexionar
+contrair
+dobrar
+exibir

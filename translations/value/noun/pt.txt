@@ -1,0 +1,3 @@
+valor
+importância
+preço

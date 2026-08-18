@@ -1,0 +1,3 @@
+escapar
+irse
+salir

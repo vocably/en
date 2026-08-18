@@ -1,0 +1,4 @@
+entreprise
+compagnie
+société
+firme

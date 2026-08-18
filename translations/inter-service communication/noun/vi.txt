@@ -1,0 +1,2 @@
+giao tiếp giữa các dịch vụ
+truyền thông liên dịch vụ

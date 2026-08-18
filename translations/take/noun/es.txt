@@ -1,0 +1,4 @@
+toma
+escena
+ganancia
+punto de vista

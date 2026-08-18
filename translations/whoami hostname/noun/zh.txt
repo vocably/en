@@ -1,0 +1,2 @@
+whoami hostname
+whoami 主机名

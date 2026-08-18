@@ -1,0 +1,3 @@
+fracasso
+falha
+insucesso

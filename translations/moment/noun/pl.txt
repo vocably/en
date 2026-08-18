@@ -1,0 +1,4 @@
+moment
+chwila
+znaczenie
+waga

@@ -1,0 +1,4 @@
+mudar
+deslocar
+trocar
+alternar

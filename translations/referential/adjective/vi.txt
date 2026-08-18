@@ -1,0 +1,3 @@
+có tính tham chiếu
+có tính quy chiếu
+có tính chất tham khảo

@@ -1,0 +1,2 @@
+операция console.log
+вызов console.log

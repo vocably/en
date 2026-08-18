@@ -1,0 +1,8 @@
+tomar
+llevar
+coger
+aceptar
+quitar
+sacar
+ocupar
+requerir

@@ -1,0 +1,5 @@
+mozog
+mozdul
+költözik
+megindít
+javasol

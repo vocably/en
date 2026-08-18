@@ -1,0 +1,3 @@
+lojas
+armazéns
+estoques

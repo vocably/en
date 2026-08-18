@@ -1,0 +1,5 @@
+nota
+apontamento
+bilhete
+cédula
+observação

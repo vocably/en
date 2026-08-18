@@ -1,0 +1,4 @@
+parte
+pedaço
+papel
+região

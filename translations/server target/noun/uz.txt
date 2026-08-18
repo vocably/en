@@ -1,0 +1,3 @@
+server maqsadi
+maqsadli server
+server nishoni

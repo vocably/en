@@ -1,0 +1,3 @@
+girar
+dinamizar
+pivotar

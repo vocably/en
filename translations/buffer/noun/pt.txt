@@ -1,0 +1,2 @@
+amortecedor
+memória intermediária

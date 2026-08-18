@@ -1,0 +1,3 @@
+die Drehpunkte
+die Angelpunkte
+die Schwerpunkte

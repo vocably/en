@@ -1,0 +1,5 @@
+postar
+publicar
+enviar
+afixar
+registrar

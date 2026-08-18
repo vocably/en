@@ -1,0 +1,4 @@
+fundir
+moldar
+lançar
+descartar

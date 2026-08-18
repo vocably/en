@@ -1,0 +1,4 @@
+esperar
+aguentar
+segurar
+persistir

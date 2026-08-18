@@ -1,0 +1,3 @@
+condição
+estado
+requisito

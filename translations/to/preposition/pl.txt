@@ -1,0 +1,3 @@
+do (kierunek)
+dla (cel)
+żeby (cel)

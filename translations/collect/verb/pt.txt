@@ -1,0 +1,4 @@
+coletar
+recolher
+cobrar
+buscar

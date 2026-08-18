@@ -1,0 +1,2 @@
+chuyển đổi thành chuỗi
+biến thành chuỗi

@@ -1,0 +1,2 @@
+CRM
+gerenciamento de relacionamento com o cliente

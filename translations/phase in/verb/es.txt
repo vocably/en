@@ -1,0 +1,2 @@
+introducir gradualmente
+implementar por fases

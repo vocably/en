@@ -1,0 +1,3 @@
+transação
+negócio
+operação

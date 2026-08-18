@@ -1,0 +1,3 @@
+inventário
+estoque
+balanço

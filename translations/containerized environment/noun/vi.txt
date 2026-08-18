@@ -1,0 +1,2 @@
+môi trường được đóng gói trong container
+môi trường container hóa

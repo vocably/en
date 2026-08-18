@@ -1,0 +1,3 @@
+talar
+registrar
+iniciar sesion

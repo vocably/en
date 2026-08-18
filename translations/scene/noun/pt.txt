@@ -1,0 +1,5 @@
+cena
+cenário
+local
+ambiente
+quadro

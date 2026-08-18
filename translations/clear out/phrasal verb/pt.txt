@@ -1,0 +1,3 @@
+esvaziar
+sair
+desocupar

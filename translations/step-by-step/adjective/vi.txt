@@ -1,0 +1,7 @@
+t
+g t
+g
+t
+g b
+c t
+g

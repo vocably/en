@@ -1,0 +1,4 @@
+phân loại bệnh nhân
+hệ thống phân loại bệnh nhân
+sự phân loại
+phân loại

@@ -1,0 +1,4 @@
+carregar
+embarcar
+abastecer
+municiar

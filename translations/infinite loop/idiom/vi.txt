@@ -1,0 +1,2 @@
+vòng lặp vô hạn
+vòng lặp vĩnh cửu

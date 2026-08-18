@@ -1,0 +1,3 @@
+explorador
+ojeador
+rastreador

@@ -1,0 +1,4 @@
+curso
+rota
+prato
+caçada

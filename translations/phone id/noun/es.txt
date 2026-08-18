@@ -1,0 +1,2 @@
+identificador del teléfono
+ID del teléfono

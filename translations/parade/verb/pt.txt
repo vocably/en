@@ -1,0 +1,3 @@
+desfilar
+marchar
+exibir

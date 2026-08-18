@@ -1,0 +1,3 @@
+die Nummer
+die Zahl
+die Anzahl

@@ -1,0 +1,1 @@
+{"transcript":"kənˈsoʊl lɔɡ","exists":true,"definitions":["A function in JavaScript used to print messages or values to the console for debugging purposes."],"examples":["console.log('Hello, world!');","console.log(myVariable);","console.log({object: 'value'});"],"lemma":"console.log","lemmaPos":"verb","synonyms":[],"number":"singular","source":"console.log"}

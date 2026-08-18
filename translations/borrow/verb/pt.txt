@@ -1,0 +1,3 @@
+pedir emprestado
+pegar emprestado
+emprestar

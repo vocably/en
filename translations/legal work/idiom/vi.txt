@@ -1,0 +1,12 @@
+c
+g vi
+c ph
+p l
+c
+g vi
+c li
+n quan 
+
+n ph
+p lu
+t

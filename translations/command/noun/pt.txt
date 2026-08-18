@@ -1,0 +1,3 @@
+comando
+ordem
+domínio
