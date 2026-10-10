@@ -1,0 +1,5 @@
+trimestre
+bairro
+quarto
+moeda de 25 centavos
+alojamento

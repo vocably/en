@@ -1,0 +1,2 @@
+compactar
+comprimir

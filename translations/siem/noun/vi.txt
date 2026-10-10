@@ -1,0 +1,2 @@
+hệ thống quản lý thông tin và sự kiện bảo mật
+SIEM

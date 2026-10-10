@@ -1,0 +1,2 @@
+ràng buộc cơ sở dữ liệu
+ràng buộc

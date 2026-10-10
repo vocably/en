@@ -1,0 +1,4 @@
+selector
+seleccionador
+selector de marchas
+selector de canales

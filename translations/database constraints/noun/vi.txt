@@ -1,0 +1,2 @@
+những ràng buộc cơ sở dữ liệu
+những ràng buộc CSDL

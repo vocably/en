@@ -1,0 +1,2 @@
+chạy với quyền quản trị
+chạy với quyền admin

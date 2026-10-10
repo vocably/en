@@ -1,0 +1,5 @@
+állt
+kiállt
+megállt
+tűrt
+elviselt

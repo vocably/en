@@ -1,0 +1,3 @@
+pescar
+procurar
+tentar obter

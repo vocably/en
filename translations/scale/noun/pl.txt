@@ -1,0 +1,4 @@
+skala
+waga
+podziałka
+stopień

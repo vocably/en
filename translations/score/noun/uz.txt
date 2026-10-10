@@ -1,0 +1,5 @@
+ball
+natija
+hisob
+nota
+partitura

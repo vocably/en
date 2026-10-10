@@ -1,0 +1,2 @@
+Truy xuất các kết nối TCP hiện tại.
+Hiển thị thông tin về các kết nối TCP đang hoạt động trên máy tính.

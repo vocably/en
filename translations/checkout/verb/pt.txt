@@ -1,0 +1,4 @@
+pagar
+sair
+dar uma olhada
+pegar emprestado

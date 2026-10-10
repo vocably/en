@@ -1,0 +1,4 @@
+placar in
+edito
+resultado in
+edito

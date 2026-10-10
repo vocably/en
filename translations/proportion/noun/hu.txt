@@ -1,0 +1,3 @@
+arány
+hányad
+rész

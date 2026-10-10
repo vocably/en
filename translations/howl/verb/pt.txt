@@ -1,0 +1,4 @@
+uivar
+gritar
+rugir
+bramar

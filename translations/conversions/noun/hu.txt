@@ -1,0 +1,4 @@
+átalakítások
+áttérések
+konverziók
+megtérések

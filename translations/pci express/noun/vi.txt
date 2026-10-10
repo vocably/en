@@ -1,0 +1,2 @@
+PCI Express
+khe cắm PCI Express

@@ -1,0 +1,4 @@
+sonar
+sacudir
+intimidar
+traquetear

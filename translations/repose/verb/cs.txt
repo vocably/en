@@ -1,0 +1,4 @@
+spočívat
+odpočívat
+uložit
+spočinout

@@ -1,0 +1,2 @@
+el número entero
+el entero

@@ -1,0 +1,2 @@
+cleanmgr
+công cụ dọn dẹp đĩa

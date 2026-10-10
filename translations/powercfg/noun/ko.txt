@@ -1,0 +1,2 @@
+powercfg
+파워cfg

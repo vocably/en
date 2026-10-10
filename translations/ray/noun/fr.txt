@@ -1,0 +1,4 @@
+rayon
+raie
+éclair
+lumière

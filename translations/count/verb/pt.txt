@@ -1,0 +1,5 @@
+contar
+calcular
+importar
+valer
+confiar

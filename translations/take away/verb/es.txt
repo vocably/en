@@ -1,0 +1,4 @@
+llevar
+quitar
+restar
+llevarse

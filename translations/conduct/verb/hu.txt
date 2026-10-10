@@ -1,0 +1,4 @@
+vezet
+lefolytat
+vezényel
+kísér

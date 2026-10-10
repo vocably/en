@@ -1,0 +1,3 @@
+cobertura
+reportagem
+abrangência

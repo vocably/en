@@ -1,0 +1,2 @@
+Redis
+Cơ sở dữ liệu Redis

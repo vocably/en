@@ -1,0 +1,2 @@
+chuyển đổi thành ảnh raster
+raster hóa

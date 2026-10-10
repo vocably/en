@@ -1,0 +1,4 @@
+miara
+pomiar
+środek
+ilość

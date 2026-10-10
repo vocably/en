@@ -1,0 +1,4 @@
+indít
+elindít
+bevezet
+felbocsát

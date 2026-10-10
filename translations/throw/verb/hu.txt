@@ -1,0 +1,8 @@
+dob
+hajít
+vet
+eldob
+kivet
+odadob
+elhajít
+hajigál

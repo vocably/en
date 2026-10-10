@@ -1,0 +1,3 @@
+kod (označava blizinu ili mesto)
+u (označava vreme ili mesto)
+pri (označava blizinu ili stanje)

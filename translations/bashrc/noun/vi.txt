@@ -1,0 +1,2 @@
+tập tin cấu hình Bash
+tập tin .bashrc

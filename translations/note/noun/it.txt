@@ -1,0 +1,5 @@
+nota
+appunto
+biglietto
+tono
+annotazione

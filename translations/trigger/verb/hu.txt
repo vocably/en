@@ -1,0 +1,3 @@
+kivált
+elindít
+bekapcsol

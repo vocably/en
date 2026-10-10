@@ -1,0 +1,5 @@
+Conferir
+Verificar
+Examinar
+Sair
+Morrer

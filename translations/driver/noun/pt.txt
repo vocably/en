@@ -1,0 +1,4 @@
+motorista
+condutor
+chave de fenda
+impulsionador

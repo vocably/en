@@ -1,0 +1,2 @@
+tốc độ khung hình
+tần số khung hình

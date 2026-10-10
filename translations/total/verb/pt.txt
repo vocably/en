@@ -1,0 +1,3 @@
+totalizar
+somar
+destruir completamente

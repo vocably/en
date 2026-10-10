@@ -1,0 +1,4 @@
+salir con
+fechar
+datar
+salir

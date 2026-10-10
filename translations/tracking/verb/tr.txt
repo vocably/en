@@ -1,0 +1,4 @@
+izleme
+takip
+izini sürme
+izini takip etme

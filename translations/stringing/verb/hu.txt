@@ -1,0 +1,4 @@
+fűzés
+húrozás
+felfűzés
+kifeszítés

@@ -1,0 +1,2 @@
+hàm in
+chức năng in

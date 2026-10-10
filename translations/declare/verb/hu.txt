@@ -1,0 +1,5 @@
+kijelent
+kinyilatkoztat
+bejelent
+nyilatkozik
+deklarál

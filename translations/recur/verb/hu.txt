@@ -1,0 +1,3 @@
+megismétlődik
+visszatér
+újra előfordul

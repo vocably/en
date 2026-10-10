@@ -1,0 +1,3 @@
+passarela
+corredor
+prancha

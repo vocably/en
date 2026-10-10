@@ -1,0 +1,4 @@
+húzás
+vonszolás
+lassú mozgás
+keresés

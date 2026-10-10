@@ -1,0 +1,4 @@
+visszautasított
+elutasított
+csökkent
+lehanyatlott

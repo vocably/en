@@ -1,0 +1,5 @@
+marca
+sinal
+alvo
+n
+dice

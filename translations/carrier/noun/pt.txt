@@ -1,0 +1,4 @@
+transportadora
+portador
+operadora
+carregador

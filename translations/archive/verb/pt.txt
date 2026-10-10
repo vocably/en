@@ -1,0 +1,3 @@
+arquivar
+salvar
+armazenar

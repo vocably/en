@@ -1,0 +1,2 @@
+quản lý hàng tồn kho
+quản lý kho

@@ -1,0 +1,4 @@
+z powrotem
+z tyłu
+wstecz
+do tyłu

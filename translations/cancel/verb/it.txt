@@ -1,0 +1,4 @@
+annullare
+cancellare
+disdire
+revocare

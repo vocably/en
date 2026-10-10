@@ -1,0 +1,2 @@
+trình soạn thảo văn bản gnome
+gnome text editor

@@ -1,0 +1,3 @@
+estancia
+duración de la estancia
+tiempo de estancia

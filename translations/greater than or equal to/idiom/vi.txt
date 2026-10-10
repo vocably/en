@@ -1,0 +1,2 @@
+lớn hơn hoặc bằng
+không nhỏ hơn

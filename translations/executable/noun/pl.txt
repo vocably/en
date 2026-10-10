@@ -1,0 +1,2 @@
+plik wykonywalny
+program wykonywalny

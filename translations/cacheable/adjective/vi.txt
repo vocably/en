@@ -1,0 +1,2 @@
+có thể lưu vào bộ nhớ đệm
+có thể lưu vào bộ nhớ cache

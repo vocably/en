@@ -1,0 +1,4 @@
+kiadott
+megjelent
+elengedett
+felmentett

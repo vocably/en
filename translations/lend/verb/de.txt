@@ -1,0 +1,4 @@
+leihen
+verleihen
+borgen
+ausleihen

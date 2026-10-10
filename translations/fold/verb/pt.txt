@@ -1,0 +1,6 @@
+dobrar
+fechar
+cruzar
+falir
+desistir
+encerrar

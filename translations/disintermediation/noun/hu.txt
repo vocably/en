@@ -1,0 +1,2 @@
+közvetítők kiiktatása
+közvetítői réteg megszüntetése

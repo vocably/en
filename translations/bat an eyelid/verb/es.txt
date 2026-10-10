@@ -1,0 +1,2 @@
+pestañear
+parpadear

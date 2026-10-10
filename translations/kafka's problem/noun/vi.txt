@@ -1,0 +1,2 @@
+vấn đề của Kafka
+tình huống kiểu Kafka

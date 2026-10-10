@@ -1,0 +1,4 @@
+jetonlar
+nişanlar
+simvollar
+tokenlər

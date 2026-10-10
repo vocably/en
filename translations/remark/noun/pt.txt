@@ -1,0 +1,3 @@
+observação
+comentário
+declaração

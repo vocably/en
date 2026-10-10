@@ -1,0 +1,3 @@
+sentiero
+percorso
+via

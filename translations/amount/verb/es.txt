@@ -1,0 +1,3 @@
+ascender a
+sumar
+equivaler a

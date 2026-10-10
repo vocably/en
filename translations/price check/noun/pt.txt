@@ -1,0 +1,2 @@
+verificação de preço
+consulta de preço

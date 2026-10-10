@@ -1,0 +1,3 @@
+leihen
+borgen
+entlehnen

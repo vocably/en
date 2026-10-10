@@ -1,0 +1,2 @@
+Tích Hadamard
+Tích từng phần tử

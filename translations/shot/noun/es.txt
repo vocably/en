@@ -1,0 +1,4 @@
+disparo
+tiro
+foto
+trago

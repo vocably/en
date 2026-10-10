@@ -1,0 +1,5 @@
+sentar
+ficar
+caber
+posar
+integrar

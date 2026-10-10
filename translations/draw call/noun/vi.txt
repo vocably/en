@@ -1,0 +1,2 @@
+lệnh gọi vẽ
+lệnh vẽ

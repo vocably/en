@@ -1,0 +1,4 @@
+pular
+saltar
+omitir
+escapulir

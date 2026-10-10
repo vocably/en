@@ -1,0 +1,3 @@
+aksi takdirde
+yoksa
+başka türlü

@@ -1,0 +1,2 @@
+CI/CD
+Tích hợp liên tục/Phân phối liên tục
