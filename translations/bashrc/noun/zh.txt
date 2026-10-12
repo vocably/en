@@ -1,0 +1,2 @@
+bashrc文件
+Bash配置文件

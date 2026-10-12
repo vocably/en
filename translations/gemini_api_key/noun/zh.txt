@@ -1,0 +1,2 @@
+Gemini API 密钥
+Gemini API key

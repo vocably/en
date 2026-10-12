@@ -1,0 +1,2 @@
+代理缓存路径
+proxy_cache_path指令

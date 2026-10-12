@@ -1,0 +1,2 @@
+原生JavaScript
+纯JavaScript

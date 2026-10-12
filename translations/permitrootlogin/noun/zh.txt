@@ -1,0 +1,2 @@
+允许root登录
+PermitRootLogin 配置项

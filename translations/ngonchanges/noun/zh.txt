@@ -1,0 +1,2 @@
+ngOnChanges生命周期钩子
+ngOnChanges接口

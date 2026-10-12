@@ -1,0 +1,2 @@
+powercfg电池报告
+powercfg电池健康报告

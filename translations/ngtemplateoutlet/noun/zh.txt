@@ -1,0 +1,2 @@
+ngTemplateOutlet 指令
+模板出口

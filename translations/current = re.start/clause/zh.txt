@@ -1,0 +1,2 @@
+current = re.start(将正则匹配的起始位置赋给变量 current)
+当前位置 = 正则起始位置

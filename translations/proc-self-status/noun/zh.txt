@@ -1,0 +1,2 @@
+/proc/self/status 文件
+进程状态文件

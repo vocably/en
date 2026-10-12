@@ -1,0 +1,2 @@
+SNIPR(基于CRISPR的诊断工具)
+SNIPR技术

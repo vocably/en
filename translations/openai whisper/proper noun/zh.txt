@@ -1,0 +1,2 @@
+OpenAI Whisper
+OpenAI 语音识别模型 Whisper

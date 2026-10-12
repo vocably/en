@@ -1,0 +1,2 @@
+wsreset.exe(Windows 应用商店重置工具)
+Windows 应用商店缓存重置工具

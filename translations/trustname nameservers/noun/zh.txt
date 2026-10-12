@@ -1,0 +1,2 @@
+Trustname名称服务器
+Trustname域名服务器

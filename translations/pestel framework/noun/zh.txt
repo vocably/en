@@ -1,0 +1,2 @@
+PESTEL分析框架
+PESTEL模型

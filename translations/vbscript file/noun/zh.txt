@@ -1,0 +1,2 @@
+VBScript文件
+VBS文件

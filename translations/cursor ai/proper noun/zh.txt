@@ -1,0 +1,2 @@
+Cursor AI
+Cursor 人工智能代码编辑器

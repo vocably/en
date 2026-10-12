@@ -1,0 +1,2 @@
+noopener(不允许新页面访问 window.opener 的链接属性值)
+不打开opener

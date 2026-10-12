@@ -1,0 +1,2 @@
+当前kubeconfig名称
+当前kubeconfig配置文件名
