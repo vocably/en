@@ -1,0 +1,3 @@
+arenero
+caja de arena
+entorno aislado
