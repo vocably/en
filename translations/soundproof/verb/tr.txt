@@ -1,0 +1,2 @@
+ses yalıtımı yapmak
+sesi geçirmez hale getirmek

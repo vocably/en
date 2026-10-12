@@ -1,0 +1,2 @@
+JWT geçerlilik süresi
+JWT son kullanma süresi

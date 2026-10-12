@@ -1,0 +1,4 @@
+batırır
+azalır
+düşer
+çeker

@@ -1,0 +1,2 @@
+grep ile aramak
+grep komutuyla taramak

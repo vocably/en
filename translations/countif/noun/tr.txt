@@ -1,0 +1,2 @@
+EĞERSAY
+koşullu sayma işlevi

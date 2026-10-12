@@ -1,0 +1,3 @@
+konturlar
+hatlar
+çevre çizgileri

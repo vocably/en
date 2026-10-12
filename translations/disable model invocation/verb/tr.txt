@@ -1,0 +1,2 @@
+model çağırmayı devre dışı bırak
+model çağrısını devre dışı bırak

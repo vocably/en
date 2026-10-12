@@ -1,0 +1,2 @@
+zaman senkronizasyonu
+saat senkronizasyonu

@@ -1,0 +1,4 @@
+endeksler
+indeksler
+göstergeler
+üsler

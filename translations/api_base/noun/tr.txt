@@ -1,0 +1,2 @@
+API temel adresi
+API kök URL'si

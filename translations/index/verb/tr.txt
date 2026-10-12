@@ -1,0 +1,4 @@
+dizin hazırlamak
+endekslemek
+dizinlemek
+indekslemek

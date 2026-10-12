@@ -1,0 +1,2 @@
+doğrudan yol
+açık ve dolaysız yöntem

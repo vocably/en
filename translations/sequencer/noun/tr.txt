@@ -1,0 +1,3 @@
+sekanslayıcı
+dizileyici
+sıralayıcı

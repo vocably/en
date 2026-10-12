@@ -1,0 +1,2 @@
+bilgisayar tarafından oluşturulan görüntüler
+CGI

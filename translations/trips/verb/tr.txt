@@ -1,0 +1,4 @@
+tökezler
+takılıp düşer
+devreye girer
+kısa yolculuk yapar

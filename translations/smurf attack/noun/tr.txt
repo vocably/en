@@ -1,0 +1,2 @@
+smurf saldırısı
+Smurf saldırısı (ICMP yayın saldırısı)

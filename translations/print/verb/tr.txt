@@ -1,0 +1,5 @@
+yazdırmak
+basmak
+çıktı almak
+baskı yapmak
+bitişik olmayan harflerle yazmak

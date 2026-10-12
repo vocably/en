@@ -1,0 +1,2 @@
+breadboard üzerinde prototip oluşturur
+breadboard üzerinde devre kurar

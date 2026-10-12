@@ -1,0 +1,2 @@
+temel çizgi belirlemek
+temel çizgiye göre değerlendirmek

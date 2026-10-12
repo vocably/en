@@ -1,0 +1,2 @@
+_ViewStart.cshtml dosyası
+görünüm başlangıç dosyası

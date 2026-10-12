@@ -1,0 +1,3 @@
+ayarlayıcı
+sabitleyici
+ttespit banyosu

@@ -1,0 +1,2 @@
+güvenilirlik uyarı testi
+güvenilirlik öngörü testi

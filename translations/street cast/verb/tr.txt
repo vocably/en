@@ -1,0 +1,2 @@
+sokaktan oyuncu seçmek
+sokakta rastlanan kişileri oyuncu olarak seçmek

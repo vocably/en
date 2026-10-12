@@ -1,0 +1,4 @@
+tampon
+ara bellek
+tampon bölge
+tampon çözelti

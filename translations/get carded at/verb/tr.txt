@@ -1,0 +1,2 @@
+-de kimlik sorulmak
+-de kimliği kontrol edilmek

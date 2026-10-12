@@ -1,0 +1,2 @@
+ölçeklenmiş enerji değişkeni
+boyutsuz enerji değişkeni

@@ -1,0 +1,4 @@
+ocak
+set üstü ocak
+azdırma freze
+cin

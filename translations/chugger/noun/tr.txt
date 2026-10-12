@@ -1,0 +1,2 @@
+sokak bağışçı toplayıcısı
+bağış toplayıcı

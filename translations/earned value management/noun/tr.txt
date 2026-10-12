@@ -1,0 +1,2 @@
+kazanılmış değer yönetimi
+kazanılmış değer analizi

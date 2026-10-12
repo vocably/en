@@ -1,0 +1,2 @@
+varyans ayrıştırması
+varyans dekompozisyonu

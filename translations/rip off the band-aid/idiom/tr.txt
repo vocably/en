@@ -1,0 +1,2 @@
+yara bandını tek seferde çekip koparmak
+acı ilacı tek seferde yutmak

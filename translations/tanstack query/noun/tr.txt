@@ -1,0 +1,3 @@
+TanStack Query
+TanStack Sorgu kütüphanesi
+TanStack Query veri çekme kütüphanesi

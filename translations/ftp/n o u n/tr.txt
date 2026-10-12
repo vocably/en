@@ -1,0 +1,2 @@
+FTP
+dosya aktarım protokolü

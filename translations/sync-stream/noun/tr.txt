@@ -1,0 +1,2 @@
+senkronize veri akışı
+eşzamanlı akış

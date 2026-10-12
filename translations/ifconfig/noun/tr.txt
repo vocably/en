@@ -1,0 +1,2 @@
+ifconfig
+ağ arayüzü yapılandırma komutu

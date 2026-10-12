@@ -1,0 +1,3 @@
+paket yemek
+paket servis
+çıkarım

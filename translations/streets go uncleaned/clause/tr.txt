@@ -1,0 +1,2 @@
+Sokaklar temizlenmeden kalır
+Sokaklar temizlenmez

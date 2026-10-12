@@ -1,0 +1,3 @@
+mezhep
+birim
+nominal değer

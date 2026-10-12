@@ -1,0 +1,2 @@
+parola doğrulayıcı
+şifre doğrulayıcı

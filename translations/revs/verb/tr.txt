@@ -1,0 +1,2 @@
+motorun devrini yükseltir
+hareketlenir

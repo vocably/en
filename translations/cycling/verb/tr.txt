@@ -1,0 +1,3 @@
+bisiklete binme
+bisiklet sürme
+döngüsel hareket etme

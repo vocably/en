@@ -1,0 +1,3 @@
+haritalama
+haritasını çıkarma
+eşleme

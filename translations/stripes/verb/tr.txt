@@ -1,0 +1,3 @@
+çizgilerle işaretler
+çizgi çizer
+kırbaçlar

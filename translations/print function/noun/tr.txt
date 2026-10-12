@@ -1,0 +1,2 @@
+yazdırma işlevi
+print fonksiyonu

@@ -1,0 +1,4 @@
+olmak
+-dir
+bulunmak
+var olmak

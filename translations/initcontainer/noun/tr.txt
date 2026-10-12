@@ -1,0 +1,2 @@
+başlatma konteyneri
+init konteyneri

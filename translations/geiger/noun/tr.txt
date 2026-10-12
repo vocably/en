@@ -1,0 +1,2 @@
+Geiger sayacı
+radyasyon ölçer

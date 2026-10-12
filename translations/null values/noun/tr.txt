@@ -1,0 +1,2 @@
+null değerler
+boş değerler

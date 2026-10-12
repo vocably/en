@@ -1,0 +1,2 @@
+bant makinesi
+bant kesici

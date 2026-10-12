@@ -1,0 +1,4 @@
+sona erer
+geçersiz kalır
+eski haline döner
+düşer

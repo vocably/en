@@ -1,0 +1,3 @@
+erişilemez
+ulaşılamaz
+erişim dışı

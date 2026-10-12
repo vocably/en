@@ -1,0 +1,2 @@
+optimize edilmiş özyineleme
+optimize edilmiş özyinelemeli yöntem

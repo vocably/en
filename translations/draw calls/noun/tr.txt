@@ -1,0 +1,2 @@
+çizim çağrıları
+draw call'lar

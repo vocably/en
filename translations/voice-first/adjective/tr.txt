@@ -1,0 +1,2 @@
+öncelikli olarak sesli kontrole dayalı
+ses öncelikli

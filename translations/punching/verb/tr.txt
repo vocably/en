@@ -1,0 +1,3 @@
+yumruklama
+delme
+yumruk atma

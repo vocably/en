@@ -1,0 +1,4 @@
+konuştu
+söyledi
+konuştum
+dile getirdi

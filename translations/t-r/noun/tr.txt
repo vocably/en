@@ -1,0 +1,2 @@
+alma/verme anahtarı
+gönderme/alma modülü

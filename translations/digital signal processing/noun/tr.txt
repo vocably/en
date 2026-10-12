@@ -1,0 +1,2 @@
+sayısal sinyal işleme
+dijital sinyal işleme

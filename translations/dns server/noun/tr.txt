@@ -1,0 +1,2 @@
+DNS sunucusu
+alan adı sunucusu

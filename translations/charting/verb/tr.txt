@@ -1,0 +1,4 @@
+haritasını çıkarma
+grafiğe dökme
+kaydetme
+listeye girme

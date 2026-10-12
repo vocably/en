@@ -1,0 +1,4 @@
+eğilme
+bükülme
+çarpılma
+çarpıtma

@@ -1,0 +1,2 @@
+işaret eder
+jest yapar

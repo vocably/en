@@ -1,0 +1,2 @@
+kalıcı depolama birimi
+kalıcı depolama hacmi

@@ -1,0 +1,2 @@
+-e doğru yola çıkmak
+-e gitmek

@@ -1,0 +1,2 @@
+bir dosyanın sonuna eşzamanlı olarak ekle
+dosyaya eşzamanlı ekleme yap

@@ -1,0 +1,3 @@
+kilidini açma
+erişime açma
+ortaya çıkarma

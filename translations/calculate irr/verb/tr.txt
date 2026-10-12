@@ -1,0 +1,2 @@
+İç verim oranını hesaplamak
+IRR'yi hesaplamak

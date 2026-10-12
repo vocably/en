@@ -1,0 +1,2 @@
+önbelleği temizlemek
+önbelleği boşaltmak

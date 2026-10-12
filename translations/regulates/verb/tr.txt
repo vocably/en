@@ -1,0 +1,3 @@
+düzenler
+kontrol eder
+ayarlar

@@ -1,0 +1,2 @@
+iki yönlü Student t-testi
+çift kuyruklu Student t-testi

@@ -1,0 +1,2 @@
+NVIDIA sürücüsü
+NVIDIA sürücü yazılımı

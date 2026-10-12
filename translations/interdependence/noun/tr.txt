@@ -1,0 +1,2 @@
+karşılıklı bağımlılık
+birbirine bağımlılık

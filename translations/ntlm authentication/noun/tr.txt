@@ -1,0 +1,2 @@
+NTLM kimlik doğrulaması
+NTLM kimlik doğrulama protokolü

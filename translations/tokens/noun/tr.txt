@@ -1,0 +1,4 @@
+jetonlar
+belirteçler
+simgeler
+işaretler

@@ -1,0 +1,2 @@
+maliyet artı fiyatlandırma
+kâr marjı ekleme yöntemiyle fiyatlandırma

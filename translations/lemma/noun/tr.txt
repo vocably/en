@@ -1,0 +1,3 @@
+lemma
+yardımcı teorem
+sözcük kökü

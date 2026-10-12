@@ -1,0 +1,2 @@
+ilk gelen ilk alır
+gelene öncelik veren

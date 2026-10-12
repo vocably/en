@@ -1,0 +1,2 @@
+VirtualBox/USB izni
+VirtualBox/USB yetkisi

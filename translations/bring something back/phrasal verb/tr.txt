@@ -1,0 +1,3 @@
+geri getirmek
+iade etmek
+hatırlatmak

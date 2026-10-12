@@ -1,0 +1,2 @@
+dizin oluşturmak
+klasör oluşturmak

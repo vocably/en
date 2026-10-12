@@ -1,0 +1,4 @@
+kaplamalar
+bindirmeler
+üst katmanlar
+örtüler

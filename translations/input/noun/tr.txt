@@ -1,0 +1,3 @@
+girdi
+katkı
+veri girişi

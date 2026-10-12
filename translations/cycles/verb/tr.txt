@@ -1,0 +1,3 @@
+bisiklete biner
+döngüden geçer
+döngü halinde tekrarlanır

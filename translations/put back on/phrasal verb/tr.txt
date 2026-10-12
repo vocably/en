@@ -1,0 +1,3 @@
+tekrar giymek
+geri koymak
+tekrar kilo almak

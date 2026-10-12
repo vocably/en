@@ -1,0 +1,2 @@
+Gemini API anahtarı
+GEMINI_API_KEY

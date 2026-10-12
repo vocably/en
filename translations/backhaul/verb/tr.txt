@@ -1,0 +1,2 @@
+dönüş yolunda taşımak
+veriyi merkeze iletmek

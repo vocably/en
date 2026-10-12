@@ -1,0 +1,2 @@
+posta ile gönderme
+toplu posta

@@ -1,0 +1,2 @@
+boş değer
+geçersiz

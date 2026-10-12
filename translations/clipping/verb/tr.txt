@@ -1,0 +1,4 @@
+kırpma
+kesme
+tutturma
+kısaltma

@@ -1,0 +1,2 @@
+hücre dışı matriks
+hücreler arası matriks

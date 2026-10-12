@@ -1,0 +1,2 @@
+harici trafik politikası
+dış trafik politikası

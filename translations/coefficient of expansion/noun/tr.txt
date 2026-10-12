@@ -1,0 +1,2 @@
+genleşme katsayısı
+uzama katsayısı

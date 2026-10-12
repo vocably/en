@@ -1,0 +1,5 @@
+katkılar
+dahil edilenler
+içermeler
+kapanımlar
+dahil etmeler

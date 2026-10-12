@@ -1,0 +1,3 @@
+bilgilendirme
+haber verme
+ihbar etme

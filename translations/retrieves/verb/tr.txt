@@ -1,0 +1,3 @@
+geri alır
+getirir
+geri getirir

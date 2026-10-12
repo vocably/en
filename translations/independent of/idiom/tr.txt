@@ -1,0 +1,2 @@
+-den bağımsız
+-e bağlı olmayan

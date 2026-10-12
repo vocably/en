@@ -1,0 +1,3 @@
+JSON şeması
+JSON şema belirtimi
+JSON şema tanımı

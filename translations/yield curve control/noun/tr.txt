@@ -1,0 +1,2 @@
+getiri eğrisi kontrolü
+verim eğrisi kontrolü

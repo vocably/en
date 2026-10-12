@@ -1,0 +1,2 @@
+plist dosyası
+özellik listesi

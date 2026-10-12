@@ -1,0 +1,3 @@
+en fakir
+en yoksul
+en kötü

@@ -1,0 +1,3 @@
+entegre etmek
+bütünleştirmek
+uyum sağlamak

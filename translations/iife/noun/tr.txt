@@ -1,0 +1,2 @@
+hemen çağrılan fonksiyon ifadesi
+anında çalışan fonksiyon ifadesi

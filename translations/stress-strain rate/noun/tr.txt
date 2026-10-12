@@ -1,0 +1,2 @@
+gerilme-şekil değiştirme hızı
+birim şekil değiştirme hızı

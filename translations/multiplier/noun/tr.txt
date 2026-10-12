@@ -1,0 +1,3 @@
+çarpan
+çarpıcı
+çoğaltıcı

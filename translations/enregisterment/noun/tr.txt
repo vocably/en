@@ -1,0 +1,2 @@
+register haline gelme
+dilsel kayıtlanma

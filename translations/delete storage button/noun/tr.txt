@@ -1,0 +1,2 @@
+depolamayı sil düğmesi
+depolama alanını silme düğmesi

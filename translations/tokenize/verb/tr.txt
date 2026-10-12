@@ -1,0 +1,3 @@
+tokenleştirmek
+token'a dönüştürmek
+parçalara ayırmak

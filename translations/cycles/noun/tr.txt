@@ -1,0 +1,3 @@
+döngüler
+devirler
+bisikletler

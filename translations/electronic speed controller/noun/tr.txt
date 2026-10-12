@@ -1,0 +1,2 @@
+elektronik hız kontrolcüsü
+ESC

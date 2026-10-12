@@ -1,0 +1,2 @@
+kontağı kablolarından çalıştırmak
+kabloları doğrudan bağlayarak çalıştırmak

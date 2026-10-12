@@ -1,0 +1,3 @@
+kokpit
+pilot kabini
+sürücü bölmesi

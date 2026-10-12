@@ -1,0 +1,4 @@
+girdi
+içeri girdi
+kaydetti
+katıldı

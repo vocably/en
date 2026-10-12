@@ -1,0 +1,2 @@
+-e karşı önlem almak
+-e karşı hazırlık yapmak

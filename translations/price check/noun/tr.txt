@@ -1,0 +1,2 @@
+fiyat kontrolü
+fiyat sorgulama

@@ -1,0 +1,2 @@
+eleman düzeyinde çarpım
+eleman bazında çarpım

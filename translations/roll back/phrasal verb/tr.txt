@@ -1,0 +1,2 @@
+geri almak
+eski haline döndürmek

@@ -1,0 +1,2 @@
+Schmitt tetikleyici
+Schmitt tetikleme devresi

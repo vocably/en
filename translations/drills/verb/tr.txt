@@ -1,0 +1,3 @@
+deler
+talim yaptırır
+tekrar yaparak çalışır

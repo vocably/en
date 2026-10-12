@@ -1,0 +1,4 @@
+tekillik
+singülarite
+eşsizlik
+tekil nokta

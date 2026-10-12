@@ -1,0 +1,3 @@
+silme
+silerek temizleme
+silip kurulama

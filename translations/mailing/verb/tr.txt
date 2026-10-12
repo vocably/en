@@ -1,0 +1,3 @@
+postalama
+posta ile gönderme
+postaya verme

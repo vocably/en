@@ -1,0 +1,2 @@
+değişmezlik
+invaryans

@@ -1,0 +1,2 @@
+alfanümerik
+harf ve rakamlardan oluşan

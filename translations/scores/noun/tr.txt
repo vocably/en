@@ -1,0 +1,4 @@
+skorlar
+puanlar
+notalar
+yirmilikler

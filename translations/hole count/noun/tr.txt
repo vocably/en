@@ -1,0 +1,2 @@
+delik sayısı
+çukur sayısı

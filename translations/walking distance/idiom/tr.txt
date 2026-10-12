@@ -1,0 +1,2 @@
+yürüme mesafesi
+yürüyerek gidilebilecek mesafe

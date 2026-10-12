@@ -1,0 +1,2 @@
+geçerli çalışma dizini
+mevcut çalışma dizini

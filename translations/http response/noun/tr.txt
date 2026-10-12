@@ -1,0 +1,2 @@
+HTTP yanıtı
+HTTP cevabı

@@ -1,0 +1,2 @@
+RTK Query
+RTK Sorgusu

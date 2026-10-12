@@ -1,0 +1,3 @@
+yeniden çalıştırmak
+tekrar yayınlamak
+yeniden koşmak

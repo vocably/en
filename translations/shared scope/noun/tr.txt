@@ -1,0 +1,2 @@
+ortak kapsam
+paylaşılan kapsam

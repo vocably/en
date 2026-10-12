@@ -1,0 +1,4 @@
+yürütme
+uygulama
+idam etme
+icra etme

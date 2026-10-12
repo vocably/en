@@ -1,0 +1,2 @@
+ODE paketi
+adi diferansiyel denklem paketi

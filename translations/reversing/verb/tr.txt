@@ -1,0 +1,4 @@
+tersine çevirme
+geri gitme
+geri alma
+tersine döndürme

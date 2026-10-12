@@ -1,0 +1,2 @@
+seri durumdan çıkarmak
+serileştirmeyi geri almak

@@ -1,0 +1,2 @@
+Kullanıcı Silme İletişim Kutusu
+Kullanıcıyı Sil Diyaloğu

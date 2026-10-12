@@ -1,0 +1,2 @@
+getirmeyi öğrenen sistem
+öğrenmeye dayalı bilgi erişim sistemi

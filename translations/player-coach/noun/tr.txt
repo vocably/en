@@ -1,0 +1,2 @@
+oyuncu-koç
+oynayan koç

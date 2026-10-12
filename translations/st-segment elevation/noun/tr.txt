@@ -1,0 +1,2 @@
+ST segment yükselmesi
+ST yükselmesi

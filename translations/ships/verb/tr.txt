@@ -1,0 +1,5 @@
+gönderir
+sevk eder
+nakleder
+yükler
+gemiyle taşır

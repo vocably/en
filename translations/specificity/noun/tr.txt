@@ -1,0 +1,3 @@
+özgüllük
+belirlilik
+spesifiklik

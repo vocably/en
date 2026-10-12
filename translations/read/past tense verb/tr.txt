@@ -1,0 +1,5 @@
+okudu
+okuyup anladı
+yorumladı
+okuma yaptı
+gösterdi

@@ -1,0 +1,2 @@
+pencere fonksiyonu
+pencereleme fonksiyonu

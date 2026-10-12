@@ -1,0 +1,2 @@
+ters proxy sunucusu
+ters vekil sunucu

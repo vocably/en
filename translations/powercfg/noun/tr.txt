@@ -1,0 +1,2 @@
+powercfg
+güç yapılandırma komutu

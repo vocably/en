@@ -1,0 +1,2 @@
+modül genelindeki kapsam nesnesi
+modül çapında kapsamlı nesne

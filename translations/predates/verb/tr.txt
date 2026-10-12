@@ -1,0 +1,2 @@
+öncesine dayanır
+öncesinde gelir

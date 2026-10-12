@@ -1,0 +1,2 @@
+VPN/dahili ortam
+VPN/şirket içi ortam

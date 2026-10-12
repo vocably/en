@@ -1,0 +1,4 @@
+biriktirme
+kurtarma
+tasarruf etme
+koruma

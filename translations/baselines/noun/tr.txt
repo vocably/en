@@ -1,0 +1,3 @@
+temel çizgiler
+başlangıç değerleri
+taban çizgileri

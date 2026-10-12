@@ -1,0 +1,2 @@
+MAC açık anahtarı
+MAC genel anahtarı

@@ -1,0 +1,4 @@
+bağlama
+otostop çekme
+takma
+çekiştirme

@@ -1,0 +1,4 @@
+katılır
+birleşir
+üye olur
+bağlanır

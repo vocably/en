@@ -1,0 +1,4 @@
+başvurdu
+andı
+çağırdı
+dayandı

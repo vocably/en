@@ -1,0 +1,2 @@
+kuralları oyunun ortasında değiştirmek
+hedef tahtasını kaydırmak

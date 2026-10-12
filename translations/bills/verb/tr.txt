@@ -1,0 +1,4 @@
+fatura eder
+faturalandırır
+ilan eder
+duyurur

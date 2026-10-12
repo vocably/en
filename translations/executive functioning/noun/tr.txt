@@ -1,0 +1,2 @@
+yürütücü işlevler
+yönetici işlevler

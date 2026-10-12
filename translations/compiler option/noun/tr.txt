@@ -1,0 +1,2 @@
+derleyici seçeneği
+derleyici parametresi

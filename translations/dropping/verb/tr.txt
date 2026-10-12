@@ -1,0 +1,6 @@
+düşürme
+bırakma
+düşme
+indirme
+çıkarma
+bırakıp gitme

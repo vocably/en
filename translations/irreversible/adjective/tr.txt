@@ -1,0 +1,2 @@
+geri döndürülemez
+tersine çevrilemez

@@ -1,0 +1,2 @@
+seçim listesi değeri
+açılır liste değeri

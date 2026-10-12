@@ -1,0 +1,2 @@
+yeniden senkronize etmek
+tekrar eşitlemek

@@ -1,0 +1,2 @@
+geri getirme güvenilirliği
+erişim güvenilirliği

@@ -1,0 +1,4 @@
+taramalar
+arama operasyonları
+süpürmeler
+tam galibiyetler

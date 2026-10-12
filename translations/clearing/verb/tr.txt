@@ -1,0 +1,4 @@
+temizleme
+boşaltma
+açma
+gümrükten geçirme

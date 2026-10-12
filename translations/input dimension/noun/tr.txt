@@ -1,0 +1,2 @@
+girdi boyutu
+girdi özelliği

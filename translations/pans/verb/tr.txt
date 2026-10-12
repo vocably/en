@@ -1,0 +1,3 @@
+yerer
+kamerayı yatay çevirir
+pan yaparak altın arar

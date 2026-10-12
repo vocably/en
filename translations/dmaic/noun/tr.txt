@@ -1,0 +1,2 @@
+DMAIC
+Tanımla-Ölç-Analiz Et-İyileştir-Kontrol Et

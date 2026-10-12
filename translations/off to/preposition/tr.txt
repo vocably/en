@@ -1,0 +1,2 @@
+-e doğru yola çıkmış (gitmek üzere)
+-e gitmek üzere

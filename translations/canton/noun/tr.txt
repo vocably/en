@@ -1,0 +1,3 @@
+kanton
+bölge
+eyalet

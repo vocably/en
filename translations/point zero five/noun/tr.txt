@@ -1,0 +1,3 @@
+sıfır virgül sıfır beş
+0,05
+yüzde beş

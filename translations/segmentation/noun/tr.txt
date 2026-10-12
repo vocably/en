@@ -1,0 +1,4 @@
+segmentasyon
+bölümleme
+parçalama
+bölütleme

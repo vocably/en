@@ -1,0 +1,3 @@
+artırma
+büyütme
+ekleme

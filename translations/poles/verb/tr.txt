@@ -1,0 +1,3 @@
+sırıkla iter
+sırıkla yürütür
+sırıkla dürter

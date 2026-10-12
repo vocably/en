@@ -1,0 +1,2 @@
+-e bağlamak
+-e atfetmek

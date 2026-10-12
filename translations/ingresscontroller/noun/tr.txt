@@ -1,0 +1,2 @@
+ingress denetleyicisi
+giriş denetleyicisi

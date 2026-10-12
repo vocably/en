@@ -1,0 +1,2 @@
+satır düzeyinde kilitleme
+satır seviyesinde kilitleme

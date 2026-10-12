@@ -1,0 +1,2 @@
+ortalamaya merkezlemek
+ortalamayı çıkararak merkezlemek

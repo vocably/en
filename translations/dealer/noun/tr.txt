@@ -1,0 +1,2 @@
+satıcı
+kart dağıtıcısı

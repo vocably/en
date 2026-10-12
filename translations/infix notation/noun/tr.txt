@@ -1,0 +1,2 @@
+ara ek gösterimi
+infix gösterimi

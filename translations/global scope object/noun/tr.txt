@@ -1,0 +1,2 @@
+global kapsam nesnesi
+genel kapsam nesnesi

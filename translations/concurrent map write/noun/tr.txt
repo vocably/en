@@ -1,0 +1,2 @@
+eşzamanlı map yazma
+eşzamanlı harita yazma işlemi

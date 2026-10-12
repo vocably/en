@@ -1,0 +1,3 @@
+yok eder
+yıkar
+mahveder

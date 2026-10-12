@@ -1,0 +1,2 @@
+kapsam içinde benzersizlik
+kapsam dahilinde tekillik

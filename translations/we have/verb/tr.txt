@@ -1,0 +1,6 @@
+sahibiz
+var (bizde var)
+yapmak zorundayız
+yiyoruz
+yaşıyoruz
+tamamladık

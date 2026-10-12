@@ -1,0 +1,2 @@
+BigQuery
+BigQuery veri ambarı

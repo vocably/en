@@ -1,0 +1,2 @@
+ngTemplateOutlet
+şablon çıkış noktası

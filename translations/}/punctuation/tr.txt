@@ -1,0 +1,3 @@
+küme parantezi kapatma
+kapanış küme parantezi
+sağ küme parantezi

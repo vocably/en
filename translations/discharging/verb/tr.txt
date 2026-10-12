@@ -1,0 +1,5 @@
+taburcu etme
+boşaltma
+yerine getirme
+salıverme
+ateşleme

@@ -1,0 +1,2 @@
+BIOS
+temel giriş/çıkış sistemi

@@ -1,0 +1,4 @@
+dokunuşlar
+dokunmalar
+ince detaylar
+son dokunuşlar

@@ -1,0 +1,4 @@
+izler
+takip eder
+izini sürer
+kaydeder

@@ -1,0 +1,4 @@
+geri döner
+geri verir
+getiri sağlar
+seçer

@@ -1,0 +1,4 @@
+taşıyıcı
+nakliyeci
+operatör
+taşıyan

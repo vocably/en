@@ -1,0 +1,3 @@
+araya eklemek
+aradeğerini hesaplamak
+enterpolasyon yapmak

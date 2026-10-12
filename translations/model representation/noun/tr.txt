@@ -1,0 +1,3 @@
+model temsili
+model gösterimi
+modelleme

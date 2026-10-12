@@ -1,0 +1,2 @@
+sorgu parametreleri
+sorgu dizesi parametreleri

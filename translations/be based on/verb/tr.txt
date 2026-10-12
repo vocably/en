@@ -1,0 +1,2 @@
+-e dayanmak
+-e dayalı olmak

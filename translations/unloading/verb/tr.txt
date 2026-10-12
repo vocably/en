@@ -1,0 +1,3 @@
+boşaltma
+boşaltıyor
+yükünü boşaltma

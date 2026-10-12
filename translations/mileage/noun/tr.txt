@@ -1,0 +1,3 @@
+kilometre sayacı değeri
+yakıt tüketimi
+kat edilen mesafe

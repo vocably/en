@@ -1,0 +1,2 @@
+maliyet yapısı
+gider yapısı

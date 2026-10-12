@@ -1,0 +1,2 @@
+-e hazırlanmak
+-e hazırlık yapmak

@@ -1,0 +1,2 @@
+değişken sertlikli
+ayarlanabilir sertlikli

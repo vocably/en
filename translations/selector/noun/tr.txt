@@ -1,0 +1,4 @@
+seçici
+seçici düğme
+seçmen
+selektör

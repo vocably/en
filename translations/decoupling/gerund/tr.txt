@@ -1,0 +1,3 @@
+ayrıştırma
+ayrılma
+bağlantıyı kesme

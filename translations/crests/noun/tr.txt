@@ -1,0 +1,4 @@
+tepeler
+armalar
+zirveler
+ibikler

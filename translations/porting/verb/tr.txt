@@ -1,0 +1,4 @@
+uyarlama
+aktarma
+taşıma
+port etme

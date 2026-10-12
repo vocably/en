@@ -1,0 +1,3 @@
+yuvarlama
+yuvarlayan
+dönme

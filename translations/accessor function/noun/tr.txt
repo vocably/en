@@ -1,0 +1,2 @@
+erişim fonksiyonu
+getter fonksiyonu

@@ -1,0 +1,2 @@
+var gücüyle denemek
+elinden geleni yapmak

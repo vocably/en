@@ -1,0 +1,4 @@
+restore etmek
+onarmak
+geri getirmek
+eski haline getirmek

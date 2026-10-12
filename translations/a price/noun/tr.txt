@@ -1,0 +1,3 @@
+fiyat
+bedel
+ücret

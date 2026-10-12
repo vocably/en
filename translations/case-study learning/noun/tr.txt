@@ -1,0 +1,2 @@
+vaka çalışmasıyla öğrenme
+örnek olay temelli öğrenme

@@ -1,0 +1,2 @@
+trafik yoğunluğu ücreti
+tıkanıklık ücretlendirmesi

@@ -1,0 +1,3 @@
+ele almak
+hesap sormak
+blok yapmak

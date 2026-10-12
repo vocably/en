@@ -1,0 +1,3 @@
+meydan okudu
+karşı çıktı
+aldırmadı

@@ -1,0 +1,2 @@
+alıcı-verici
+telsiz

@@ -1,0 +1,2 @@
+şarta bağlı yükümlülükler
+koşullu yükümlülükler

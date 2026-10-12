@@ -1,0 +1,2 @@
+grafiğini çizer
+grafikle gösterir

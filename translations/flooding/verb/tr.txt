@@ -1,0 +1,3 @@
+su basma
+su altında bırakma
+taşma

@@ -1,0 +1,3 @@
+eşdeğerlik
+denklik
+eşitlik

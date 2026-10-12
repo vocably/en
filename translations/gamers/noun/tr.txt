@@ -1,0 +1,2 @@
+oyuncular
+oyun oyuncuları

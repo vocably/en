@@ -1,0 +1,2 @@
+tekrarlanabilirlik
+yeniden üretilebilirlik

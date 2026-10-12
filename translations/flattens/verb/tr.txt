@@ -1,0 +1,3 @@
+düzleştirir
+yassılaştırır
+yıkar

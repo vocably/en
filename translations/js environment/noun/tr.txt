@@ -1,0 +1,2 @@
+JS ortamı
+JavaScript çalışma ortamı

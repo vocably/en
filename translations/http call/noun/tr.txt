@@ -1,0 +1,2 @@
+HTTP çağrısı
+HTTP isteği

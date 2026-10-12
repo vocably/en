@@ -1,0 +1,2 @@
+WebGL parmak izi alma
+WebGL parmak izi tespiti

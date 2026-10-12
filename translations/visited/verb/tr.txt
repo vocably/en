@@ -1,0 +1,4 @@
+ziyaret etti
+ziyaret edildi
+görmeye gitti
+uğradı

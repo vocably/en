@@ -1,0 +1,3 @@
+sıfırlar
+yeniden ayarlar
+eski haline getirir

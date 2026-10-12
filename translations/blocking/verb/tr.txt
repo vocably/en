@@ -1,0 +1,5 @@
+engelleme
+tıkama
+bloke etme
+kapatma
+blok yapma

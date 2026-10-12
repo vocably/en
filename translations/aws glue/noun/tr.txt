@@ -1,0 +1,2 @@
+AWS Glue
+AWS Glue veri entegrasyon hizmeti

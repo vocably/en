@@ -1,0 +1,3 @@
+eğimlidir
+meyillidir
+eğimli olur

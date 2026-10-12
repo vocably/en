@@ -1,0 +1,2 @@
+döşemeli oluşturma
+karo tabanlı render

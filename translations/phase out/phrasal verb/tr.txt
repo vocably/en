@@ -1,0 +1,2 @@
+aşamalı olarak kaldırmak
+kademeli olarak sonlandırmak

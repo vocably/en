@@ -1,0 +1,5 @@
+emekli olur
+emekli oluyor
+yatmaya çekilir
+çekilir
+hizmetten çıkarır

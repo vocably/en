@@ -1,0 +1,2 @@
+değerlerin yeniden değerlendirilmesi
+yeniden değerlendirme

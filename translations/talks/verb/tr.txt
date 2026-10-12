@@ -1,0 +1,4 @@
+konuşur
+görüşür
+konuşma yapar
+anlatır

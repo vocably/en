@@ -1,0 +1,4 @@
+listeler
+listesini çıkarır
+sıralar
+yana yatar

@@ -1,0 +1,5 @@
+girdi
+tuşladı
+kilitledi
+anahtarla çizdi
+akort etti

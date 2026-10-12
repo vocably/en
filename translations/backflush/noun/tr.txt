@@ -1,0 +1,2 @@
+geri yıkama
+ters yıkama

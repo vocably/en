@@ -1,0 +1,2 @@
+Çok Katmanlı Algılayıcı
+Çok Katmanlı Perceptron

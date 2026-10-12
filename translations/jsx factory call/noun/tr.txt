@@ -1,0 +1,2 @@
+JSX fabrika çağrısı
+JSX fabrika fonksiyonu çağrısı

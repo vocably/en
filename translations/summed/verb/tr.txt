@@ -1,0 +1,4 @@
+topladı
+özetledi
+toplamını aldı
+toplam olarak hesapladı

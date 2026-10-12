@@ -1,0 +1,2 @@
+Maxpulse
+nabız dalgası hızı ölçüm cihazı

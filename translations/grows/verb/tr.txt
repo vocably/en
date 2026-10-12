@@ -1,0 +1,4 @@
+büyür
+artar
+yetişir
+yetiştirir

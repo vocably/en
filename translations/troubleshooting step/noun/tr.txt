@@ -1,0 +1,2 @@
+sorun giderme adımı
+arıza giderme adımı

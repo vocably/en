@@ -1,0 +1,2 @@
+tıklama oranı
+tıklama başına oran

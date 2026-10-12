@@ -1,0 +1,4 @@
+n harfi
+N
+n sesi
+herhangi bir sayı

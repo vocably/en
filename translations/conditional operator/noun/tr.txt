@@ -1,0 +1,2 @@
+koşul operatörü
+üçlü operatör

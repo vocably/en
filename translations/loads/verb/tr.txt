@@ -1,0 +1,6 @@
+yükler
+doldurur
+yüklüyor
+takar
+koyar
+şarj eder

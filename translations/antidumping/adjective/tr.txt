@@ -1,0 +1,2 @@
+damping karşıtı
+anti-damping

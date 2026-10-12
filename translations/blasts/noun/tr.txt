@@ -1,0 +1,4 @@
+patlamalar
+esintiler
+gürültüler
+saldırılar

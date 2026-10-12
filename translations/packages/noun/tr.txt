@@ -1,0 +1,3 @@
+paketler
+koliler
+yazılım paketleri

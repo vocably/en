@@ -1,0 +1,4 @@
+grafikler
+çizelgeler
+haritalar
+listeler

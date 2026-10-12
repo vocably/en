@@ -1,0 +1,4 @@
+kareler
+meydanlar
+kare sayılar
+karelikler

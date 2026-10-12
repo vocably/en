@@ -1,0 +1,2 @@
+video belleği
+VRAM

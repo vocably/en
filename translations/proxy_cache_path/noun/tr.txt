@@ -1,0 +1,2 @@
+proxy_cache_path
+vekil önbellek yolu

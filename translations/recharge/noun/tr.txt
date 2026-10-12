@@ -1,0 +1,3 @@
+şarj etme
+yeniden şarj
+dinlenme

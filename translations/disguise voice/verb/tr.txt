@@ -1,0 +1,2 @@
+sesini değiştirmek
+sesini gizlemek

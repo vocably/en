@@ -1,0 +1,3 @@
+frekanslar
+sıklıklar
+titreşim sayıları

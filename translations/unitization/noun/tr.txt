@@ -1,0 +1,3 @@
+birimleştirme
+birim haline getirme
+ünitizasyon

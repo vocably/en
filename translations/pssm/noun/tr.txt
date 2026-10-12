@@ -1,0 +1,2 @@
+pozisyona özgü skorlama matrisi
+konuma özgü puanlama matrisi

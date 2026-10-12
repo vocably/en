@@ -1,0 +1,2 @@
+sağ küme parantezi
+kapatma küme parantezi

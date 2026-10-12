@@ -1,0 +1,2 @@
+@font-face kuralı
+yazı tipi tanımı

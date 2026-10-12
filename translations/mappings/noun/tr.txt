@@ -1,0 +1,3 @@
+eşlemeler
+haritalamalar
+eşleştirmeler

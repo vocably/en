@@ -1,0 +1,2 @@
+iç sınıf
+iç içe sınıf

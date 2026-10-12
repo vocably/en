@@ -1,0 +1,2 @@
+giden HTTPS bağlantısı kurmak
+dışa doğru HTTPS bağlantısı yapmak

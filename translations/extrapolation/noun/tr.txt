@@ -1,0 +1,2 @@
+ekstrapolasyon
+dış değer biçme

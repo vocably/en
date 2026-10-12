@@ -1,0 +1,3 @@
+tamponlamak
+korumak
+ara belleğe almak

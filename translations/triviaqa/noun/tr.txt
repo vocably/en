@@ -1,0 +1,2 @@
+TriviaQA
+TriviaQA veri kümesi

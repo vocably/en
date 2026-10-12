@@ -1,0 +1,2 @@
+algılanan güven değeri
+güvene dayalı algılanan değer

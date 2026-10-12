@@ -1,0 +1,2 @@
+Bearer kimlik doğrulama
+taşıyıcı belirteç kimlik doğrulaması

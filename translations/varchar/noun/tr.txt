@@ -1,0 +1,2 @@
+varchar
+değişken uzunluklu karakter dizisi

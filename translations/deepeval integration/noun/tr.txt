@@ -1,0 +1,2 @@
+DeepEval entegrasyonu
+DeepEval bütünleştirmesi

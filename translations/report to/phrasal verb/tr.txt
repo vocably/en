@@ -1,0 +1,2 @@
+-e bağlı olmak
+-e bildirmek

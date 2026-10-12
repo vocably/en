@@ -1,0 +1,2 @@
+dış sınıf
+kapsayan sınıf

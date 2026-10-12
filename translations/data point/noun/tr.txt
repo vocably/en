@@ -1,0 +1,3 @@
+veri noktası
+veri değeri
+gözlem değeri

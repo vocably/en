@@ -1,0 +1,2 @@
+birlikte var olan katman
+eşzamanlı katman

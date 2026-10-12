@@ -1,0 +1,2 @@
+stok seviyesi
+envanter seviyesi

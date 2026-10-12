@@ -1,0 +1,2 @@
+parametre koklama
+parametre koklaması (parameter sniffing)

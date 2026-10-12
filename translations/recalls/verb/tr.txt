@@ -1,0 +1,3 @@
+hatırlar
+geri çağırır
+geri çeker

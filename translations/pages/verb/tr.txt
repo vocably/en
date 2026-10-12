@@ -1,0 +1,2 @@
+sayfalarını çevirir
+çağrı cihazıyla çağırır

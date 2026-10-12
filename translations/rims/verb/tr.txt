@@ -1,0 +1,3 @@
+çevreler
+kenarını oluşturur
+kenarında döner

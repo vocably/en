@@ -1,0 +1,2 @@
+isteğe bağlı erişim kontrolü
+takdire bağlı erişim denetimi

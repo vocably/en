@@ -1,0 +1,2 @@
+çift uçlu kuyruk
+deque

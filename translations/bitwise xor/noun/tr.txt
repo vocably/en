@@ -1,0 +1,2 @@
+bit düzeyinde XOR
+bit tabanlı özel veya

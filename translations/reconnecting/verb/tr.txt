@@ -1,0 +1,2 @@
+yeniden bağlanıyor
+yeniden bağlantı kuruyor

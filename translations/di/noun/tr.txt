@@ -1,0 +1,2 @@
+DI kutusu
+direkt enjeksiyon kutusu

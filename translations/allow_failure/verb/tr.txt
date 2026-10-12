@@ -1,0 +1,2 @@
+başarısızlığa izin vermek
+hataya tolerans göstermek

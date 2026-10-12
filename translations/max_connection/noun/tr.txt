@@ -1,0 +1,2 @@
+maksimum bağlantı
+azami bağlantı sayısı

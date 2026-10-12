@@ -1,0 +1,4 @@
+temizlemek
+toparlamak
+düzene sokmak
+kasayı doldurmak

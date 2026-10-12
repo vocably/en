@@ -1,0 +1,2 @@
+kullanıcı erişimi
+kullanıcı yetkisi

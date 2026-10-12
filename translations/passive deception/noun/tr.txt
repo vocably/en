@@ -1,0 +1,2 @@
+pasif aldatma
+örtülü aldatma

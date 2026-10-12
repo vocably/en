@@ -1,0 +1,2 @@
+haber değeri taşıyan
+haberlik

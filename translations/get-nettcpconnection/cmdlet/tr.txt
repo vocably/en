@@ -1,0 +1,2 @@
+NetTCP bağlantılarını al
+Ağ TCP bağlantılarını getir

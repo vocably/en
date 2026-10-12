@@ -1,0 +1,2 @@
+paket (yiyecek/içecek)
+çıkarılacak (ana) sonuç

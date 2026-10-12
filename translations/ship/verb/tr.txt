@@ -1,0 +1,5 @@
+göndermek
+sevk etmek
+nakletmek
+gemiye yüklemek
+kargolamak

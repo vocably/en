@@ -1,0 +1,4 @@
+parçalar
+kırar
+param parça eder
+ezer

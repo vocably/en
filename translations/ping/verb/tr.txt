@@ -1,0 +1,4 @@
+ping atmak
+mesaj atmak
+tıngırdamak
+sonarla tespit etmek

@@ -1,0 +1,2 @@
+-e meyletmek
+-e yönelik hata yapmak

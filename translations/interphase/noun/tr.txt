@@ -1,0 +1,2 @@
+interfaz
+hücre durgun evresi

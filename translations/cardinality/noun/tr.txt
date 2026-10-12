@@ -1,0 +1,2 @@
+kardinalite
+eleman sayısı

@@ -1,0 +1,4 @@
+geri dönmek
+geri çevirmek
+geri göndermek
+yön değiştirmek

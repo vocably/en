@@ -1,0 +1,3 @@
+telsizle bildirmek
+telsizle haberleşmek
+telsizle çağırmak

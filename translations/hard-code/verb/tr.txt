@@ -1,0 +1,2 @@
+koda sabit olarak gömmek
+sabit kodlamak

@@ -1,0 +1,2 @@
+geri besleme döngüsü
+geri bildirim döngüsü

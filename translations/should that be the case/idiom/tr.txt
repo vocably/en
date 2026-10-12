@@ -1,0 +1,2 @@
+eğer durum buysa
+öyle olması durumunda

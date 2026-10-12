@@ -1,0 +1,5 @@
+sürükler
+çeker
+sürüklenir
+uzar
+zorla götürür

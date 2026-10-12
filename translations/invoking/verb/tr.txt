@@ -1,0 +1,4 @@
+başvurma
+çağırma
+dayanma
+anma

@@ -1,0 +1,3 @@
+dile getirdi
+seslendirdi
+sesli

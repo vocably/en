@@ -1,0 +1,2 @@
+regl olmak
+adet görmek

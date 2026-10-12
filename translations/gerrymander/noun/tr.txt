@@ -1,0 +1,2 @@
+seçim bölgelerini manipüle etme
+seçim bölgesi hilesi

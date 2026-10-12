@@ -1,0 +1,4 @@
+iptal etti
+iptal edildi
+feshetti
+etkisiz hale getirdi

@@ -1,0 +1,4 @@
+tıkladı
+tık sesi çıkardı
+anlaşıldı
+kaynaştı

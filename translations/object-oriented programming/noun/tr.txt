@@ -1,0 +1,2 @@
+nesne yönelimli programlama
+nesne tabanlı programlama

@@ -1,0 +1,3 @@
+duvarlar
+surlar
+setler

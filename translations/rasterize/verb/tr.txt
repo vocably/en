@@ -1,0 +1,2 @@
+rasterleştirmek
+piksel tabanlı görüntüye dönüştürmek

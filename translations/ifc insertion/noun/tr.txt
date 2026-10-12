@@ -1,0 +1,2 @@
+IFC ekleme
+IFC entegrasyonu

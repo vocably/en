@@ -1,0 +1,2 @@
+yük çok biçimliliği
+veri yükü polimorfizmi

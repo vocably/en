@@ -1,0 +1,3 @@
+ortadan kaldırma
+elemek
+yok etme

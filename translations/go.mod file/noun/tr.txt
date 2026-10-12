@@ -1,0 +1,2 @@
+go.mod dosyası
+Go modül dosyası

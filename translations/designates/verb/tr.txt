@@ -1,0 +1,3 @@
+belirler
+tayin eder
+gösterir

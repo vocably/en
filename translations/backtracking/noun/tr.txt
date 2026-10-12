@@ -1,0 +1,3 @@
+geri izleme
+geri adım atma
+geri dönüş

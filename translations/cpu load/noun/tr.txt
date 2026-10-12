@@ -1,0 +1,2 @@
+CPU yükü
+işlemci yükü

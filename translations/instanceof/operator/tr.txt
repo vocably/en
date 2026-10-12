@@ -1,0 +1,2 @@
+instanceof operatörü
+örneği mi operatörü

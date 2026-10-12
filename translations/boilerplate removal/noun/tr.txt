@@ -1,0 +1,2 @@
+kalıp metin temizleme
+şablon içeriğin kaldırılması

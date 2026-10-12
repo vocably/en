@@ -1,0 +1,3 @@
+aşamalandırır
+kademeli olarak uygular
+evrelere ayırır

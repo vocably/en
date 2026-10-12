@@ -1,0 +1,2 @@
+tehdit algılama sistemi
+tehdit tespit sistemi

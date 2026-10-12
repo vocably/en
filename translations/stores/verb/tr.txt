@@ -1,0 +1,3 @@
+saklar
+depolar
+muhafaza eder

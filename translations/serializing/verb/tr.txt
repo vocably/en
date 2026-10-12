@@ -1,0 +1,3 @@
+serileştirme
+seri hâline getirme
+tefrika etme

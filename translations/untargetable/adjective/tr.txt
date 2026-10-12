@@ -1,0 +1,3 @@
+hedef alınamaz
+hedeflenemez
+hedef alınamayan

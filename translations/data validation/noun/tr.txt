@@ -1,0 +1,2 @@
+veri doğrulama
+veri geçerleme

@@ -1,0 +1,3 @@
+müşteri referansı
+müşteri tavsiyesi
+müşteri görüşü

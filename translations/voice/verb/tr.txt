@@ -1,0 +1,3 @@
+dile getirmek
+ifade etmek
+seslendirmek

@@ -1,0 +1,3 @@
+deterministik
+belirlenimci
+gerekirci

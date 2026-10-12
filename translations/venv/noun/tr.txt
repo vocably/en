@@ -1,0 +1,2 @@
+sanal ortam
+venv

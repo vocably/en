@@ -1,0 +1,2 @@
+faks çekme
+faksla gönderme

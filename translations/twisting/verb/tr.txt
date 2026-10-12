@@ -1,0 +1,4 @@
+bükme
+döndürme
+burma
+çarpıtma

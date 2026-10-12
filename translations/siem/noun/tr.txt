@@ -1,0 +1,2 @@
+SIEM
+güvenlik bilgisi ve olay yönetimi sistemi

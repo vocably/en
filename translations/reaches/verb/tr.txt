@@ -1,0 +1,4 @@
+ulaşır
+uzanır
+erişir
+varır

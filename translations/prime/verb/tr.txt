@@ -1,0 +1,5 @@
+hazırlamak
+astar vurmak
+astarlamak
+bilgilendirmek
+kurmak

@@ -1,0 +1,5 @@
+tekmeler
+tekme atar
+vurur
+bırakır
+geri tepər

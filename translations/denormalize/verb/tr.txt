@@ -1,0 +1,2 @@
+denormalize etmek
+normalizasyonunu geri almak

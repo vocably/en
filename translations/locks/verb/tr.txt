@@ -1,0 +1,4 @@
+kilitler
+kilitlenir
+kilit altına alır
+kenetlenir

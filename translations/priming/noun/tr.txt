@@ -1,0 +1,3 @@
+astar
+hazırlama
+pompa doldurma

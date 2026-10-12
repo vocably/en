@@ -1,0 +1,2 @@
+ağaç yapısına dönüştürmek
+hiyerarşik olarak düzenlemek

@@ -1,0 +1,3 @@
+geçersiz kılma
+boşaltma
+iptal etme

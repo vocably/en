@@ -1,0 +1,3 @@
+miras alıyor
+miras bırakılan şeyi devralıyor
+kalıtımla alıyor

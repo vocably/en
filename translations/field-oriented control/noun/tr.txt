@@ -1,0 +1,2 @@
+alan yönlendirmeli kontrol
+vektör kontrol

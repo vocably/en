@@ -1,0 +1,2 @@
+-den başlatmak
+-den ilk değerini almak

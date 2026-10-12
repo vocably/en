@@ -1,0 +1,2 @@
+kubelet ve kube-proxy
+kubelet ile kube-proxy

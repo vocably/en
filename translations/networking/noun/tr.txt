@@ -1,0 +1,3 @@
+ağ oluşturma
+ağ iletişimi
+network kurma

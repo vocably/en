@@ -1,0 +1,2 @@
+satıcıdan bağımsız
+tedarikçiden bağımsız

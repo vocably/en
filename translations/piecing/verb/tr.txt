@@ -1,0 +1,3 @@
+birleştirme
+parçaları bir araya getirme
+yamalama

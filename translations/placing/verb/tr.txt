@@ -1,0 +1,4 @@
+yerleştirme
+koyma
+konumlandırma
+sıralama

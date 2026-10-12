@@ -1,0 +1,2 @@
+-e gelince
+-e gelince (başka biri veya şey hakkında karşıtlık belirtir)

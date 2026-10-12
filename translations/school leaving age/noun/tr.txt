@@ -1,0 +1,2 @@
+zorunlu eğitim yaşı
+okulu bırakma yaşı

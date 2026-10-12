@@ -1,0 +1,3 @@
+eşzamansız olarak
+asenkron olarak
+eşzamanlı olmayan biçimde

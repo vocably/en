@@ -1,0 +1,2 @@
+-e boğmak
+-i ... ile doldurmak

@@ -1,0 +1,3 @@
+satır başı
+satıra dönüş
+satır başı karakteri

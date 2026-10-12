@@ -1,0 +1,2 @@
+elastik ağ arayüzü
+esnek ağ arayüzü

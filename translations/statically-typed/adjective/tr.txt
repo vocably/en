@@ -1,0 +1,2 @@
+statik tipli
+statik olarak tiplenmiş

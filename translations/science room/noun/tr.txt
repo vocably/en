@@ -1,0 +1,2 @@
+fen bilgisi sınıfı
+fen laboratuvarı

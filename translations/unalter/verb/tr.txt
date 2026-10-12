@@ -1,0 +1,2 @@
+eski haline getirmek
+değişikliği geri almak

@@ -1,0 +1,2 @@
+zord
+dev savaş robotu

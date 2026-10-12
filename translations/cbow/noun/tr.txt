@@ -1,0 +1,2 @@
+sürekli kelime çantası modeli
+CBOW modeli

@@ -1,0 +1,2 @@
+sunucu öncelikli oluşturma
+sunucu öncelikli render

@@ -1,0 +1,2 @@
+PCI Express portları
+PCI Express yuvaları

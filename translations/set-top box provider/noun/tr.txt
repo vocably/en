@@ -1,0 +1,2 @@
+set-üstü kutu sağlayıcısı
+uydu alıcısı sağlayıcısı

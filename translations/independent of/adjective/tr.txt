@@ -1,0 +1,3 @@
+-den bağımsız
+-e bağlı olmayan
+-den özgür

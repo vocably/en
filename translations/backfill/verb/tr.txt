@@ -1,0 +1,3 @@
+boşluğu doldurmak
+yerine eleman almak
+gömmek

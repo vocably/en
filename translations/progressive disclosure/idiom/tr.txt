@@ -1,0 +1,2 @@
+aşamalı açığa çıkarma
+kademeli bilgi gösterimi

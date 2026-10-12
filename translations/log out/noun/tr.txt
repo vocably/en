@@ -1,0 +1,2 @@
+oturum kapatma
+çıkış yapma

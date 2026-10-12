@@ -1,0 +1,4 @@
+taşınacak
+hareket edecek
+taşıyacak
+harekete geçecek

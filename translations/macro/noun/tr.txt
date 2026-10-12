@@ -1,0 +1,2 @@
+makro
+makro komut

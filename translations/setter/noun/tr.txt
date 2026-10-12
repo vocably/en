@@ -1,0 +1,3 @@
+setter köpeği
+düzenleyici
+yerleştirici

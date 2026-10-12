@@ -1,0 +1,2 @@
+otomatik başlatma
+otomatik ilk değer atama

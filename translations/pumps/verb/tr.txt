@@ -1,0 +1,4 @@
+pompalar
+pompalayarak çıkarır
+yoğun şekilde aktarır
+çalıştırır

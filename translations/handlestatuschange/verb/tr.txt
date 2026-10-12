@@ -1,0 +1,2 @@
+durum değişikliğini ele almak
+durum değişikliğini yönetmek

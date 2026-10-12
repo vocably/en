@@ -1,0 +1,2 @@
+mesaj atar
+kısa mesaj gönderir

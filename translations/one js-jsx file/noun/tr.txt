@@ -1,0 +1,2 @@
+bir JS/JSX dosyası
+tek bir JS/JSX dosyası

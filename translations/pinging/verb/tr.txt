@@ -1,0 +1,4 @@
+ping atıyor
+ping gönderiyor
+tıngırdıyor
+mesaj atıyor

@@ -1,0 +1,2 @@
+tek değişkenli
+tek değişkenli olmayan

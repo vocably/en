@@ -1,0 +1,2 @@
+doğrulama kuralı
+geçerlilik kuralı

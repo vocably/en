@@ -1,0 +1,2 @@
+DOM düğümü
+DOM nesnesi

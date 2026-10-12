@@ -1,0 +1,2 @@
+araç çıktısını sıkıştırmak
+araç çıktısını sıkıştır

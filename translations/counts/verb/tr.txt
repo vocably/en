@@ -1,0 +1,4 @@
+sayar
+önemlidir
+değeri vardır
+hesaba katar

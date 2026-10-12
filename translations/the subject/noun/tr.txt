@@ -1,0 +1,5 @@
+konu
+ders
+özne
+denek
+tebaa

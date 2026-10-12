@@ -1,0 +1,2 @@
+hareket bozuklukları
+hareket kısıtlılıkları

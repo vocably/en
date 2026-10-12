@@ -1,0 +1,2 @@
+dosya okuyucu
+dosya görüntüleyici

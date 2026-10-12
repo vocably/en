@@ -1,0 +1,4 @@
+geri döndü
+iade etti
+geri verdi
+karşılık verdi

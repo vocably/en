@@ -1,0 +1,3 @@
+düzleştirme
+pürüzsüzleştirme
+yatıştırma

@@ -1,0 +1,3 @@
+aday gösterildi
+aday gösterilmiş
+atandı

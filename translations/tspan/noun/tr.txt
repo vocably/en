@@ -1,0 +1,2 @@
+tspan öğesi
+metin aralığı

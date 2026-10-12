@@ -1,0 +1,2 @@
+birim hacim ağırlık
+özgül ağırlık

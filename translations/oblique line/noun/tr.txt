@@ -1,0 +1,3 @@
+eğik çizgi
+verev çizgi
+meyilli çizgi

@@ -1,0 +1,3 @@
+park etti
+park edildi
+bıraktı

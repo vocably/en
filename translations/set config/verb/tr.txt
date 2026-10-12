@@ -1,0 +1,2 @@
+yapılandırmayı ayarlamak
+yapılandırmak

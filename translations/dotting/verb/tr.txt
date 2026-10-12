@@ -1,0 +1,4 @@
+noktalama
+nokta koyma
+serpiştirme
+noktalarla işaretleme

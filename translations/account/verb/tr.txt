@@ -1,0 +1,4 @@
+açıklamak
+hesap vermek
+saymak
+addetmek

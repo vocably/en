@@ -1,0 +1,2 @@
+sözcüksel kapsam belirleme
+statik kapsam belirleme

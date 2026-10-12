@@ -1,0 +1,3 @@
+tokenizasyon
+belirteçleme
+simgeleştirme

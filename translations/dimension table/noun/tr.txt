@@ -1,0 +1,2 @@
+boyut tablosu
+ölçü tablosu

@@ -1,0 +1,2 @@
+beklentilerin üzerinde performans göstermek
+daha iyi performans göstermek

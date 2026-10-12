@@ -1,0 +1,2 @@
+kalıcı depolama
+uçucu olmayan bellek

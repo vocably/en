@@ -1,0 +1,2 @@
+kısmi diferansiyel denklem
+kısmi türevli denklem

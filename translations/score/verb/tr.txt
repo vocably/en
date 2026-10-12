@@ -1,0 +1,5 @@
+gol atmak
+sayı yapmak
+puan almak
+skor yapmak
+çizmek

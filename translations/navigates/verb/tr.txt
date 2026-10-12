@@ -1,0 +1,5 @@
+yönlendirir
+gezinir
+seyreder
+yol bulur
+idare eder

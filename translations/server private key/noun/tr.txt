@@ -1,0 +1,2 @@
+sunucu özel anahtarı
+sunucu gizli anahtarı

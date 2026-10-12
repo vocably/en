@@ -1,0 +1,2 @@
+-ce/-ca (zarf yapım eki)
+-cesine

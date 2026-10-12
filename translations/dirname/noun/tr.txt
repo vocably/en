@@ -1,0 +1,2 @@
+dizin adı
+dizin yolu

@@ -1,0 +1,2 @@
+API kredisi
+API kullanım hakkı

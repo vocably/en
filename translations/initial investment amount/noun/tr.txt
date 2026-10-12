@@ -1,0 +1,2 @@
+ilk yatırım tutarı
+başlangıç yatırım tutarı

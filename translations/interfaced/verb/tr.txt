@@ -1,0 +1,3 @@
+arayüz oluşturdu
+bağlantı kurdu
+arabuluculuk yaptı

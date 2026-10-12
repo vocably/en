@@ -1,0 +1,4 @@
+giriş çıkış saati kaydetme
+süre kaydetme
+fark etme
+yumruklama

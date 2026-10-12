@@ -1,0 +1,2 @@
+hesaplamalı akışkanlar dinamiği
+sayısal akışkanlar dinamiği

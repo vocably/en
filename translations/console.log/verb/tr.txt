@@ -1,0 +1,2 @@
+konsola yazdırmak
+konsola kaydetmek

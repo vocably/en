@@ -1,0 +1,2 @@
+dört anahtarlı konfigürasyon
+dört anahtarlı yapılandırma

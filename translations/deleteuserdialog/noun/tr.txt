@@ -1,0 +1,2 @@
+kullanıcı silme iletişim kutusu
+kullanıcı silme penceresi

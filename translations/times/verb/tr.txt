@@ -1,0 +1,4 @@
+zamanlar
+süresini ölçer
+zamanını ayarlar
+çarpar

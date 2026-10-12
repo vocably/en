@@ -1,0 +1,3 @@
+kile ile ölçmek
+kilelere doldurmak
+büyük miktarda toplamak

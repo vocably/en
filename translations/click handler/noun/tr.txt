@@ -1,0 +1,2 @@
+tıklama işleyicisi
+tıklama olayı işleyicisi

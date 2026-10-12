@@ -1,0 +1,2 @@
+yaratıcı geri dönüşüm
+üst döngü

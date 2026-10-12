@@ -1,0 +1,2 @@
+platform olayı
+platform etkinliği

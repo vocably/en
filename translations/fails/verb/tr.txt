@@ -1,0 +1,5 @@
+başarısız olur
+başaramaz
+bozulur
+yetersiz kalır
+ihmal eder

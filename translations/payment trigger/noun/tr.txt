@@ -1,0 +1,2 @@
+ödeme tetikleyicisi
+ödeme koşulu

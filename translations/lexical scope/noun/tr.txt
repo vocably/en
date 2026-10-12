@@ -1,0 +1,2 @@
+sözcüksel kapsam
+statik kapsam

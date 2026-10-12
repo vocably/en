@@ -1,0 +1,2 @@
+Kullback-Leibler ıraksaklığı
+Kullback-Leibler sapması

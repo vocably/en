@@ -1,0 +1,2 @@
+this farkındalıklı fonksiyon
+bağlama duyarlı fonksiyon

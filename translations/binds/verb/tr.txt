@@ -1,0 +1,4 @@
+bağlar
+bağlayıcı olur
+birleştirir
+sarar

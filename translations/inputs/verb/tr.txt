@@ -1,0 +1,3 @@
+girer
+girdi olarak verir
+sisteme aktarır

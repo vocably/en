@@ -1,0 +1,2 @@
+şema tabanlı formlar/oluşturucular
+şema güdümlü formlar/görüntüleyiciler

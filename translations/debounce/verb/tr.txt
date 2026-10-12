@@ -1,0 +1,2 @@
+sıçramayı önlemek
+gecikmeli çalıştırmak

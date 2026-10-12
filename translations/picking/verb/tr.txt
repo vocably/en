@@ -1,0 +1,5 @@
+seçme
+toplama
+koparma
+çalma
+kurcalama

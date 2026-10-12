@@ -1,0 +1,3 @@
+çıkarır
+kaldırır
+uzaklaştırır

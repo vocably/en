@@ -1,0 +1,2 @@
+Optik Karakter Tanıma
+Optik Karakter Okuma

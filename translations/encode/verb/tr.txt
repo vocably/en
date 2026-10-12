@@ -1,0 +1,4 @@
+kodlamak
+şifrelemek
+kodlamak (veri)
+kodlara dönüştürmek

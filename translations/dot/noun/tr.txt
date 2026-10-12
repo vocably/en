@@ -1,0 +1,3 @@
+nokta
+benek
+puan

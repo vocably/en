@@ -1,0 +1,4 @@
+forvet
+golcü
+grevci
+vurucu

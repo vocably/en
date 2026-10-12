@@ -1,0 +1,3 @@
+sürükleme
+senkronizasyon
+eşzamanlama

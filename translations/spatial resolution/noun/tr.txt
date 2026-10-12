@@ -1,0 +1,3 @@
+uzamsal çözünürlük
+mekânsal çözünürlük
+konumsal çözünürlük

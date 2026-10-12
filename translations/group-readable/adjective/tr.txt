@@ -1,0 +1,2 @@
+grup tarafından okunabilir
+gruba açık okunabilir

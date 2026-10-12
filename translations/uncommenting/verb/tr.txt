@@ -1,0 +1,2 @@
+yorumdan çıkarma
+yorum satırı olmaktan çıkarma

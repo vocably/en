@@ -1,0 +1,2 @@
+getOwnPropertyDescriptor
+özel özellik tanımlayıcısını al

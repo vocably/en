@@ -1,0 +1,3 @@
+geri almak
+geri istemek
+tekrar sahip olmak

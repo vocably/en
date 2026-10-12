@@ -1,0 +1,3 @@
+savurmak
+ortalığa atmak
+ileri geri atmak

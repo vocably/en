@@ -1,0 +1,3 @@
+denervasyonlar
+sinir kesme işlemleri
+sinir kaybı durumları

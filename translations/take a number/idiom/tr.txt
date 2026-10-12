@@ -1,0 +1,2 @@
+sıraya gir
+sıra numarası al

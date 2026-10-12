@@ -1,0 +1,3 @@
+geri çekilme
+geri çekilen
+çekilme

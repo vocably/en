@@ -1,0 +1,2 @@
+sunucu altyapısı
+sunucu yapısı

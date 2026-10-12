@@ -1,0 +1,3 @@
+park etme
+park etmek
+yerleştirme

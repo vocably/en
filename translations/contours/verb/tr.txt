@@ -1,0 +1,3 @@
+şekillendirir
+hatlarını izler
+dış hatlarını çizer

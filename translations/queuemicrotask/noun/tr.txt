@@ -1,0 +1,2 @@
+mikro görev kuyruğa alma
+queueMicrotask

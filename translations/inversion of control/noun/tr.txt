@@ -1,0 +1,2 @@
+Kontrolün Tersine Çevrilmesi
+Bağımlılığın Tersine Çevrilmesi

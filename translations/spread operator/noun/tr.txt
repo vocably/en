@@ -1,0 +1,2 @@
+yayma operatörü
+spread operatörü

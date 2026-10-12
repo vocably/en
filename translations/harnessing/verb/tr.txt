@@ -1,0 +1,3 @@
+kullanma
+dizginleme
+koşum takma

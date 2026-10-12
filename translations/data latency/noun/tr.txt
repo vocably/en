@@ -1,0 +1,2 @@
+veri gecikmesi
+veri gecikme süresi

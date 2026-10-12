@@ -1,0 +1,3 @@
+indirim yapar
+geri ödeme yapar
+iade eder

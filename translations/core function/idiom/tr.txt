@@ -1,0 +1,2 @@
+temel işlev
+çekirdek işlev

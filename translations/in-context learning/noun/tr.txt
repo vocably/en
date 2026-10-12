@@ -1,0 +1,2 @@
+bağlam içi öğrenme
+bağlamsal öğrenme

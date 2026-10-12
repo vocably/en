@@ -1,0 +1,3 @@
+servis yapma
+dedikodu yapma
+çukurlaştırma

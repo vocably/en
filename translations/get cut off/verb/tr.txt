@@ -1,0 +1,3 @@
+kesilmek
+bağlantısı kesilmek
+yolu kapanmak

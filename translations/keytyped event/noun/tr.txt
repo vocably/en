@@ -1,0 +1,2 @@
+KeyTyped olayı
+tuş yazma olayı

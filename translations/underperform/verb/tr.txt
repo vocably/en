@@ -1,0 +1,2 @@
+beklentilerin altında performans göstermek
+düşük performans göstermek

@@ -1,0 +1,2 @@
+uygulama verileri
+AppData klasörü

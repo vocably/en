@@ -1,0 +1,2 @@
+CIDR
+Sınıfsız Etki Alanlar Arası Yönlendirme

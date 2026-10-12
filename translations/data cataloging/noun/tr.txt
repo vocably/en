@@ -1,0 +1,2 @@
+veri kataloglama
+veri envanteri oluşturma

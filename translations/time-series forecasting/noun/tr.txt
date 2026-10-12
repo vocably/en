@@ -1,0 +1,2 @@
+zaman serisi tahmini
+zaman serisi öngörüsü

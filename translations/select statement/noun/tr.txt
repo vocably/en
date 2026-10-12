@@ -1,0 +1,2 @@
+select ifadesi
+select deyimi

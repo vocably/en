@@ -1,0 +1,2 @@
+veriyi korumak
+verileri güvence altına almak

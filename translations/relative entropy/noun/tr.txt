@@ -1,0 +1,2 @@
+göreli entropi
+bağıl entropi

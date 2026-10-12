@@ -1,0 +1,3 @@
+aykırı değerler
+uç değerler
+istisnalar

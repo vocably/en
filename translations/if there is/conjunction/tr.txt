@@ -1,0 +1,2 @@
+eğer varsa
+eğer ... varsa

@@ -1,0 +1,2 @@
+üçlü eşittir
+katı eşitlik operatörü

@@ -1,0 +1,3 @@
+etkin olmayan
+aktif olmayan
+pasif

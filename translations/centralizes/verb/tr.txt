@@ -1,0 +1,3 @@
+merkezileştirir
+merkezde toplar
+tek merkezden yönetir

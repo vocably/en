@@ -1,0 +1,2 @@
+K/V önbellek nicemlemesi
+K/V önbellek kuantizasyonu

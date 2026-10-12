@@ -1,0 +1,2 @@
+durum yönetimi
+state yönetimi

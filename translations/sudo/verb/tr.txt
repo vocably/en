@@ -1,0 +1,2 @@
+sudo ile çalıştırmak
+yönetici olarak çalıştırmak

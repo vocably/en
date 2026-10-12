@@ -1,0 +1,3 @@
+doğrusal olmayan
+lineer olmayan
+çizgisel olmayan

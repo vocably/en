@@ -1,0 +1,2 @@
+değerlendirme
+eval fonksiyonu

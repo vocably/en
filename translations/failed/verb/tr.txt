@@ -1,0 +1,4 @@
+başarısız oldu
+başaramadı
+kaldı
+bozuldu

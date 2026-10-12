@@ -1,0 +1,2 @@
+otomatik başlatmak
+otomatik olarak çalıştırmak

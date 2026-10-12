@@ -1,0 +1,2 @@
+bugünkü değer
+şimdiki değer

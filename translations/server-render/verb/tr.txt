@@ -1,0 +1,2 @@
+sunucu tarafında işlemek
+sunucuda render etmek

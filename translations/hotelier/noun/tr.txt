@@ -1,0 +1,2 @@
+otelci
+otel işletmecisi

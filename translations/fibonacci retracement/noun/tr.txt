@@ -1,0 +1,2 @@
+Fibonacci geri çekilmesi
+Fibonacci düzeltmesi

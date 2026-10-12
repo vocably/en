@@ -1,0 +1,3 @@
+platform sağlar
+kürsü sağlar
+platform oluşturur

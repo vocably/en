@@ -1,0 +1,2 @@
+şablon dizesi
+şablon sabit değeri

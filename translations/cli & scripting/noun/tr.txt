@@ -1,0 +1,2 @@
+komut satırı arayüzü ve betik yazımı
+komut satırı ve komut dosyası oluşturma

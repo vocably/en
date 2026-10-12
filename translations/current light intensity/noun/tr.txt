@@ -1,0 +1,2 @@
+mevcut ışık şiddeti
+anlık ışık yoğunluğu

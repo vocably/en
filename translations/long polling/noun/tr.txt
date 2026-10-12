@@ -1,0 +1,2 @@
+uzun yoklama
+uzun aralıklı sorgulama

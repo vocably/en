@@ -1,0 +1,3 @@
+bip sesi çıkaran
+bip sesiyle örten
+lanet olası

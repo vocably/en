@@ -1,0 +1,2 @@
+yapılandırılmış gecikme
+ayarlanmış gecikme

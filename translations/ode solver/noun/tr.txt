@@ -1,0 +1,2 @@
+ODE çözücü
+adi diferansiyel denklem çözücü

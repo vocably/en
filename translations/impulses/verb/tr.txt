@@ -1,0 +1,2 @@
+iter
+dürtüyle hareket eder

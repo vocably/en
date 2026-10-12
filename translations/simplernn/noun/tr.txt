@@ -1,0 +1,2 @@
+basit RNN
+basit yinelemeli sinir ağı

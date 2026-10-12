@@ -1,0 +1,2 @@
+mmsys.cpl
+Ses ve Ses Aygıtları Denetim Masası dosyası

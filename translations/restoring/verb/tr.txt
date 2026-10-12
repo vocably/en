@@ -1,0 +1,4 @@
+restore ediyor
+onarıyor
+geri getiriyor
+yeniden tesis ediyor

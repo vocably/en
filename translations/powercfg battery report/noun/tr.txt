@@ -1,0 +1,2 @@
+powercfg pil raporu
+powercfg batarya raporu

@@ -1,0 +1,2 @@
+VBScript dosyası
+VBS dosyası

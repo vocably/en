@@ -1,0 +1,2 @@
+npmjs'de bulunmak
+npmjs'de mevcut olmak

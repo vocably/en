@@ -1,0 +1,3 @@
+için
+-e/-a (yönelme eki)
+boyunca

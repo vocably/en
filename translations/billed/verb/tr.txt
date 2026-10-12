@@ -1,0 +1,4 @@
+fatura etti
+faturalandırdı
+tanıttı
+programa aldı

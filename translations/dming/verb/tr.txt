@@ -1,0 +1,2 @@
+DM atmak
+oyun yöneticiliği yapmak

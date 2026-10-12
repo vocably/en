@@ -1,0 +1,2 @@
+sütun özelliği
+kolon özelliği

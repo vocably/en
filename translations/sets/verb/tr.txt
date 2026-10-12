@@ -1,0 +1,5 @@
+koyar
+ayarlar
+belirler
+kurar
+batar

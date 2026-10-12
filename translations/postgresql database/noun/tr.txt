@@ -1,0 +1,2 @@
+PostgreSQL veritabanı
+PostgreSQL veri tabanı

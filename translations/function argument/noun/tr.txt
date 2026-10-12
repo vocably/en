@@ -1,0 +1,2 @@
+fonksiyon argümanı
+fonksiyon bağımsız değişkeni

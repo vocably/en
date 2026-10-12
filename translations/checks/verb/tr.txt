@@ -1,0 +1,4 @@
+kontrol eder
+denetler
+işaretler
+emanete bırakır

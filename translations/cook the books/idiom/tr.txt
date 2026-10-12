@@ -1,0 +1,2 @@
+hesaplarda hile yapmak
+defterleri değiştirmek

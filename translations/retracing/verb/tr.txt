@@ -1,0 +1,3 @@
+geri izleme
+izini sürme
+yeniden çizme

@@ -1,0 +1,3 @@
+tekerlekle taşır
+döner
+daire çizer

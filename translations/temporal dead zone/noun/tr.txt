@@ -1,0 +1,2 @@
+geçici ölü bölge
+zamansal ölü bölge

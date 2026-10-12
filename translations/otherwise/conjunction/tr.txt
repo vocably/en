@@ -1,0 +1,2 @@
+aksi takdirde
+yoksa

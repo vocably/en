@@ -1,0 +1,2 @@
+Bir dizini, tüm alt dizinleri ve dosyalarıyla birlikte onay istemeden siler (rmdir /s /q).
+Komut satırından bir dizin ağacını sessizce ve zorla silme yöntemi.

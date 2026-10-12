@@ -1,0 +1,3 @@
+hizalama
+uyumlu hale getirme
+aynı doğrultuya getirme

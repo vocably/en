@@ -1,0 +1,2 @@
+voksel gri yoğunluğu
+voksel gri tonlama değeri

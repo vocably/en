@@ -1,0 +1,4 @@
+girmek
+anahtarla çizmek
+anahtarla kilitlemek
+tuşlamak

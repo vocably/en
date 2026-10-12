@@ -1,0 +1,2 @@
+gölgelenmiş değişken
+gölgelenen değişken

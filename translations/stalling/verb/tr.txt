@@ -1,0 +1,4 @@
+oyalama
+geciktirme
+stop etme
+vurdumduymazlık

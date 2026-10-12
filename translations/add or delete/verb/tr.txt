@@ -1,0 +1,2 @@
+ekle veya sil
+ekleyip silmek

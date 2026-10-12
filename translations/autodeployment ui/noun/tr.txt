@@ -1,0 +1,2 @@
+otomatik dağıtım arayüzü
+otomatik devreye alma kullanıcı arayüzü

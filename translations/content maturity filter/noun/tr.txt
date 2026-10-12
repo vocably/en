@@ -1,0 +1,2 @@
+içerik olgunluk filtresi
+yaş sınırı filtresi

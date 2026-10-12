@@ -1,0 +1,2 @@
+Sürükleyici Okuyucu
+Kapsayıcı Okuyucu

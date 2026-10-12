@@ -1,0 +1,2 @@
+CORS izin verilen kaynaklar
+CORS izinli kökenler

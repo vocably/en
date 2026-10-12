@@ -1,0 +1,2 @@
+kontrolden çıktı
+spiral çizerek dışa doğru hareket etti

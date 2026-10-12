@@ -1,0 +1,2 @@
+tmp_table_size
+geçici tablo boyutu

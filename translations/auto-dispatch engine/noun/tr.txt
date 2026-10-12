@@ -1,0 +1,2 @@
+otomatik görevlendirme motoru
+otomatik sevk motoru

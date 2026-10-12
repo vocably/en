@@ -1,0 +1,3 @@
+duvarla çevirmek
+duvarla ayırmak
+duvarla kapatmak

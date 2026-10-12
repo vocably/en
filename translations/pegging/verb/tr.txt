@@ -1,0 +1,5 @@
+sabitleme
+kazıklama
+endeksleme
+sınıflandırma
+fırlatma

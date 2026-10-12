@@ -1,0 +1,2 @@
+ZO sıkıştırma ve arşivleme aracı
+zoo ve zip araçlarının birleşimi

@@ -1,0 +1,4 @@
+itme
+saplama
+fırlatma
+dayatma

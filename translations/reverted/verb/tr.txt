@@ -1,0 +1,2 @@
+geri döndü
+eski haline döndü

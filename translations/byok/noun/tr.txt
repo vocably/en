@@ -1,0 +1,2 @@
+kendi anahtarını getir
+BYOK

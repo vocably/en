@@ -1,0 +1,2 @@
+çok faktörlü kimlik doğrulama
+çok adımlı kimlik doğrulama

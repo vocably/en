@@ -1,0 +1,2 @@
+eklentiyi yüklemek
+eklentiyi çalıştırmak

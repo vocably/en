@@ -1,0 +1,3 @@
+yönlendirme
+tetikleme
+dürtme

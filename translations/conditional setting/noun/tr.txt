@@ -1,0 +1,2 @@
+koşullu ayar
+şartlı ayar

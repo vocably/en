@@ -1,0 +1,2 @@
+stres atma
+stres giderme

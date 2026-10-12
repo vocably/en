@@ -1,0 +1,3 @@
+miras alır
+devralır
+kalıtım yoluyla alır

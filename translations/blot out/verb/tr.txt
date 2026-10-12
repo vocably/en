@@ -1,0 +1,3 @@
+gizlemek
+silmek
+yok etmek

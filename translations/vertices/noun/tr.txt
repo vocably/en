@@ -1,0 +1,3 @@
+köşeler
+tepe noktaları
+köşe noktaları

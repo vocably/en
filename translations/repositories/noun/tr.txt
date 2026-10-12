@@ -1,0 +1,3 @@
+depolar
+havuzlar
+depolama alanları

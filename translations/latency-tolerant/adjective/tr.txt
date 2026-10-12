@@ -1,0 +1,2 @@
+gecikmeye dayanıklı
+gecikme toleranslı

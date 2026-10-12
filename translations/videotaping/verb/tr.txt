@@ -1,0 +1,2 @@
+video kaydı yapma
+videoya çekme

@@ -1,0 +1,2 @@
+evrişimli sinir ağı
+konvolüsyonel sinir ağı

@@ -1,0 +1,2 @@
+kare hızı
+saniyedeki kare sayısı

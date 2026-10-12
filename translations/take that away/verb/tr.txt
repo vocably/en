@@ -1,0 +1,3 @@
+onu al
+onu kaldır
+onu götür

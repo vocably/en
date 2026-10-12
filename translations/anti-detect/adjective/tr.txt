@@ -1,0 +1,2 @@
+tespit edilmeyi önleyen
+tespit edilemez

@@ -1,0 +1,2 @@
+ağırlık atar
+ağırlık verir

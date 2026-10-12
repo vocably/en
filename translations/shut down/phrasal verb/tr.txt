@@ -1,0 +1,4 @@
+kapatmak
+kapanmak
+durdurmak
+susturmak

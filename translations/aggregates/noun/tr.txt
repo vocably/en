@@ -1,0 +1,3 @@
+agregalar
+toplamlar
+kümeler

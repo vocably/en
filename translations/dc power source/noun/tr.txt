@@ -1,0 +1,2 @@
+DC güç kaynağı
+doğru akım kaynağı

@@ -1,0 +1,2 @@
+ışık oluşturucu bağlaması
+ışık işleyici bağlantısı

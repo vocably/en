@@ -1,0 +1,4 @@
+çekti
+geri çekildi
+geri aldı
+çekilme yaptı

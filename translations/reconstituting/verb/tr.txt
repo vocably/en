@@ -1,0 +1,3 @@
+yeniden oluşturma
+yeniden yapılandırma
+su ekleyerek eski haline getirme

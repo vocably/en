@@ -1,0 +1,3 @@
+virgül
+ayraç
+noktalama işareti

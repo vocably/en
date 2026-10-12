@@ -1,0 +1,2 @@
+uygulamayla araç çağırmak
+taksi çağırmak

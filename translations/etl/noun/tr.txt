@@ -1,0 +1,2 @@
+ETL
+Çıkarma, Dönüştürme ve Yükleme

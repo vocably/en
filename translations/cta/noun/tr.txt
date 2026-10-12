@@ -1,0 +1,2 @@
+harekete geçirici mesaj
+eylem çağrısı

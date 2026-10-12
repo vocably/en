@@ -1,0 +1,3 @@
+dirsekler
+dirsek boruları
+dirsek bağlantıları

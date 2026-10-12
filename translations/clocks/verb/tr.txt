@@ -1,0 +1,4 @@
+zamanını ölçer
+kaydeder
+yumruk atar
+fark eder

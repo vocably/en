@@ -1,0 +1,3 @@
+tek tırnak işareti
+açılış tek tırnağı
+kesme işareti

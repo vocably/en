@@ -1,0 +1,2 @@
+Postgres kullanıcısı
+PostgreSQL kullanıcısı

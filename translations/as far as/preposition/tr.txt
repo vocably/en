@@ -1,0 +1,2 @@
+-e kadar
+-e göre

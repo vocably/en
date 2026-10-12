@@ -1,0 +1,4 @@
+sürüklenme
+kayma
+akış
+yığıntı

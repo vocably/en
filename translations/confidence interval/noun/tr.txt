@@ -1,0 +1,2 @@
+güven aralığı
+güvenilirlik aralığı

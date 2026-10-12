@@ -1,0 +1,2 @@
+CORS
+çapraz kaynak paylaşımı

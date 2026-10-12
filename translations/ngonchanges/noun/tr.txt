@@ -1,0 +1,2 @@
+ngOnChanges
+değişiklik yaşam döngüsü kancası

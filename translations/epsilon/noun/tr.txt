@@ -1,0 +1,2 @@
+epsilon
+çok küçük pozitif sayı

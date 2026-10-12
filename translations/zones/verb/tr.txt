@@ -1,0 +1,3 @@
+bölgelere ayırır
+imar planına ayırır
+bölge olarak belirler

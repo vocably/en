@@ -1,0 +1,2 @@
+Voronoi tesellasyonu
+Voronoi diyagramı

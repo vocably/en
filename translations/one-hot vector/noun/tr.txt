@@ -1,0 +1,2 @@
+one-hot vektör
+tek-sıcak vektör

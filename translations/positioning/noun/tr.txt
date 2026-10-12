@@ -1,0 +1,3 @@
+konumlandırma
+yerleştirme
+konum belirleme

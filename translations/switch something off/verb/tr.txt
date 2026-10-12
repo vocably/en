@@ -1,0 +1,3 @@
+kapatmak
+söndürmek
+fişini çekmek

@@ -1,0 +1,2 @@
+-e dayanarak
+-den yola çıkarak

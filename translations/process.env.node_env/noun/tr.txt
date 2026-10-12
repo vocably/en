@@ -1,0 +1,2 @@
+ortam değişkeni NODE_ENV
+çalışma ortamı değişkeni

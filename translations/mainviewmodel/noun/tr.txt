@@ -1,0 +1,2 @@
+MainViewModel
+Ana Görünüm Modeli

@@ -1,0 +1,2 @@
+arızaya karşı korumalı
+hata durumunda güvenli

@@ -1,0 +1,4 @@
+geri dönmek
+geri almak
+tekrar başlamak
+intikam almak

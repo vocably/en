@@ -1,0 +1,2 @@
+Next.js
+React tabanlı web çatısı

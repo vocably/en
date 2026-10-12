@@ -1,0 +1,2 @@
+dosyayı okumak
+dosyayı okuyup işlemek

@@ -1,0 +1,2 @@
+hisse senedi opsiyonlarının geriye dönük tarihlendirilmesi
+opsiyon geriye dönük tarihleme

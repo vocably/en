@@ -1,0 +1,2 @@
+bilgi gizleme
+veri gizleme

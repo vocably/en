@@ -1,0 +1,2 @@
+oyun delisi olmak
+oyun bağımlısı olmak

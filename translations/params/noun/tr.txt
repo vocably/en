@@ -1,0 +1,2 @@
+parametreler
+değişkenler

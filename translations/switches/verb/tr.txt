@@ -1,0 +1,4 @@
+değiştirir
+geçer
+açar kapatır
+takas eder

@@ -1,0 +1,2 @@
+lambda fonksiyonu
+anonim fonksiyon

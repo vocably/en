@@ -1,0 +1,3 @@
+kurulum
+montaj
+tesis

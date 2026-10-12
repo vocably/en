@@ -1,0 +1,2 @@
+net servet
+net değer

@@ -1,0 +1,2 @@
+dosya çekmecesi
+arşiv çekmecesi

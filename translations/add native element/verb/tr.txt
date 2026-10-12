@@ -1,0 +1,2 @@
+yerel öğe eklemek
+yerel bileşen eklemek

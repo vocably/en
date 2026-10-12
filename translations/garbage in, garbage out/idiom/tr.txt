@@ -1,0 +1,2 @@
+çöp girerse çöp çıkar
+girdi neyse çıktı odur

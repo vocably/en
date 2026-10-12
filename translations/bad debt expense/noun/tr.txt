@@ -1,0 +1,2 @@
+şüpheli alacak gideri
+tahsil edilemeyen alacak gideri

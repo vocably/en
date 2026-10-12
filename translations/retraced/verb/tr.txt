@@ -1,0 +1,3 @@
+geri döndü
+izini yeniden sürdü
+yeniden çizdi

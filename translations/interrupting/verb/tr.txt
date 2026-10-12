@@ -1,0 +1,3 @@
+bölme
+kesme
+araya girme

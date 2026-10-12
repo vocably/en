@@ -1,0 +1,2 @@
+ELASTIC_APM_SERVER_URL ortam değişkeni
+Elastic APM sunucu adresi

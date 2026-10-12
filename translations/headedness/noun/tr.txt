@@ -1,0 +1,3 @@
+baş yönlülük
+çekirdek yönlülük
+başlılık

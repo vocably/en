@@ -1,0 +1,9 @@
+kelime
+sözcük
+söz
+haber
+mesaj
+emir
+laf
+bilgi
+tartışma

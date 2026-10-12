@@ -1,0 +1,2 @@
+sözcüksel analiz yapmak
+token'lara ayırmak

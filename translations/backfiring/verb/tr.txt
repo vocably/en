@@ -1,0 +1,3 @@
+ters tepmek
+geri tepmek
+egzozdan patlama yapmak

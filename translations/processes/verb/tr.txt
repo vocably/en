@@ -1,0 +1,4 @@
+işler
+işleme alır
+işlemden geçirir
+değerlendirir

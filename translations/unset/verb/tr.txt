@@ -1,0 +1,3 @@
+ayarını kaldırmak
+değerini silmek
+yuvasından çıkarmak

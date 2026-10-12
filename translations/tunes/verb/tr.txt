@@ -1,0 +1,3 @@
+akort eder
+ayarlar
+frekansa getirir

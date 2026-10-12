@@ -1,0 +1,2 @@
+global nesne
+genel nesne

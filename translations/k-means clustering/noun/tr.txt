@@ -1,0 +1,2 @@
+K-ortalamalar kümeleme
+K-means kümeleme

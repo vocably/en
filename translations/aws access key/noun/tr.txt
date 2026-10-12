@@ -1,0 +1,2 @@
+AWS erişim anahtarı
+AWS erişim anahtarı kimliği

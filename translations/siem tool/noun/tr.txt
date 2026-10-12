@@ -1,0 +1,2 @@
+SIEM aracı
+güvenlik bilgi ve olay yönetimi aracı

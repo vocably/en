@@ -1,0 +1,2 @@
+uzunluk-gerilim ilişkisi
+boy-gerilim ilişkisi

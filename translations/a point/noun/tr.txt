@@ -1,0 +1,5 @@
+nokta
+puan
+uç
+sayı
+konu

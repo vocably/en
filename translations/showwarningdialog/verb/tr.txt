@@ -1,0 +1,2 @@
+uyarı iletişim kutusu göstermek
+uyarı penceresi göstermek

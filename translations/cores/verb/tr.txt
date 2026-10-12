@@ -1,0 +1,2 @@
+çekirdeğini çıkarır
+merkezini oluşturur

@@ -1,0 +1,2 @@
+üçlü sözdizimi
+üçlü operatör sözdizimi

@@ -1,0 +1,3 @@
+gömmek
+yerleştirmek
+gömülü olarak eklemek

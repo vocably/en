@@ -1,0 +1,3 @@
+statik
+durağan
+sabit

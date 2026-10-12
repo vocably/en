@@ -1,0 +1,2 @@
+büyük/küçük harf eşitleme
+harf büyüklüğü normalleştirme

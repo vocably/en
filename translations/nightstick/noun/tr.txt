@@ -1,0 +1,2 @@
+cop sopası
+imza sopası

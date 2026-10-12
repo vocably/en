@@ -1,0 +1,2 @@
+malzeme akış kontrolü
+malzeme kapılama

@@ -1,0 +1,2 @@
+makine öğrenimi çıktıları
+makine öğrenmesinden elde edilen çıktılar

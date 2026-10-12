@@ -1,0 +1,2 @@
+-e dalmak
+-e kendini kaptırmak

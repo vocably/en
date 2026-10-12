@@ -1,0 +1,2 @@
+sıfır toplamlı oyun
+kazan-kaybet durumu

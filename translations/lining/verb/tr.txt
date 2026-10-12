@@ -1,0 +1,4 @@
+astarlama
+kaplama
+sıraya dizme
+çizgi çekme

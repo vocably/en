@@ -1,0 +1,2 @@
+ultrasonik
+ses ötesi

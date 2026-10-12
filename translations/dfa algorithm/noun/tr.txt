@@ -1,0 +1,2 @@
+DFA algoritması
+belirleyici sonlu durum özdevinirliği algoritması

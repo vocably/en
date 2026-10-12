@@ -1,0 +1,2 @@
+sunucu adı
+sunucu ismi

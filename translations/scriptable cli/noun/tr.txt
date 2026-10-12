@@ -1,0 +1,2 @@
+komut dosyasıyla çalıştırılabilir komut satırı arayüzü
+betiklenebilir komut satırı arayüzü

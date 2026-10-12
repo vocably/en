@@ -1,0 +1,3 @@
+sınırlamalar
+kısıtlamalar
+sınırlılıklar

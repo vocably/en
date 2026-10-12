@@ -1,0 +1,2 @@
+CSV dosyası
+virgülle ayrılmış değerler dosyası

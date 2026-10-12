@@ -1,0 +1,2 @@
+-dir / -sin / -siniz / -lar (olmak fiili: "-(y)Im, -sIn, -dIr, -(y)Iz, -sInIz, -lAr" ekleri)
+yapar

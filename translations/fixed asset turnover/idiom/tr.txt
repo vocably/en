@@ -1,0 +1,2 @@
+sabit kıymet devir hızı
+duran varlık devir hızı

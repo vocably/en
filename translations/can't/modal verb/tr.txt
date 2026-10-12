@@ -1,0 +1,4 @@
+yapamaz
+olamaz
+izin verilmez
+-emez

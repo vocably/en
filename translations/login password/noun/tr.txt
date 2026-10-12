@@ -1,0 +1,2 @@
+giriş şifresi
+oturum açma parolası

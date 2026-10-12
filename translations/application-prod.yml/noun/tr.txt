@@ -1,0 +1,2 @@
+application-prod.yml dosyası
+üretim ortamı yapılandırma dosyası

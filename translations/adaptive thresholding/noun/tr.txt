@@ -1,0 +1,2 @@
+Uyarlamalı eşikleme
+Adaptif eşikleme

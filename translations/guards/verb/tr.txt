@@ -1,0 +1,3 @@
+korur
+bekler
+muhafaza eder

@@ -1,0 +1,2 @@
+yükleme açılış efekti
+yükleme sonrası içerik gösterimi

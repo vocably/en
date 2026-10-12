@@ -1,0 +1,3 @@
+değiştirilebilir
+değişken
+kararsız

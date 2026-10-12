@@ -1,0 +1,2 @@
+anlık görüntü almak
+enstantane çekmek

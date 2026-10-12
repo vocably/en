@@ -1,0 +1,3 @@
+manevra yapar
+ustalıkla yönlendirir
+manevra yaptırır

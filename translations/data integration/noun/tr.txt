@@ -1,0 +1,2 @@
+veri entegrasyonu
+veri bütünleştirme

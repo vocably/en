@@ -1,0 +1,2 @@
+kullanımdan kaldırma bildirimi
+kullanım dışı bırakma bildirimi

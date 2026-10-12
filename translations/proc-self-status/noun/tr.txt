@@ -1,0 +1,2 @@
+/proc/self/status dosyası
+süreç durum dosyası

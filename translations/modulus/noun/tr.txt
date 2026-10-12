@@ -1,0 +1,4 @@
+mutlak değer
+modül
+katsayı
+mod

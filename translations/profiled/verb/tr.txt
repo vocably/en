@@ -1,0 +1,3 @@
+profilini çıkardı
+profilini çıkarıldı
+tanıttı

@@ -1,0 +1,2 @@
+bölümlü denetim
+segmentli kontrol

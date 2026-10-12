@@ -1,0 +1,3 @@
+gölet oluşturur
+birikir
+set çekerek gölet yapar

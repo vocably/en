@@ -1,0 +1,3 @@
+tersine dönme
+geri dönüş
+bozma

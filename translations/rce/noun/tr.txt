@@ -1,0 +1,2 @@
+uzaktan kod yürütme
+uzaktan kod çalıştırma

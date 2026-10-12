@@ -1,0 +1,2 @@
+ODE fonksiyonu
+adi diferansiyel denklem fonksiyonu

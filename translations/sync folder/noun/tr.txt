@@ -1,0 +1,2 @@
+senkronizasyon klasörü
+eşitleme klasörü

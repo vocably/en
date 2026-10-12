@@ -1,0 +1,3 @@
+söndürüldü
+yok edildi
+sona erdirildi

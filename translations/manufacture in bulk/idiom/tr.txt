@@ -1,0 +1,2 @@
+toplu üretim yapmak
+seri üretim yapmak

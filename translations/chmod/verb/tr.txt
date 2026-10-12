@@ -1,0 +1,2 @@
+izinlerini değiştirmek
+chmod komutunu kullanmak

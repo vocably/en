@@ -1,0 +1,2 @@
+yanıt arabelleği sınırı
+yanıt tampon sınırı

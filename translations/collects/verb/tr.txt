@@ -1,0 +1,4 @@
+toplar
+biriktirir
+koleksiyon yapar
+tahsil eder

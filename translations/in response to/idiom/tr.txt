@@ -1,0 +1,2 @@
+-e yanıt olarak
+-e karşılık olarak

@@ -1,0 +1,2 @@
+repository'yi enjekte etmek
+repository'yi bağımlılık olarak sağlamak

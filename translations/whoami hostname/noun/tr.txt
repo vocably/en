@@ -1,0 +1,2 @@
+whoami hostname komutu
+kullanıcı ve ana bilgisayar adı

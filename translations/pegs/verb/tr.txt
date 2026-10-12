@@ -1,0 +1,4 @@
+mandallar
+sabitler
+belirler
+fırlatır

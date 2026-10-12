@@ -1,0 +1,2 @@
+sunucuyu başlatmak
+sunucuyu çalıştırmak

@@ -1,0 +1,4 @@
+yıkadı
+yıkandı
+sürükledi
+temizledi

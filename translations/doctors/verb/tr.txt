@@ -1,0 +1,3 @@
+tedavi eder
+tahrif eder
+kısırlaştırır

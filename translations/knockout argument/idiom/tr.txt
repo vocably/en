@@ -1,0 +1,2 @@
+çürütülemez argüman
+kesin ve ikna edici argüman

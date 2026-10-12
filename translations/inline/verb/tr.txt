@@ -1,0 +1,2 @@
+satır içine yerleştirmek
+satır içi hâle getirmek

@@ -1,0 +1,2 @@
+rücu esaslı
+rücu hakkı bulunan temel

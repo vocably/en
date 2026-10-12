@@ -1,0 +1,3 @@
+PodSecurityPolicy
+Pod Güvenlik Politikası
+Pod Güvenlik İlkesi

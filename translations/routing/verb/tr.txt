@@ -1,0 +1,3 @@
+yönlendirme
+rota belirleme
+yönlendiriyor

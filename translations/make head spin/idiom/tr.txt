@@ -1,0 +1,2 @@
+kafasını döndürmek
+başını döndürmek

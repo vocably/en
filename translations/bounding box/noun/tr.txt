@@ -1,0 +1,3 @@
+sınırlayıcı kutu
+çevreleyen kutu
+sınır kutusu

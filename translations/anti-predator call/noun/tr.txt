@@ -1,0 +1,2 @@
+tehlike alarm çağrısı
+yırtıcıya karşı uyarı çağrısı

@@ -1,0 +1,3 @@
+işaret etmek
+el kol hareketi yapmak
+jest yapmak

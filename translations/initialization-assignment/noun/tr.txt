@@ -1,0 +1,2 @@
+başlangıç ataması
+ilk değer atama

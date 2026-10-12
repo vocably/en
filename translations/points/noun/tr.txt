@@ -1,0 +1,3 @@
+puanlar
+noktalar
+maddeler

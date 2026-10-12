@@ -1,0 +1,2 @@
+geri istemek
+geri almak istemek

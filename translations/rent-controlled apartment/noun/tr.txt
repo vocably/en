@@ -1,0 +1,2 @@
+kira kontrollü daire
+kira artışına sınırlama getirilen daire

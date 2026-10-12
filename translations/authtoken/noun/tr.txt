@@ -1,0 +1,2 @@
+kimlik doğrulama belirteci
+yetkilendirme belirteci

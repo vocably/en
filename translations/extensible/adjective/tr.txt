@@ -1,0 +1,4 @@
+genişletilebilir
+uzatılabilir
+esnetilebilir
+eklenebilir

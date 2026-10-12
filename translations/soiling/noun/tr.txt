@@ -1,0 +1,3 @@
+kirletme
+kirlenme
+lekelenme

@@ -1,0 +1,2 @@
+ispatlanacak olanı öncül kabul etme
+döngüsel akıl yürütme

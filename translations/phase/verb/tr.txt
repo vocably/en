@@ -1,0 +1,4 @@
+aşamalara ayırmak
+kademeli olarak uygulamak
+aşamalı olarak devreye sokmak
+fazlandırmak

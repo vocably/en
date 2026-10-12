@@ -1,0 +1,5 @@
+var
+sahibim
+vardır
+yaşıyorum
+geçiriyorum

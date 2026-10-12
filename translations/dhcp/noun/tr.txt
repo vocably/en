@@ -1,0 +1,2 @@
+DHCP
+Dinamik Ana Bilgisayar Yapılandırma Protokolü

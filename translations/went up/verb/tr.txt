@@ -1,0 +1,4 @@
+yükseldi
+arttı
+çıktı
+inşa edildi

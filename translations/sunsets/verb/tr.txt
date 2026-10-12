@@ -1,0 +1,2 @@
+yürürlükten kalkar
+kademeli olarak sonlandırır

@@ -1,0 +1,2 @@
+kullanımdan kaldırma uyarılarını yok saymak
+kullanımdan kaldırılmış öğeleri görmezden gelmek

@@ -1,0 +1,3 @@
+paydalar
+ortak özellikler
+bölenler

@@ -1,0 +1,2 @@
+CI/CD
+sürekli entegrasyon ve sürekli teslimat

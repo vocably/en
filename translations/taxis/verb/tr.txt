@@ -1,0 +1,2 @@
+taksisle hareket eder
+uyarana yönelerek hareket eder

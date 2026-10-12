@@ -1,0 +1,2 @@
+şişeden çıkan cin etkisi
+geri döndürülemez etki

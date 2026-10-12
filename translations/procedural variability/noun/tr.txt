@@ -1,0 +1,2 @@
+prosedürel değişkenlik
+işlem değişkenliği

@@ -1,0 +1,2 @@
+belgelendirme dizesi
+docstring

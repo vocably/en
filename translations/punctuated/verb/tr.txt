@@ -1,0 +1,3 @@
+noktalama işaretleri koydu
+araya girdi
+vurguladı

@@ -1,0 +1,2 @@
+katman/anten ağırlığı
+katman/anten katsayısı

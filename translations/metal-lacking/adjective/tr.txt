@@ -1,0 +1,3 @@
+metal içermeyen
+metalsiz
+metal bulunmayan

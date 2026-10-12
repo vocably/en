@@ -1,0 +1,2 @@
+PCI DSS
+Ödeme Kartı Endüstrisi Veri Güvenliği Standardı

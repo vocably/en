@@ -1,0 +1,4 @@
+kaydeder
+kaydolur
+gösterir
+kaydettirir

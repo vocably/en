@@ -1,0 +1,2 @@
+düzenleyiciler
+denetleyiciler

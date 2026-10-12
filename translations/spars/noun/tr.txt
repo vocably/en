@@ -1,0 +1,3 @@
+direkler
+kanat kirişleri
+spatlar

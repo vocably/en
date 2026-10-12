@@ -1,0 +1,2 @@
+veri ızgarası görünümü
+DataGridView

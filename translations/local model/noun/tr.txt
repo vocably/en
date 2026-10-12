@@ -1,0 +1,3 @@
+yerel model
+lokal model
+yerel olarak çalışan model

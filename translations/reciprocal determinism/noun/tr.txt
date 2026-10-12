@@ -1,0 +1,2 @@
+Karşılıklı Determinizm
+Resiprokal Determinizm

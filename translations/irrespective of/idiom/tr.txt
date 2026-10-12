@@ -1,0 +1,2 @@
+-e bakılmaksızın
+-den bağımsız olarak

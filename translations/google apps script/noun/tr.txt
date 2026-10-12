@@ -1,0 +1,2 @@
+Google Apps Script
+Google Apps Komut Dosyası

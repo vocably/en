@@ -1,0 +1,2 @@
+veritabanı çoğaltma gecikmesi
+veritabanı replikasyon gecikmesi

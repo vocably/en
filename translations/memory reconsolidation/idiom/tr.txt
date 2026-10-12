@@ -1,0 +1,2 @@
+bellek yeniden pekiştirme
+anıların yeniden pekiştirilmesi

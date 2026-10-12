@@ -1,0 +1,2 @@
+spline interpolasyonu
+spline aradeğerlemesi

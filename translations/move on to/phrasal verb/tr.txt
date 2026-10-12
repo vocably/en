@@ -1,0 +1,2 @@
+-e geçmek
+-e devam etmek

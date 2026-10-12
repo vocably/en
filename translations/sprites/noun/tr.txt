@@ -1,0 +1,3 @@
+periler
+spritelar
+kobold'lar

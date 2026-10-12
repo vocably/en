@@ -1,0 +1,2 @@
+veri almak
+veriyi geri getirmek

@@ -1,0 +1,4 @@
+rezervasyon yapar
+ayırtır
+kaydeder
+suçlar

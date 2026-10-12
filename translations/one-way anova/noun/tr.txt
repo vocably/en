@@ -1,0 +1,2 @@
+tek yönlü varyans analizi
+tek yönlü ANOVA

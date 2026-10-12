@@ -1,0 +1,2 @@
+üçlü dizi
+trigram

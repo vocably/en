@@ -1,0 +1,3 @@
+yönlendirme
+yeniden yönlendirme
+tekrar sorgu

@@ -1,0 +1,2 @@
+UART
+evrensel asenkron alıcı-verici

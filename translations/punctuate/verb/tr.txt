@@ -1,0 +1,3 @@
+noktalama işaretleri koymak
+kesintiye uğratmak
+vurgulamak

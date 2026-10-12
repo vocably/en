@@ -1,0 +1,2 @@
+Yapılandırılmış Sorgu Dili
+SQL

@@ -1,0 +1,2 @@
+Uygulama Yaşam Döngüsü Yönetimi
+Varlık-Yükümlülük Yönetimi

@@ -1,0 +1,3 @@
+kapı bekçiliği
+erişimi engelleme
+denetleme

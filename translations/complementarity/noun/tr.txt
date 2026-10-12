@@ -1,0 +1,3 @@
+tamamlayıcılık
+bütünleyicilik
+tamamlayıcı olma durumu

@@ -1,0 +1,3 @@
+başarısız oldu
+battı
+çöktü

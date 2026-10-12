@@ -1,0 +1,3 @@
+yeniden biçimlendirme
+biçimlendirme
+format atma

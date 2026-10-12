@@ -1,0 +1,4 @@
+kabuk
+kovan
+mermi
+iskelet

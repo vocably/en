@@ -1,0 +1,2 @@
+gece-gündüz döngüsü
+gündüz-gece döngüsü

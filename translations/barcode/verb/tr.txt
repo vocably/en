@@ -1,0 +1,2 @@
+barkod yapıştırmak
+barkod okutmak

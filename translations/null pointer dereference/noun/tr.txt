@@ -1,0 +1,2 @@
+null işaretçi başvurusu
+boş işaretçi başvurusu

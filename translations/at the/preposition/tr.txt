@@ -1,0 +1,2 @@
+-de/-da (bulunma durumu eki)
+-e/-a (yönelme durumu eki)

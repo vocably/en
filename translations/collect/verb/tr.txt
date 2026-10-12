@@ -1,0 +1,4 @@
+toplamak
+biriktirmek
+koleksiyon yapmak
+almak

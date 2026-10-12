@@ -1,0 +1,3 @@
+itme
+ileri sürme
+hareket ettirme

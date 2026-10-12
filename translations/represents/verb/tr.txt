@@ -1,0 +1,4 @@
+temsil ediyor
+simgeliyor
+temsil eder
+betimliyor

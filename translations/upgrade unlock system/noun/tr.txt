@@ -1,0 +1,2 @@
+yükseltme kilidi açma sistemi
+geliştirme açma sistemi

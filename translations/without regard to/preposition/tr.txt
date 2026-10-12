@@ -1,0 +1,3 @@
+-e bakmaksızın
+-e aldırmadan
+-e rağmen

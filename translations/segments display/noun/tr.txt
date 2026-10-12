@@ -1,0 +1,2 @@
+segment ekran
+bölümlü gösterge

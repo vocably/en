@@ -1,0 +1,2 @@
+geçersiz kılma yönetimi
+devre dışı bırakma yönetimi

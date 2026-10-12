@@ -1,0 +1,2 @@
+PermitRootLogin
+root girişine izin verme

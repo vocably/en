@@ -1,0 +1,2 @@
+XOR işlemine tabi tutmak
+özel VEYA işlemi uygulamak

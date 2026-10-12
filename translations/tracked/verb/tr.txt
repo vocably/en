@@ -1,0 +1,4 @@
+takip etti
+izledi
+kaydetti
+iz sürdü

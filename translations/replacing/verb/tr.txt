@@ -1,0 +1,3 @@
+değiştirme
+yerine koyma
+yerini alma

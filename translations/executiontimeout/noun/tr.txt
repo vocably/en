@@ -1,0 +1,2 @@
+yürütme zaman aşımı
+çalıştırma zaman aşımı

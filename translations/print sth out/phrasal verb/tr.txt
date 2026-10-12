@@ -1,0 +1,2 @@
+bir şeyin çıktısını almak
+yazdırmak

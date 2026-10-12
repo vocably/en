@@ -1,0 +1,2 @@
+terroir
+bağ ortamı

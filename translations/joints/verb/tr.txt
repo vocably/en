@@ -1,0 +1,3 @@
+birleştirir
+eklem yapar
+parçalara ayırır

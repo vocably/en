@@ -1,0 +1,2 @@
+bin gösterim başına maliyet
+kritik yol yöntemi

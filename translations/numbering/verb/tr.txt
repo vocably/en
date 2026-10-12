@@ -1,0 +1,3 @@
+numaralandırma
+sayma
+toplam içinde yer alma

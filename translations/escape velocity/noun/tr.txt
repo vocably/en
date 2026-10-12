@@ -1,0 +1,2 @@
+kaçış hızı
+kurtulma hızı

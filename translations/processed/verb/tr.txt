@@ -1,0 +1,4 @@
+işledi
+işlemden geçirdi
+işleme aldı
+sonuçlandırdı

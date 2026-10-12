@@ -1,0 +1,2 @@
+nslookup
+DNS sorgulama aracı

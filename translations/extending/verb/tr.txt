@@ -1,0 +1,4 @@
+uzatma
+genişletme
+uzatan
+sunma

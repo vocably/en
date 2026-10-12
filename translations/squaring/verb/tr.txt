@@ -1,0 +1,5 @@
+karesini alıyor
+kareleştiriyor
+dikdörtgen hale getiriyor
+uyumlu hale getiriyor
+hesaplaşıyor

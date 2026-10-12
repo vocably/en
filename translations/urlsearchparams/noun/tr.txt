@@ -1,0 +1,2 @@
+URLSearchParams
+URL arama parametreleri

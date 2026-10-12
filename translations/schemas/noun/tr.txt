@@ -1,0 +1,3 @@
+şemalar
+veritabanı şemaları
+bilişsel şemalar

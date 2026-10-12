@@ -1,0 +1,5 @@
+sıralamak
+astarlamak
+dizmek
+çizgilerle işaretlemek
+kenarında sıralanmak

@@ -1,0 +1,4 @@
+filtrelemek
+süzmek
+elemek
+sızmak

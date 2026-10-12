@@ -1,0 +1,3 @@
+-e bakılmaksızın
+-den bağımsız olarak
+-e rağmen

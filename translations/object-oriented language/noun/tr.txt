@@ -1,0 +1,2 @@
+nesne yönelimli dil
+nesne tabanlı dil

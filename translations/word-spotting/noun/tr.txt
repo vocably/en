@@ -1,0 +1,2 @@
+anahtar sözcük tespiti
+kelime yakalama

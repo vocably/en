@@ -1,0 +1,3 @@
+değiştirir
+yerini alır
+yerine koyar

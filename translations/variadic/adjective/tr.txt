@@ -1,0 +1,2 @@
+değişken argümanlı
+değişken sayıda parametre alan

@@ -1,0 +1,3 @@
+önbellekler
+gizli depolar
+saklanma yerleri

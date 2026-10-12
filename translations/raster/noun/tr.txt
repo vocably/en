@@ -1,0 +1,2 @@
+raster
+piksel tabanlı görüntü

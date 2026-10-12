@@ -1,0 +1,2 @@
+sıcaklık bağımlılığı
+sıcaklığa bağımlılık

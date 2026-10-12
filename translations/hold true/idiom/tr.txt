@@ -1,0 +1,3 @@
+geçerli olmak
+doğru çıkmak
+geçerliliğini korumak

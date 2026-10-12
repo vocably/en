@@ -1,0 +1,2 @@
+otomatik olarak optimize etmek
+otomatik iyileştirmek

@@ -1,0 +1,3 @@
+motorun devrini yükseltmek
+hareketlendirmek
+coşturmak

@@ -1,0 +1,3 @@
+marjlar
+kenar boşlukları
+kâr marjları

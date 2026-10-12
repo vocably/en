@@ -1,0 +1,2 @@
+SimpleImputer
+basit değer atayıcı

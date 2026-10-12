@@ -1,0 +1,4 @@
+konserve yapar
+işten atar
+iptal eder
+kayda alır

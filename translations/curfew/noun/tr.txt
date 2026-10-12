@@ -1,0 +1,3 @@
+sokağa çıkma yasağı
+kısıtlama saati
+yasak saati

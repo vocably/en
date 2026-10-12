@@ -1,0 +1,2 @@
+basit hareketli ortalama
+basit kayan ortalama

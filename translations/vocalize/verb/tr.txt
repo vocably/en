@@ -1,0 +1,3 @@
+seslendirmek
+dile getirmek
+sesli hâle getirmek

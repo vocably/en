@@ -1,0 +1,3 @@
+iptal eder
+geri alır
+yürürlükten kaldırır

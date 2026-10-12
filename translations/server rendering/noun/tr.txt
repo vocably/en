@@ -1,0 +1,2 @@
+sunucu tarafı işleme
+sunucu tarafı render

@@ -1,0 +1,4 @@
+birleştirme
+ağırlaştırma
+bileşik faiz uygulama
+karıştırma

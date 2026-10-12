@@ -1,0 +1,2 @@
+upsert
+ekle-güncelle işlemi

@@ -1,0 +1,2 @@
+tam gaz
+var gücüyle

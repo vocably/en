@@ -1,0 +1,2 @@
+statik tipleme
+statik tür denetimi

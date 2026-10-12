@@ -1,0 +1,3 @@
+tekerlekli olarak itti
+daire çizdi
+döndü

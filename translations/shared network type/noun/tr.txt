@@ -1,0 +1,2 @@
+paylaşımlı ağ türü
+ortak ağ türü

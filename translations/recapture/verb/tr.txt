@@ -1,0 +1,3 @@
+yeniden ele geçirmek
+geri almak
+yeniden yakalamak

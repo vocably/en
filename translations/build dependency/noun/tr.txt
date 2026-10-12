@@ -1,0 +1,2 @@
+derleme bağımlılığı
+yapı bağımlılığı

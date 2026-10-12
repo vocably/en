@@ -1,0 +1,2 @@
+kısır döngü
+kendini besleyen kötü döngü

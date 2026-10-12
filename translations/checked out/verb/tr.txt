@@ -1,0 +1,5 @@
+kontrol etti
+otelden çıkış yaptı
+ödünç aldı
+inceledi
+doğru çıktı

@@ -1,0 +1,2 @@
+olumsuz geri tepme
+geri tepme

@@ -1,0 +1,2 @@
+hata yönetimini uygulamak
+hata işleme mekanizması eklemek

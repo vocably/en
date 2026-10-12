@@ -1,0 +1,2 @@
+ihracatı yürütmek
+dışa aktarmayı yönetmek

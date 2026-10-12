@@ -1,0 +1,3 @@
+elde tutma
+koruma
+hafızada tutma

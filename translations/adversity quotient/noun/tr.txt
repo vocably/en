@@ -1,0 +1,2 @@
+zorluklarla başa çıkma katsayısı
+adversite katsayısı

@@ -1,0 +1,4 @@
+sahip olmak
+var (olmak)
+zorunda olmak
+elde etmek

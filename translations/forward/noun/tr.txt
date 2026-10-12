@@ -1,0 +1,3 @@
+forvet
+ileri oyuncu
+yönlendirici

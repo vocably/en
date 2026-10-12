@@ -1,0 +1,3 @@
+profilini çıkarır
+tanıtır
+profil oluşturur

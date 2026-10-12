@@ -1,0 +1,4 @@
+takip etme
+izleme
+peşinden gitme
+kuyruk ekleme

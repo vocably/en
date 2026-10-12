@@ -1,0 +1,3 @@
+yayıcı
+emitör
+salıcı

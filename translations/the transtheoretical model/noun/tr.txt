@@ -1,0 +1,3 @@
+Transteorik Model
+Aşamalı Değişim Modeli
+Davranış Değişikliği Aşamaları Modeli

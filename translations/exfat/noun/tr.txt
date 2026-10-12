@@ -1,0 +1,2 @@
+ExFAT
+ExFAT dosya sistemi

@@ -1,0 +1,2 @@
+nesne-ilişkisel eşleme
+ORM

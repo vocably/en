@@ -1,0 +1,4 @@
+numaralandırır
+sayar
+sayısı ... olur
+sınırlar

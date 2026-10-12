@@ -1,0 +1,2 @@
+Yerel Güvenlik Yetkilisi Alt Sistemi Hizmeti
+LSASS

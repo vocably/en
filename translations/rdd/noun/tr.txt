@@ -1,0 +1,2 @@
+RDD
+Esnek Dağıtık Veri Kümesi

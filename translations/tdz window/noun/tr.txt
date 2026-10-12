@@ -1,0 +1,2 @@
+TDZ penceresi
+geçici ölü bölge penceresi

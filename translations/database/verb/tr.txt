@@ -1,0 +1,2 @@
+veritabanına kaydetmek
+veritabanında düzenlemek

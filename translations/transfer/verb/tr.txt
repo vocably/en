@@ -1,0 +1,5 @@
+transfer etmek
+aktarmak
+devretmek
+nakletmek
+havale etmek

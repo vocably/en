@@ -1,0 +1,4 @@
+listelemek
+listeye almak
+liste yapmak
+yan yatmak

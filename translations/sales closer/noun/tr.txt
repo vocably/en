@@ -1,0 +1,2 @@
+satış kapatıcı
+satış sonlandırıcı

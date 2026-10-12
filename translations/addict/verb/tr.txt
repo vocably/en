@@ -1,0 +1,2 @@
+bağımlı yapmak
+bağımlı hâle getirmek

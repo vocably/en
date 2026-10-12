@@ -1,0 +1,2 @@
+CLDAP
+Bağlantısız Hafif Dizin Erişim Protokolü

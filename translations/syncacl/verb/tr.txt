@@ -1,0 +1,2 @@
+ACL'yi senkronize etmek
+erişim denetim listesini eşitlemek

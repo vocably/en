@@ -1,0 +1,2 @@
+sunucu bileşeni
+sunucu componenti

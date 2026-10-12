@@ -1,0 +1,3 @@
+ifadeler
+açıklamalar
+beyanlar

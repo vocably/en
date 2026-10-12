@@ -1,0 +1,5 @@
+döndü
+çevirdi
+oldu
+dönüştü
+bozuldu

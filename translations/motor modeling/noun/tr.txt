@@ -1,0 +1,2 @@
+motor modelleme
+motor kontrol modellemesi

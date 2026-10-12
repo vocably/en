@@ -1,0 +1,5 @@
+işler
+taahhüt eder
+söz verir
+commit eder
+tutuklatır

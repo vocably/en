@@ -1,0 +1,3 @@
+döngüye girer
+döngü oluşturur
+tekrarlanır

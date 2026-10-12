@@ -1,0 +1,4 @@
+öngörüldü
+tahmin edildi
+yansıtıldı
+dışarı çıktı

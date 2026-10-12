@@ -1,0 +1,2 @@
+istem dışı global değişken
+kazara oluşturulan global değişken

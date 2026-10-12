@@ -1,0 +1,2 @@
+port numarası
+bağlantı noktası numarası

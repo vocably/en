@@ -1,0 +1,2 @@
+takvim gecikmesi
+program gecikmesi

@@ -1,0 +1,3 @@
+temizler
+temizlik yapar
+arıtır

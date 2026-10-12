@@ -1,0 +1,2 @@
+outlet mağaza
+fabrika satış mağazası

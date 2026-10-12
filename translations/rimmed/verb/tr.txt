@@ -1,0 +1,4 @@
+kenar oluşturdu
+kenarını çevreledi
+kenarına dokundu
+kenarından döndü

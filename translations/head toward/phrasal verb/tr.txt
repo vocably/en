@@ -1,0 +1,2 @@
+-e doğru ilerlemek
+-e doğru yönelmek

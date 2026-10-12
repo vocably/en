@@ -1,0 +1,2 @@
+aksi halde eğer
+değilse eğer

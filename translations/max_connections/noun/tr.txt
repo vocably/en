@@ -1,0 +1,2 @@
+maksimum bağlantı sayısı
+en fazla bağlantı sayısı

@@ -1,0 +1,4 @@
+taraflar
+yanlar
+kenarlar
+yüzler

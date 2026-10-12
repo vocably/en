@@ -1,0 +1,3 @@
+gereksinim analizi
+ihtiyaç analizi
+gereksinimlerin çözümlenmesi

@@ -1,0 +1,3 @@
+Yapı Bilgi Modellemesi
+Bina Bilgi Modellemesi
+Yapı Bilgi Modeli

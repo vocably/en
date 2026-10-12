@@ -1,0 +1,2 @@
+jest yaptı
+el kol hareketleri yaptı

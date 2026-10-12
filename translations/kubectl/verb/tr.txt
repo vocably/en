@@ -1,0 +1,2 @@
+kubectl ile yönetmek
+kubectl kullanmak

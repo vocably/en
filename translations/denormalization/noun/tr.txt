@@ -1,0 +1,2 @@
+denormalizasyon
+normalleştirmeyi geri alma

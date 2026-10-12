@@ -1,0 +1,2 @@
+bir şeyin olup olmadığı
+-ip -mediği

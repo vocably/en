@@ -1,0 +1,3 @@
+bağlama oturtur
+bağlamsallaştırır
+bağlam içinde ele alır

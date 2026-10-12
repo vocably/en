@@ -1,0 +1,2 @@
+çoklu karşılaştırma testi
+çoklu karşılaştırma yöntemi

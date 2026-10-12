@@ -1,0 +1,2 @@
+Prometheus depolama motoru
+Prometheus depolama altyapısı

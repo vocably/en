@@ -1,0 +1,2 @@
+ikili dizge sorgusu
+ikili string sorgusu

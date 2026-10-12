@@ -1,0 +1,2 @@
+net glikoz
+toplam glikoz dengesi

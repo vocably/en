@@ -1,0 +1,3 @@
+korelasyonlar
+ilişkiler
+bağıntılar

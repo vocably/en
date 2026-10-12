@@ -1,0 +1,4 @@
+bükme
+kas gösterisi yapma
+hava atma
+esneme

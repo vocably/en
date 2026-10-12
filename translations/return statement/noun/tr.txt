@@ -1,0 +1,2 @@
+return ifadesi
+geri dönüş ifadesi

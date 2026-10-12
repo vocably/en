@@ -1,0 +1,5 @@
+çizgiler
+satırlar
+hatlar
+sıralar
+dizeler

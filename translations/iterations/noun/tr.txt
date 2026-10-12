@@ -1,0 +1,3 @@
+yinelemeler
+iterasyonlar
+versiyonlar

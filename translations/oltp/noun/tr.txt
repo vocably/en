@@ -1,0 +1,2 @@
+çevrimiçi işlem işleme
+OLTP

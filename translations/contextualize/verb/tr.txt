@@ -1,0 +1,3 @@
+bağlamına oturtmak
+bağlam içinde değerlendirmek
+bağlamsallaştırmak

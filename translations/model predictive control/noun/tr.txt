@@ -1,0 +1,2 @@
+Model Öngörülü Kontrol
+Model Tahmine Dayalı Kontrol

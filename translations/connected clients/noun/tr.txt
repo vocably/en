@@ -1,0 +1,2 @@
+bağlı istemciler
+bağlı müşteriler
