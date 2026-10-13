@@ -1,0 +1,2 @@
+/proc/self/status 檔案
+程序狀態檔案

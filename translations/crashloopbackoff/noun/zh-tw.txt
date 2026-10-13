@@ -1,0 +1,2 @@
+CrashLoopBackOff
+崩潰循環退避

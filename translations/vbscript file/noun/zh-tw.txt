@@ -1,0 +1,2 @@
+VBScript 檔案
+VBScript 文件

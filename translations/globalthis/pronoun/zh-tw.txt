@@ -1,0 +1,2 @@
+globalThis
+全域物件

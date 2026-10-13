@@ -1,0 +1,2 @@
+current = re.start(將正規表示式匹配的起始位置指定給變數 current)
+current = re.start

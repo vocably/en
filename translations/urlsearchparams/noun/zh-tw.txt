@@ -1,0 +1,2 @@
+URLSearchParams 介面
+URL 查詢參數物件

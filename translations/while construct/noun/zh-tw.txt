@@ -1,0 +1,2 @@
+while 迴圈
+while 結構

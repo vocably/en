@@ -1,0 +1,2 @@
+powercfg 電池報告
+powercfg 電池健康報告

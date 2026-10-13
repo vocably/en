@@ -1,0 +1,2 @@
+ECMAScript
+ECMA 腳本語言

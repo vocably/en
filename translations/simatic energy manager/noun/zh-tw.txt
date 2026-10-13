@@ -1,0 +1,2 @@
+SIMATIC 能源管理器
+SIMATIC 能源管理系統

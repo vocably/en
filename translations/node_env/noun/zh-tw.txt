@@ -1,0 +1,2 @@
+NODE_ENV 環境變數
+Node 環境變數

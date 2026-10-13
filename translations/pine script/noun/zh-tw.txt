@@ -1,0 +1,2 @@
+Pine Script 腳本語言
+Pine 腳本

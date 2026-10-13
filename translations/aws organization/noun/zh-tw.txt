@@ -1,0 +1,2 @@
+AWS 組織
+AWS Organizations

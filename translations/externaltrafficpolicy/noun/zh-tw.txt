@@ -1,0 +1,2 @@
+外部流量策略
+externalTrafficPolicy

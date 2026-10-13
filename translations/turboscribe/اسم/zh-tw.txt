@@ -1,0 +1,2 @@
+TurboScribe(AI轉錄服務)
+TurboScribe 語音轉文字服務

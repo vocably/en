@@ -1,0 +1,2 @@
+TriviaQA 資料集
+TriviaQA 問答資料集

@@ -1,0 +1,2 @@
+Trustname 名稱伺服器
+Trustname DNS 伺服器

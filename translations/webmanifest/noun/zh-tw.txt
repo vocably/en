@@ -1,0 +1,2 @@
+網頁應用程式清單
+Web App Manifest

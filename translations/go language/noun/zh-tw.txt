@@ -1,0 +1,2 @@
+Go 語言
+Golang

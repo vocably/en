@@ -1,0 +1,2 @@
+systemctl 指令
+systemctl 命令

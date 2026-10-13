@@ -1,0 +1,2 @@
+目前的 kubeconfig 名稱
+當前 kubeconfig 名稱

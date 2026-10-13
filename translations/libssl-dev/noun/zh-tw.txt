@@ -1,0 +1,2 @@
+libssl-dev(OpenSSL 開發套件)
+OpenSSL 開發函式庫

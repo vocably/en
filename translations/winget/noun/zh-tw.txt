@@ -1,0 +1,2 @@
+winget
+Windows 套件管理員

@@ -1,0 +1,2 @@
+PowerVR圖形處理器
+PowerVR

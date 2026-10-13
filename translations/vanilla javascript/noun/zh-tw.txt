@@ -1,0 +1,2 @@
+原生 JavaScript
+純 JavaScript

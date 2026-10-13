@@ -1,0 +1,2 @@
+console.log 操作
+console.log 輸出操作

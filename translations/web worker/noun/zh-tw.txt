@@ -1,0 +1,2 @@
+網頁工作者
+Web Worker

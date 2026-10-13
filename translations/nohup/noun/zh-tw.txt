@@ -1,0 +1,2 @@
+nohup 指令
+nohup.out 輸出檔

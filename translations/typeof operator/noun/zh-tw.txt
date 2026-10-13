@@ -1,0 +1,2 @@
+typeof 運算子
+typeof 操作符

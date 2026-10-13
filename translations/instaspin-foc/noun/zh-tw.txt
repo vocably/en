@@ -1,0 +1,2 @@
+InstaSPIN-FOC無感測器磁場導向控制技術
+InstaSPIN-FOC無感測磁場導向控制演算法

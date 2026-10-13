@@ -1,0 +1,2 @@
+使用 kubectl 操作
+用 kubectl 管理

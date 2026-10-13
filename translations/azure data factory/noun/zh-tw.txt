@@ -1,0 +1,2 @@
+Azure 資料工廠
+Azure Data Factory

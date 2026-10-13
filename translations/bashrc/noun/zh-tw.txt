@@ -1,0 +1,2 @@
+bashrc 設定檔
+bashrc 檔案

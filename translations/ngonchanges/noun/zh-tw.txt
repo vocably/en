@@ -1,0 +1,2 @@
+ngOnChanges 生命週期鉤子
+ngOnChanges 介面
