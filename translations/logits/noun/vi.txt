@@ -1,0 +1,2 @@
+Logit
+Giá trị logit
