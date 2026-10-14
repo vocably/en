@@ -1,0 +1,2 @@
+cổng mặc định IP
+cổng mặc định

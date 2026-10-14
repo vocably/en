@@ -1,0 +1,2 @@
+định tuyến liên VLAN
+định tuyến giữa các VLAN

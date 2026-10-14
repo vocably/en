@@ -1,0 +1,2 @@
+cổng chuyển mạch
+cổng switch

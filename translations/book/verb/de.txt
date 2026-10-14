@@ -1,0 +1,4 @@
+buchen
+reservieren
+vormerken
+festlegen

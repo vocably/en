@@ -1,0 +1,2 @@
+cấu hình khởi động
+tập tin cấu hình khởi động
