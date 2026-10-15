@@ -1,0 +1,2 @@
+cơ sở dữ liệu ảnh hồ sơ
+cơ sở dữ liệu ảnh chụp khi bị bắt
