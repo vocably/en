@@ -1,0 +1,2 @@
+bộ mã hóa one-hot
+bộ mã hóa một-nóng

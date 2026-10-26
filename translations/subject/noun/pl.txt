@@ -1,0 +1,3 @@
+temat
+przedmiot
+podmiot

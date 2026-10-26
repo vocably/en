@@ -1,0 +1,3 @@
+medir
+calibrar
+evaluar

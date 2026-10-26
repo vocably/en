@@ -1,0 +1,2 @@
+Sai số toàn phương trung bình
+Căn bậc hai của sai số toàn phương trung bình

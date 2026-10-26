@@ -1,0 +1,3 @@
+cajero autom
+	ico
+cajero

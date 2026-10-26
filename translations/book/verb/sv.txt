@@ -1,0 +1,4 @@
+boka
+reservera
+beställa
+anteckna

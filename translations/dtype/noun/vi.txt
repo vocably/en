@@ -1,0 +1,2 @@
+kiểu dữ liệu
+dtype

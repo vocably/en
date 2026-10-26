@@ -1,0 +1,4 @@
+höjd
+höjning
+upphöjning
+elevation

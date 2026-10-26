@@ -1,0 +1,4 @@
+cámara
+sala
+aposento
+recámara

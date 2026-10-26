@@ -1,0 +1,2 @@
+say xe
+bị say xe

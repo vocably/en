@@ -1,0 +1,4 @@
+lanzar
+tirar
+echar
+agitar

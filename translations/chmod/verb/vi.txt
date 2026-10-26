@@ -1,0 +1,2 @@
+thay đổi quyền truy cập
+phân quyền

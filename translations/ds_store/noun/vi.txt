@@ -1,0 +1,2 @@
+Tệp DS_Store
+Tệp tin DS_Store

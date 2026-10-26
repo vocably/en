@@ -1,0 +1,2 @@
+bibliothèque de configuration automatique
+librairie de configuration automatique

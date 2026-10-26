@@ -1,0 +1,4 @@
+enlatado
+grabado
+despedido
+cancelado

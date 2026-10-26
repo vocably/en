@@ -1,0 +1,4 @@
+część
+rola
+strona
+rejon

@@ -1,0 +1,3 @@
+rozmiar
+wielkość
+gabaryt

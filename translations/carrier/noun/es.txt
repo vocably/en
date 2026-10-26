@@ -1,0 +1,4 @@
+portador
+transportista
+compañía
+vehículo
